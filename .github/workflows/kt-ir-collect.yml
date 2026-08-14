@@ -1,0 +1,57 @@
+name: kt-ir-collect
+on:
+  schedule:
+    - cron: "30 9 * * 1"        # KST 월요일 18:30 (UTC 09:30) — 분기 실적 발표 뒤 수집
+  workflow_dispatch:            # 수동 실행
+    inputs:
+      tab:
+        description: "수집 탭 (비워 두면 전체)"
+        required: false
+        default: ""
+      year:
+        description: "연도 필터 (비워 두면 전체)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 의존성 확인
+        run: python3 -c "import urllib.request, json, re, datetime, pathlib, argparse; print('stdlib OK')"
+
+      - name: IR 메타데이터 수집
+        env:
+          TAB: ${{ inputs.tab }}
+          YEAR: ${{ inputs.year }}
+        run: |
+          cd ${{ github.workspace }}
+          if [ -n "$TAB" ]; then
+            python3 collect.py --tab "$TAB${YEAR:+ --year $YEAR}"
+          else
+            python3 collect.py${YEAR:+ --year $YEAR}
+          fi
+
+      - name: 변경된 메타데이터 커밋
+        run: |
+          cd ${{ github.workspace }}
+          if git diff --quiet metadata/ir_metadata.json; then
+            echo "메타데이터 변경 없음 — 건너뛰기"
+            exit 0
+          fi
+          git config user.email "puhapuru@users.noreply.github.com"
+          git config user.name "puhapuru-actions"
+          git add metadata/ir_metadata.json
+          git commit -m "kt-ir: IR 메타데이터 갱신 ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+          git push
