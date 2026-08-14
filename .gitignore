@@ -1,0 +1,26 @@
+# CSV/Excel 원본 데이터
+*.csv
+*.xlsx
+*.xls
+
+# 바이너리 실적자료 (원본 PDF·PPT 등)
+*.pdf
+*.ppt
+*.pptx
+*.hwp
+*.doc
+*.docx
+
+# 중간 산출물·상태
+*.jsonl
+*.state.json
+*.log
+__pycache__/
+.venv/
+env/
+venv/
+
+# 시크릿
+.env
+.env.*
+!.env.example
