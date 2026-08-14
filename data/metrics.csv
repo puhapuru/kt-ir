@@ -1,0 +1,20 @@
+metric_id,name,category,unit,parent_id,description
+revenue_total,영업수익(매출),손익,억원,,연결 기준 총 영업수익
+revenue_wireless,무선 매출,손익,억원,revenue_total,무선(이동통신) 서비스 매출
+revenue_wireline,유선 매출,손익,억원,revenue_total,유선(전화·초고속인터넷) 매출
+revenue_media,미디어 매출,손익,억원,revenue_total,IPTV 등 미디어 매출
+revenue_b2b,기업서비스 매출,손익,억원,revenue_total,AI/DX·기업회선 등 B2B 매출
+revenue_finance,금융 매출,손익,억원,revenue_total,BC카드 등 금융 부문 매출
+opex_total,영업비용,손익,억원,,총 영업비용
+opex_labor,인건비,손익,억원,opex_total,급여·퇴직급여 등 인건비
+opex_depreciation,감가상각비,손익,억원,opex_total,유무형자산 감가상각비
+opex_marketing,마케팅비용,손익,억원,opex_total,광고선전비·판매수수료 등
+operating_profit,영업이익,손익,억원,,
+net_profit,당기순이익,손익,억원,,
+capex_total,CAPEX,투자,억원,,설비투자 집행액
+arpu_wireless,무선 ARPU,영업지표,원,,가입자당 월평균 매출
+subs_wireless,무선 가입자,영업지표,천명,,이동통신 총 가입자
+subs_5g,5G 가입자,영업지표,천명,subs_wireless,
+subs_broadband,초고속인터넷 가입자,영업지표,천명,,
+subs_iptv,IPTV 가입자,영업지표,천명,,
+employees,직원 수,인력,명,,기간말 임직원 수
