@@ -53,6 +53,38 @@ https://corp.kt.com/attach/irdata/<bno>/<saveFileNm>
 
 > **주의**: `/attach/record/<년도>/<파일명>` 패턴은 사용하지 않는다. 200을 반환하지만 실제 파일이 아니라 HTML(1832바이트)이다.
 
+### 옛 실적자료(2021년 이전) 실제 파일 경로
+
+IR 데이터 페이지(`data.html`) API로 조회되는 초창기 항목(bno 60~ 등)은
+목록에는 실존하지만 **실제 파일 다운로드 URL(`/attach/irdata/<bno>/...`)이
+현재 1832바이트 HTML을 반환**한다 — "주의" 절과 같은 함정이다.
+
+2021년(포함) 이전 분기 실적 발표 PDF·XLSX는 아래 **old 실적자료 페이지**에서
+연도 행 → 분기 셀 안의 다운로드 링크로 실제 파일을 받을 수 있다.
+
+- 페이지: `https://m.corp.kt.com/html/investors/resources/earnings_old_data.html`
+- 연도 `<select>`(id=searchYear)에서 목표 연도를 선택한 뒤 표시되는 표에서
+  각 분기 셀의 "다운로드" 링크를 확인한다.
+- URL 호스트/경로가 IR 데이터 페이지 API의 `/attach/irdata/<bno>/...`와 다르다
+  (`/data/attach/<attachNo>/...` 형태).
+
+**실제 파일 다운로드 예 — 2011년(프레젠테이션/NDR 국문)**
+
+| 분기 | 파일명 | 실제 다운로드 URL |
+|------|--------|-------------------|
+| 1Q | `kthp1325772162638.pdf` | `https://m.corp.kt.com/data/attach/207/kthp1325772162638.pdf` |
+| 2Q | `KT_FY11_2Q_Earnings_Kor_FIN.pdf` | `https://m.corp.kt.com/data/attach/207/KT_FY11_2Q_Earnings_Kor_FIN.pdf` |
+| 3Q | `kthp1320663199637.pdf` | `https://m.corp.kt.com/data/attach/207/kthp1320663199637.pdf` |
+| 4Q(PDF) | `kthp132919182992.pdf` | `https://m.corp.kt.com/data/attach/207/kthp132919182992.pdf` |
+| 4Q(XLSX) | `kthp1328489845513.XLSX` | `https://m.corp.kt.com/data/attach/document/kthp1328489845513.XLSX` |
+
+- 크로미움으로 위 페이지를 열어 연도 행을 선택한 뒤 분기 셀의 `download` 링크를
+  클립보드로 얻거나, 위 표처럼 수동 확인해 `collect.py --download` 대안 경로로
+  내려받는다.
+- 내려받은 파일은 `data/`에 임시 저장하며 커밋 대상이 아니다(`.gitignore`).
+- 메타데이터를 보강할 값(bno와 old 페이지 attachNo의 대응 등)은 별도 이슈로 다룬다.
+
+
 ## 메타데이터 스키마
 
 `metadata/ir_metadata.json` 의 항목 하나:
