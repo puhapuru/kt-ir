@@ -67,11 +67,11 @@ check("3분기", CD.period_of(2024, "11014"), "2024Q3")
 
 # ── 재무제표 → facts ──────────────────────────────────────────────────────
 ROWS = [
-    {"account_id": "ifrs-full_Revenue", "account_nm": "수익(매출액)",
+    {"sj_div": "IS", "account_id": "ifrs-full_Revenue", "account_nm": "수익(매출액)",
      "thstrm_amount": "6,500,000,000,000", "thstrm_add_amount": "13,000,000,000,000"},
-    {"account_id": "ifrs-full_Assets", "account_nm": "자산총계",
+    {"sj_div": "BS", "account_id": "ifrs-full_Assets", "account_nm": "자산총계",
      "thstrm_amount": "40,000,000,000,000"},
-    {"account_id": "ifrs-full_Whatever", "account_nm": "모르는계정",
+    {"sj_div": "IS", "account_id": "ifrs-full_Whatever", "account_nm": "모르는계정",
      "thstrm_amount": "1,000"},
 ]
 q = CD.fin_facts(ROWS, "dart_2024_11012_CFS", 2024, "11012", "연결")
@@ -109,6 +109,26 @@ check("급여 단위는 억원", byid["opex_labor_disclosed"]["unit"], "억원")
 check("빈 응답은 빈 결과", CD.emp_facts([], "x", 2024, "11011"), [])
 
 # ── 연도 인자 ─────────────────────────────────────────────────────────────
+# ── 자본변동표(SCE) 중복 걸러내기 ★ ──────────────────────────────────────
+# 2024년 연결 실측: equity_total 이 BS 1줄 + SCE 8줄로 9번, net_profit 이
+# IS·CIS·SCE 합쳐 10번 들어왔다. SCE 는 자본 항목별 증감이라 총계가 아니다.
+DUP = (
+    [{"sj_div": "BS", "account_id": "ifrs-full_Equity", "account_nm": "자본총계",
+      "thstrm_amount": "10,000,000,000,000"}]
+    + [{"sj_div": "SCE", "account_id": "ifrs-full_Equity", "account_nm": "자본총계",
+        "thstrm_amount": "1,000,000,000"} for _ in range(8)]
+    + [{"sj_div": "IS", "account_id": "ifrs-full_ProfitLoss", "account_nm": "당기순이익",
+        "thstrm_amount": "500,000,000,000"},
+       {"sj_div": "CIS", "account_id": "ifrs-full_ProfitLoss", "account_nm": "당기순이익",
+        "thstrm_amount": "500,000,000,000"}]
+)
+dfacts = CD.fin_facts(DUP, "dart_2024_11011_CFS", 2024, "11011", "연결")
+check("SCE 8줄을 걷어내고 자본총계는 한 줄", len(dfacts), 2)
+check("자본총계는 BS 값 (10조 = 100,000억)",
+      next(f["value"] for f in dfacts if f["metric_id"] == "equity_total"), 100000.0)
+check("IS·CIS 중복도 한 줄",
+      sum(1 for f in dfacts if f["metric_id"] == "net_profit"), 1)
+
 check("범위", CD.parse_years("2015-2018"), [2015, 2016, 2017, 2018])
 check("한 해", CD.parse_years("2024"), [2024])
 

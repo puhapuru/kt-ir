@@ -68,6 +68,22 @@ BY_NAME = {
 
 FS_DIV = {"CFS": "연결", "OFS": "별도"}
 
+# **어느 재무제표에서 온 것만 받을지** 정해 둔다. 안 걸러내면 같은 계정이
+# 여러 번 들어온다 — 2024년 연결 실측:
+#
+#     equity_total   BS 1줄 + **자본변동표(SCE) 8줄**  → 9줄
+#     net_profit     IS 1줄 + CIS 1줄 + SCE 8줄        → 10줄
+#
+# SCE(자본변동표)는 자본 항목별 증감을 쪼개 놓은 표라 총계가 아니다. 그대로
+# 담으면 같은 해 자본총계가 9가지 값으로 남아 어느 것이 진짜인지 알 수 없다.
+ALLOWED_SJ = {
+    "assets_total": ("BS",), "liabilities_total": ("BS",), "equity_total": ("BS",),
+    "revenue_total": ("IS", "CIS"), "operating_profit": ("IS", "CIS"),
+    "net_profit": ("IS", "CIS"), "net_profit_controlling": ("IS", "CIS"),
+    "opex_total": ("IS", "CIS"), "opex_labor": ("IS", "CIS"),
+    "opex_depreciation": ("IS", "CIS", "CF"),
+}
+
 
 def map_account(row: dict) -> tuple[str, bool] | None:
     """계정 한 줄 → `(metric_id, 손익인지)`. 지도에 없으면 None."""
@@ -89,11 +105,18 @@ def fin_facts(rows: list[dict], report_id: str, year: int, reprt: str,
     """재무제표 응답 → facts 줄들."""
     out = []
     annual = reprt == "11011"
+    seen: set = set()
     for r in rows:
         hit = map_account(r)
         if hit is None:
             continue
         metric, is_pl = hit
+
+        # 허용된 재무제표에서 온 것만 받는다(위 ALLOWED_SJ 설명 참고).
+        sj = (r.get("sj_div") or "").strip().upper()
+        allowed = ALLOWED_SJ.get(metric)
+        if allowed and sj not in allowed:
+            continue
 
         # 손익은 (그 분기, 누계) 둘 다, 재무상태표는 시점 값 하나.
         cands = [("thstrm_amount", "연간" if annual else "단일분기")]
@@ -104,6 +127,12 @@ def fin_facts(rows: list[dict], report_id: str, year: int, reprt: str,
             v = dart.to_number(r.get(field))
             if v is None:
                 continue
+            # 같은 지표가 IS 와 CIS 에 함께 있는 일이 흔하다. 먼저 온 것만 쓴다
+            # (ALLOWED_SJ 가 IS 를 앞에 두고 있어 IS 가 우선한다).
+            key = (metric, basis)
+            if key in seen:
+                continue
+            seen.add(key)
             out.append({
                 "report_id": report_id,
                 "period": period_of(year, reprt),
