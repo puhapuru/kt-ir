@@ -13,10 +13,10 @@ operating_profit,영업이익,손익,억원,,
 net_profit,당기순이익,손익,억원,,
 capex_total,CAPEX,투자,억원,,설비투자 집행액
 arpu_wireless,무선 ARPU,영업지표,원,,가입자당 월평균 매출
-subs_wireless,무선 가입자,영업지표,천명,,이동통신 총 가입자
-subs_5g,5G 가입자,영업지표,천명,subs_wireless,
-subs_broadband,초고속인터넷 가입자,영업지표,천명,,
-subs_iptv,IPTV 가입자,영업지표,천명,,
+subs_wireless,무선 가입자,영업지표,명,,이동통신 총 가입자
+subs_5g,5G 가입자,영업지표,명,subs_wireless,
+subs_broadband,초고속인터넷 가입자,영업지표,명,,
+subs_iptv,IPTV 가입자,영업지표,명,,
 employees,직원 수,인력,명,,기간말 임직원 수
 revenue_service,서비스 매출,손익,억원,revenue_total,단말 판매를 뺀 서비스 매출
 revenue_goods,상품(단말) 매출,손익,억원,revenue_total,단말기 등 상품 판매 매출
@@ -31,3 +31,8 @@ equity_total,자본총계,재무상태,억원,,
 employees_regular,정규직 수,인력,명,employees,기간의 정함이 없는 근로자
 employees_contract,기간제 수,인력,명,employees,계약직·기간제 근로자
 opex_labor_disclosed,연간급여총액(공시),인력,억원,,사업보고서 직원현황의 급여 총액
+subs_mno,MNO 가입자,영업지표,명,subs_wireless,자사망 이동통신 가입자
+subs_mvno,MVNO 가입자,영업지표,명,subs_wireless,알뜰폰(도매) 가입자
+subs_telephony,유선전화 가입자,영업지표,명,,PSTN+VoIP 합계
+subs_pstn,PSTN 가입자,영업지표,명,subs_telephony,
+subs_voip,VoIP 가입자,영업지표,명,subs_telephony,

@@ -31,9 +31,26 @@ python3 scripts/build_db.py --check       # CSV → SQLite, 끊긴 참조 점검
 python3 scripts/test_period.py            # 기간 파싱 회귀 시험 (인터넷 안 씀)
 ```
 
-지금 담긴 것: **손익·CAPEX 14,636개** (2008~2025, 연결·별도). Financial
-Indicator(XLSX) 59개 분기에서 뽑았다. ARPU·가입자 수는 Factsheet 에 있고
-아직 안 뽑았다.
+```bash
+.venv/bin/python scripts/collect_dart.py --years 2015-2025   # DART (키 필요)
+.venv/bin/python scripts/extract_factsheet.py --report       # 가입자·ARPU
+python3 scripts/crosscheck.py            # DART vs IR 대조
+python3 scripts/test_dart.py             # DART 변환 시험 (키 없이 돈다)
+```
+
+## 어디서 무엇이 오나
+
+| 출처 | 담기는 것 | 기간 |
+|---|---|---|
+| Financial Indicator (XLSX) | 손익·CAPEX | 2008~2025 |
+| **DART OpenAPI** | 재무제표·**직원 수·인건비** | 2015~2025 |
+| IR Factsheet | 가입자 수·ARPU | 2011~2026 |
+
+**DART 를 함께 쓰는 이유** — KT 는 재무제표 본문에 `종업원급여` 를 따로 쓰지
+않는다(`영업비용` 한 덩어리). 인건비는 **사업보고서 직원 현황(`empSttus`)의
+연간급여총액**이 유일한 경로다. IR 자료에는 아예 없다.
+
+`.env` 에 `DART_API_KEY=` 가 필요하다(opendart.fss.or.kr 무료 발급).
 
 ```bash
 sqlite3 build/kt_ir.sqlite \

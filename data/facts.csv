@@ -1,4 +1,66 @@
 report_id,period,period_type,basis,consolidation,accounting,metric_id,label_raw,value,unit,page,confidence
+factsheet_2022-12_10611,2005-01,month,시점,별도,,subs_broadband,Broadband,6087593.0,명,,auto
+factsheet_2022-12_10611,2005-02,month,시점,별도,,subs_broadband,Broadband,6107271.0,명,,auto
+factsheet_2022-12_10611,2005-03,month,시점,별도,,subs_broadband,Broadband,6133293.0,명,,auto
+factsheet_2022-12_10611,2005-04,month,시점,별도,,subs_broadband,Broadband,6147921.0,명,,auto
+factsheet_2022-12_10611,2005-05,month,시점,별도,,subs_broadband,Broadband,6158558.0,명,,auto
+factsheet_2022-12_10611,2005-06,month,시점,별도,,subs_broadband,Broadband,6172475.0,명,,auto
+factsheet_2022-12_10611,2005-07,month,시점,별도,,subs_broadband,Broadband,6193275.0,명,,auto
+factsheet_2022-12_10611,2005-08,month,시점,별도,,subs_broadband,Broadband,6228759.0,명,,auto
+factsheet_2022-12_10611,2005-09,month,시점,별도,,subs_broadband,Broadband,6244040.0,명,,auto
+factsheet_2022-12_10611,2005-10,month,시점,별도,,subs_broadband,Broadband,6240185.0,명,,auto
+factsheet_2022-12_10611,2005-11,month,시점,별도,,subs_broadband,Broadband,6245295.0,명,,auto
+factsheet_2022-12_10611,2005-12,month,시점,별도,,subs_broadband,Broadband,6241789.0,명,,auto
+factsheet_2022-12_10611,2006-01,month,시점,별도,,subs_broadband,Broadband,6269282.0,명,,auto
+factsheet_2022-12_10611,2006-02,month,시점,별도,,subs_broadband,Broadband,6287566.0,명,,auto
+factsheet_2022-12_10611,2006-03,month,시점,별도,,subs_broadband,Broadband,6240605.0,명,,auto
+factsheet_2022-12_10611,2006-04,month,시점,별도,,subs_broadband,Broadband,6260449.0,명,,auto
+factsheet_2022-12_10611,2006-05,month,시점,별도,,subs_broadband,Broadband,6285473.0,명,,auto
+factsheet_2022-12_10611,2006-06,month,시점,별도,,subs_broadband,Broadband,6320260.0,명,,auto
+factsheet_2022-12_10611,2006-07,month,시점,별도,,subs_broadband,Broadband,6319890.0,명,,auto
+factsheet_2022-12_10611,2006-08,month,시점,별도,,subs_broadband,Broadband,6306557.0,명,,auto
+factsheet_2022-12_10611,2006-09,month,시점,별도,,subs_broadband,Broadband,6333119.0,명,,auto
+factsheet_2022-12_10611,2006-10,month,시점,별도,,subs_broadband,Broadband,6348618.0,명,,auto
+factsheet_2022-12_10611,2006-11,month,시점,별도,,subs_broadband,Broadband,6347725.0,명,,auto
+factsheet_2022-12_10611,2006-12,month,시점,별도,,subs_broadband,Broadband,6352542.0,명,,auto
+factsheet_2022-12_10611,2006-12,month,시점,별도,,subs_pstn,PSTN,21288733.0,명,,auto
+factsheet_2022-12_10611,2006-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21288733.0,명,,auto
+factsheet_2022-12_10611,2007-01,month,시점,별도,,subs_broadband,Broadband,6382446.0,명,,auto
+factsheet_2022-12_10611,2007-01,month,시점,별도,,subs_pstn,PSTN,21283255.0,명,,auto
+factsheet_2022-12_10611,2007-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21283255.0,명,,auto
+factsheet_2022-12_10611,2007-02,month,시점,별도,,subs_broadband,Broadband,6413395.0,명,,auto
+factsheet_2022-12_10611,2007-02,month,시점,별도,,subs_pstn,PSTN,21262959.0,명,,auto
+factsheet_2022-12_10611,2007-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21262959.0,명,,auto
+factsheet_2022-12_10611,2007-03,month,시점,별도,,subs_broadband,Broadband,6449729.0,명,,auto
+factsheet_2022-12_10611,2007-03,month,시점,별도,,subs_pstn,PSTN,21263193.0,명,,auto
+factsheet_2022-12_10611,2007-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21263193.0,명,,auto
+factsheet_2022-12_10611,2007-04,month,시점,별도,,subs_broadband,Broadband,6492321.0,명,,auto
+factsheet_2022-12_10611,2007-04,month,시점,별도,,subs_pstn,PSTN,21258615.0,명,,auto
+factsheet_2022-12_10611,2007-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21258615.0,명,,auto
+factsheet_2022-12_10611,2007-05,month,시점,별도,,subs_broadband,Broadband,6515008.0,명,,auto
+factsheet_2022-12_10611,2007-05,month,시점,별도,,subs_pstn,PSTN,21261871.0,명,,auto
+factsheet_2022-12_10611,2007-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21261871.0,명,,auto
+factsheet_2022-12_10611,2007-06,month,시점,별도,,subs_broadband,Broadband,6522631.0,명,,auto
+factsheet_2022-12_10611,2007-06,month,시점,별도,,subs_pstn,PSTN,21237961.0,명,,auto
+factsheet_2022-12_10611,2007-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21237961.0,명,,auto
+factsheet_2022-12_10611,2007-07,month,시점,별도,,subs_broadband,Broadband,6512848.0,명,,auto
+factsheet_2022-12_10611,2007-07,month,시점,별도,,subs_pstn,PSTN,21208449.0,명,,auto
+factsheet_2022-12_10611,2007-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21208449.0,명,,auto
+factsheet_2022-12_10611,2007-08,month,시점,별도,,subs_broadband,Broadband,6511779.0,명,,auto
+factsheet_2022-12_10611,2007-08,month,시점,별도,,subs_pstn,PSTN,21190627.0,명,,auto
+factsheet_2022-12_10611,2007-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21190627.0,명,,auto
+factsheet_2022-12_10611,2007-09,month,시점,별도,,subs_broadband,Broadband,6522080.0,명,,auto
+factsheet_2022-12_10611,2007-09,month,시점,별도,,subs_pstn,PSTN,21184013.0,명,,auto
+factsheet_2022-12_10611,2007-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21184013.0,명,,auto
+factsheet_2022-12_10611,2007-10,month,시점,별도,,subs_broadband,Broadband,6520022.0,명,,auto
+factsheet_2022-12_10611,2007-10,month,시점,별도,,subs_pstn,PSTN,21139207.0,명,,auto
+factsheet_2022-12_10611,2007-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21139207.0,명,,auto
+factsheet_2022-12_10611,2007-11,month,시점,별도,,subs_broadband,Broadband,6513293.0,명,,auto
+factsheet_2022-12_10611,2007-11,month,시점,별도,,subs_pstn,PSTN,21103291.0,명,,auto
+factsheet_2022-12_10611,2007-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),21103291.0,명,,auto
+factsheet_2022-12_10611,2007-12,month,시점,별도,,subs_broadband,Broadband,6515541.0,명,,auto
+factsheet_2022-12_10611,2007-12,month,시점,별도,,subs_pstn,PSTN,20918566.0,명,,auto
+factsheet_2022-12_10611,2007-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20918566.0,명,,auto
 financial_indicator_2011Q4_127,2008,year,연간,별도,,capex_total,Capex,31508.0,억원,,auto
 financial_indicator_2012Q1_133,2008,year,연간,별도,,capex_total,Capex,31508.0,억원,,auto
 financial_indicator_2012Q2_138,2008,year,연간,별도,,capex_total,Capex,31508.0,억원,,auto
@@ -71,6 +133,46 @@ financial_indicator_2013Q1_153,2008,year,연간,별도,K-GAAP / pro forma,revenu
 financial_indicator_2013Q2_158,2008,year,연간,별도,K-GAAP / pro forma,revenue_total,Revenue,189328.0,억원,,auto
 financial_indicator_2013Q3_163,2008,year,연간,별도,K-GAAP / pro forma,revenue_total,Revenue,189328.0,억원,,auto
 financial_indicator_2013Q4_168,2008,year,연간,별도,K-GAAP / pro forma,revenue_total,Revenue,189328.0,억원,,auto
+factsheet_2022-12_10611,2008-01,month,시점,별도,,subs_broadband,Broadband,6518821.0,명,,auto
+factsheet_2022-12_10611,2008-01,month,시점,별도,,subs_pstn,PSTN,20881712.0,명,,auto
+factsheet_2022-12_10611,2008-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20925461.0,명,,auto
+factsheet_2022-12_10611,2008-02,month,시점,별도,,subs_broadband,Broadband,6555162.0,명,,auto
+factsheet_2022-12_10611,2008-02,month,시점,별도,,subs_pstn,PSTN,20841958.0,명,,auto
+factsheet_2022-12_10611,2008-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20889729.0,명,,auto
+factsheet_2022-12_10611,2008-03,month,시점,별도,,subs_broadband,Broadband,6627175.0,명,,auto
+factsheet_2022-12_10611,2008-03,month,시점,별도,,subs_pstn,PSTN,20818173.0,명,,auto
+factsheet_2022-12_10611,2008-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20881253.0,명,,auto
+factsheet_2022-12_10611,2008-04,month,시점,별도,,subs_broadband,Broadband,6648047.0,명,,auto
+factsheet_2022-12_10611,2008-04,month,시점,별도,,subs_pstn,PSTN,20779052.0,명,,auto
+factsheet_2022-12_10611,2008-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20850588.0,명,,auto
+factsheet_2022-12_10611,2008-05,month,시점,별도,,subs_broadband,Broadband,6684230.0,명,,auto
+factsheet_2022-12_10611,2008-05,month,시점,별도,,subs_pstn,PSTN,20762133.0,명,,auto
+factsheet_2022-12_10611,2008-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20845500.0,명,,auto
+factsheet_2022-12_10611,2008-06,month,시점,별도,,subs_broadband,Broadband,6687147.0,명,,auto
+factsheet_2022-12_10611,2008-06,month,시점,별도,,subs_pstn,PSTN,20741311.0,명,,auto
+factsheet_2022-12_10611,2008-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20944142.0,명,,auto
+factsheet_2022-12_10611,2008-07,month,시점,별도,,subs_broadband,Broadband,6741946.0,명,,auto
+factsheet_2022-12_10611,2008-07,month,시점,별도,,subs_pstn,PSTN,20694985.0,명,,auto
+factsheet_2022-12_10611,2008-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20909938.0,명,,auto
+factsheet_2022-12_10611,2008-08,month,시점,별도,,subs_broadband,Broadband,6811107.0,명,,auto
+factsheet_2022-12_10611,2008-08,month,시점,별도,,subs_pstn,PSTN,20672754.0,명,,auto
+factsheet_2022-12_10611,2008-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20903843.0,명,,auto
+factsheet_2022-12_10611,2008-09,month,시점,별도,,subs_broadband,Broadband,6754027.0,명,,auto
+factsheet_2022-12_10611,2008-09,month,시점,별도,,subs_pstn,PSTN,20620605.0,명,,auto
+factsheet_2022-12_10611,2008-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20881767.0,명,,auto
+factsheet_2022-12_10611,2008-10,month,시점,별도,,subs_broadband,Broadband,6793156.0,명,,auto
+factsheet_2022-12_10611,2008-10,month,시점,별도,,subs_pstn,PSTN,20572979.0,명,,auto
+factsheet_2022-12_10611,2008-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20875611.0,명,,auto
+factsheet_2022-12_10611,2008-11,month,시점,별도,,subs_broadband,Broadband,6771374.0,명,,auto
+factsheet_2022-12_10611,2008-11,month,시점,별도,,subs_pstn,PSTN,20491267.0,명,,auto
+factsheet_2022-12_10611,2008-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20807879.0,명,,auto
+factsheet_2022-12_10611,2008-12,month,시점,별도,,subs_broadband,Broadband,6711538.0,명,,auto
+factsheet_2022-12_10611,2008-12,month,시점,별도,,subs_pstn,PSTN,19866278.0,명,,auto
+factsheet_2022-12_10611,2008-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20194006.0,명,,auto
+factsheet_2022-12_10611,2008Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,14085444.0,명,,auto
+factsheet_2022-12_10611,2008Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,14367165.0,명,,auto
+factsheet_2022-12_10611,2008Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,14430594.0,명,,auto
+factsheet_2022-12_10611,2008Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,14525655.0,명,,auto
 financial_indicator_2011Q4_127,2009,year,연간,별도,,capex_total,Capex,29587.0,억원,,auto
 financial_indicator_2012Q1_133,2009,year,연간,별도,,capex_total,Capex,29587.0,억원,,auto
 financial_indicator_2012Q2_138,2009,year,연간,별도,,capex_total,Capex,29587.0,억원,,auto
@@ -143,6 +245,51 @@ financial_indicator_2013Q1_153,2009,year,연간,별도,,revenue_total,Revenue,18
 financial_indicator_2013Q2_158,2009,year,연간,별도,,revenue_total,Revenue,189558.0,억원,,auto
 financial_indicator_2013Q3_163,2009,year,연간,별도,,revenue_total,Revenue,189558.0,억원,,auto
 financial_indicator_2013Q4_168,2009,year,연간,별도,,revenue_total,Revenue,189558.0,억원,,auto
+factsheet_2022-12_10611,2009-01,month,시점,별도,,subs_broadband,Broadband,6683979.0,명,,auto
+factsheet_2022-12_10611,2009-01,month,시점,별도,,subs_pstn,PSTN,19749052.0,명,,auto
+factsheet_2022-12_10611,2009-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20070939.0,명,,auto
+factsheet_2022-12_10611,2009-02,month,시점,별도,,subs_broadband,Broadband,6682793.0,명,,auto
+factsheet_2022-12_10611,2009-02,month,시점,별도,,subs_pstn,PSTN,19624941.0,명,,auto
+factsheet_2022-12_10611,2009-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),20008614.0,명,,auto
+factsheet_2022-12_10611,2009-03,month,시점,별도,,subs_broadband,Broadband,6714405.0,명,,auto
+factsheet_2022-12_10611,2009-03,month,시점,별도,,subs_pstn,PSTN,19467651.0,명,,auto
+factsheet_2022-12_10611,2009-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19972226.0,명,,auto
+factsheet_2022-12_10611,2009-04,month,시점,별도,,subs_broadband,Broadband,6756487.0,명,,auto
+factsheet_2022-12_10611,2009-04,month,시점,별도,,subs_pstn,PSTN,19329560.0,명,,auto
+factsheet_2022-12_10611,2009-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19896700.0,명,,auto
+factsheet_2022-12_10611,2009-05,month,시점,별도,,subs_broadband,Broadband,6749362.0,명,,auto
+factsheet_2022-12_10611,2009-05,month,시점,별도,,subs_pstn,PSTN,19209748.0,명,,auto
+factsheet_2022-12_10611,2009-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19858721.0,명,,auto
+factsheet_2022-12_10611,2009-06,month,시점,별도,,subs_broadband,Broadband,6738094.0,명,,auto
+factsheet_2022-12_10611,2009-06,month,시점,별도,,subs_pstn,PSTN,19057189.0,명,,auto
+factsheet_2022-12_10611,2009-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19852150.0,명,,auto
+factsheet_2022-12_10611,2009-07,month,시점,별도,,subs_broadband,Broadband,6756701.0,명,,auto
+factsheet_2022-12_10611,2009-07,month,시점,별도,,subs_pstn,PSTN,18882180.0,명,,auto
+factsheet_2022-12_10611,2009-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19834176.0,명,,auto
+factsheet_2022-12_10611,2009-08,month,시점,별도,,subs_broadband,Broadband,6769580.0,명,,auto
+factsheet_2022-12_10611,2009-08,month,시점,별도,,subs_pstn,PSTN,18742711.0,명,,auto
+factsheet_2022-12_10611,2009-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19790746.0,명,,auto
+factsheet_2022-12_10611,2009-08,month,시점,별도,,subs_voip,VoIP,1048035.0,명,,auto
+factsheet_2022-12_10611,2009-09,month,시점,별도,,subs_broadband,Broadband,6818080.0,명,,auto
+factsheet_2022-12_10611,2009-09,month,시점,별도,,subs_pstn,PSTN,18549554.0,명,,auto
+factsheet_2022-12_10611,2009-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19818601.0,명,,auto
+factsheet_2022-12_10611,2009-09,month,시점,별도,,subs_voip,VoIP,1269047.0,명,,auto
+factsheet_2022-12_10611,2009-10,month,시점,별도,,subs_broadband,Broadband,6862156.0,명,,auto
+factsheet_2022-12_10611,2009-10,month,시점,별도,,subs_pstn,PSTN,18390049.0,명,,auto
+factsheet_2022-12_10611,2009-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19792693.0,명,,auto
+factsheet_2022-12_10611,2009-10,month,시점,별도,,subs_voip,VoIP,1402644.0,명,,auto
+factsheet_2022-12_10611,2009-11,month,시점,별도,,subs_broadband,Broadband,6938573.0,명,,auto
+factsheet_2022-12_10611,2009-11,month,시점,별도,,subs_pstn,PSTN,18226515.0,명,,auto
+factsheet_2022-12_10611,2009-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19870990.0,명,,auto
+factsheet_2022-12_10611,2009-11,month,시점,별도,,subs_voip,VoIP,1644475.0,명,,auto
+factsheet_2022-12_10611,2009-12,month,시점,별도,,subs_broadband,Broadband,6952833.0,명,,auto
+factsheet_2022-12_10611,2009-12,month,시점,별도,,subs_pstn,PSTN,18052168.0,명,,auto
+factsheet_2022-12_10611,2009-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19753406.0,명,,auto
+factsheet_2022-12_10611,2009-12,month,시점,별도,,subs_voip,VoIP,1701238.0,명,,auto
+factsheet_2022-12_10611,2009Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,14731360.0,명,,auto
+factsheet_2022-12_10611,2009Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,14931277.0,명,,auto
+factsheet_2022-12_10611,2009Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,15159258.0,명,,auto
+factsheet_2022-12_10611,2009Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,15303172.0,명,,auto
 financial_indicator_2011Q4_127,2010,year,연간,별도,,capex_total,Capex,30572.0,억원,,auto
 financial_indicator_2011Q4_127,2010,year,연간,별도,,capex_total,Capex,30572.0,억원,,auto
 financial_indicator_2012Q1_133,2010,year,연간,별도,,capex_total,Capex,30572.0,억원,,auto
@@ -455,6 +602,58 @@ financial_indicator_2014Q4_188,2010,year,연간,연결,K-IFRS,revenue_total,Reve
 financial_indicator_2015Q1_193,2010,year,연간,연결,K-IFRS,revenue_total,Revenue,200093.5,억원,,auto
 financial_indicator_2015Q2_198,2010,year,연간,연결,K-IFRS,revenue_total,Revenue,200093.5,억원,,auto
 financial_indicator_2015Q3_203,2010,year,연간,연결,K-IFRS,revenue_total,Revenue,200093.5,억원,,auto
+factsheet_2022-12_10611,2010-01,month,시점,별도,,subs_broadband,Broadband,6966902.0,명,,auto
+factsheet_2022-12_10611,2010-01,month,시점,별도,,subs_pstn,PSTN,17911368.0,명,,auto
+factsheet_2022-12_10611,2010-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19661592.0,명,,auto
+factsheet_2022-12_10611,2010-01,month,시점,별도,,subs_voip,VoIP,1750224.0,명,,auto
+factsheet_2022-12_10611,2010-02,month,시점,별도,,subs_broadband,Broadband,7014100.0,명,,auto
+factsheet_2022-12_10611,2010-02,month,시점,별도,,subs_pstn,PSTN,17768453.0,명,,auto
+factsheet_2022-12_10611,2010-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19619780.0,명,,auto
+factsheet_2022-12_10611,2010-02,month,시점,별도,,subs_voip,VoIP,1851327.0,명,,auto
+factsheet_2022-12_10611,2010-03,month,시점,별도,,subs_broadband,Broadband,7090222.0,명,,auto
+factsheet_2022-12_10611,2010-03,month,시점,별도,,subs_pstn,PSTN,17614386.0,명,,auto
+factsheet_2022-12_10611,2010-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19586251.0,명,,auto
+factsheet_2022-12_10611,2010-03,month,시점,별도,,subs_voip,VoIP,1971865.0,명,,auto
+factsheet_2022-12_10611,2010-04,month,시점,별도,,subs_broadband,Broadband,7130958.0,명,,auto
+factsheet_2022-12_10611,2010-04,month,시점,별도,,subs_pstn,PSTN,17488240.0,명,,auto
+factsheet_2022-12_10611,2010-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19558887.0,명,,auto
+factsheet_2022-12_10611,2010-04,month,시점,별도,,subs_voip,VoIP,2070647.0,명,,auto
+factsheet_2022-12_10611,2010-05,month,시점,별도,,subs_broadband,Broadband,7165737.0,명,,auto
+factsheet_2022-12_10611,2010-05,month,시점,별도,,subs_pstn,PSTN,17380944.0,명,,auto
+factsheet_2022-12_10611,2010-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19534916.0,명,,auto
+factsheet_2022-12_10611,2010-05,month,시점,별도,,subs_voip,VoIP,2153972.0,명,,auto
+factsheet_2022-12_10611,2010-06,month,시점,별도,,subs_broadband,Broadband,7188640.0,명,,auto
+factsheet_2022-12_10611,2010-06,month,시점,별도,,subs_pstn,PSTN,17254741.0,명,,auto
+factsheet_2022-12_10611,2010-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19476519.0,명,,auto
+factsheet_2022-12_10611,2010-06,month,시점,별도,,subs_voip,VoIP,2221778.0,명,,auto
+factsheet_2022-12_10611,2010-07,month,시점,별도,,subs_broadband,Broadband,7222369.0,명,,auto
+factsheet_2022-12_10611,2010-07,month,시점,별도,,subs_pstn,PSTN,17137500.0,명,,auto
+factsheet_2022-12_10611,2010-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19431019.0,명,,auto
+factsheet_2022-12_10611,2010-07,month,시점,별도,,subs_voip,VoIP,2293519.0,명,,auto
+factsheet_2022-12_10611,2010-08,month,시점,별도,,subs_broadband,Broadband,7263540.0,명,,auto
+factsheet_2022-12_10611,2010-08,month,시점,별도,,subs_pstn,PSTN,17040736.0,명,,auto
+factsheet_2022-12_10611,2010-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19417891.0,명,,auto
+factsheet_2022-12_10611,2010-08,month,시점,별도,,subs_voip,VoIP,2377155.0,명,,auto
+factsheet_2022-12_10611,2010-09,month,시점,별도,,subs_broadband,Broadband,7314768.0,명,,auto
+factsheet_2022-12_10611,2010-09,month,시점,별도,,subs_pstn,PSTN,16941733.0,명,,auto
+factsheet_2022-12_10611,2010-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19431876.0,명,,auto
+factsheet_2022-12_10611,2010-09,month,시점,별도,,subs_voip,VoIP,2490143.0,명,,auto
+factsheet_2022-12_10611,2010-10,month,시점,별도,,subs_broadband,Broadband,7363050.0,명,,auto
+factsheet_2022-12_10611,2010-10,month,시점,별도,,subs_pstn,PSTN,16848503.0,명,,auto
+factsheet_2022-12_10611,2010-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19429759.0,명,,auto
+factsheet_2022-12_10611,2010-10,month,시점,별도,,subs_voip,VoIP,2581256.0,명,,auto
+factsheet_2022-12_10611,2010-11,month,시점,별도,,subs_broadband,Broadband,7401598.0,명,,auto
+factsheet_2022-12_10611,2010-11,month,시점,별도,,subs_pstn,PSTN,16740262.0,명,,auto
+factsheet_2022-12_10611,2010-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19412960.0,명,,auto
+factsheet_2022-12_10611,2010-11,month,시점,별도,,subs_voip,VoIP,2672698.0,명,,auto
+factsheet_2022-12_10611,2010-12,month,시점,별도,,subs_broadband,Broadband,7423607.0,명,,auto
+factsheet_2022-12_10611,2010-12,month,시점,별도,,subs_pstn,PSTN,16634607.0,명,,auto
+factsheet_2022-12_10611,2010-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19358646.0,명,,auto
+factsheet_2022-12_10611,2010-12,month,시점,별도,,subs_voip,VoIP,2724039.0,명,,auto
+factsheet_2022-12_10611,2010Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,15679283.0,명,,auto
+factsheet_2022-12_10611,2010Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,15927956.0,명,,auto
+factsheet_2022-12_10611,2010Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,16179166.0,명,,auto
+factsheet_2022-12_10611,2010Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,16417475.0,명,,auto
 financial_indicator_2011Q4_127,2011,year,연간,별도,,capex_total,Capex,33185.0,억원,,auto
 financial_indicator_2012Q1_133,2011,year,연간,별도,,capex_total,Capex,33185.0,억원,,auto
 financial_indicator_2012Q2_138,2011,year,연간,별도,,capex_total,Capex,33185.0,억원,,auto
@@ -695,6 +894,58 @@ financial_indicator_2014Q4_188,2011,year,연간,연결,K-IFRS,revenue_total,Reve
 financial_indicator_2015Q1_193,2011,year,연간,연결,K-IFRS,revenue_total,Revenue,212579.1,억원,,auto
 financial_indicator_2015Q2_198,2011,year,연간,연결,K-IFRS,revenue_total,Revenue,212579.1,억원,,auto
 financial_indicator_2015Q3_203,2011,year,연간,연결,K-IFRS,revenue_total,Revenue,212579.1,억원,,auto
+factsheet_2022-12_10611,2011-01,month,시점,별도,,subs_broadband,Broadband,7456261.0,명,,auto
+factsheet_2022-12_10611,2011-01,month,시점,별도,,subs_pstn,PSTN,16561335.0,명,,auto
+factsheet_2022-12_10611,2011-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19357973.0,명,,auto
+factsheet_2022-12_10611,2011-01,month,시점,별도,,subs_voip,VoIP,2796638.0,명,,auto
+factsheet_2022-12_10611,2011-02,month,시점,별도,,subs_broadband,Broadband,7497590.0,명,,auto
+factsheet_2022-12_10611,2011-02,month,시점,별도,,subs_pstn,PSTN,16510511.0,명,,auto
+factsheet_2022-12_10611,2011-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19372698.0,명,,auto
+factsheet_2022-12_10611,2011-02,month,시점,별도,,subs_voip,VoIP,2862187.0,명,,auto
+factsheet_2022-12_10611,2011-03,month,시점,별도,,subs_broadband,Broadband,7552180.0,명,,auto
+factsheet_2022-12_10611,2011-03,month,시점,별도,,subs_pstn,PSTN,16453453.0,명,,auto
+factsheet_2022-12_10611,2011-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19385645.0,명,,auto
+factsheet_2022-12_10611,2011-03,month,시점,별도,,subs_voip,VoIP,2932192.0,명,,auto
+factsheet_2022-12_10611,2011-04,month,시점,별도,,subs_broadband,Broadband,7587676.0,명,,auto
+factsheet_2022-12_10611,2011-04,month,시점,별도,,subs_pstn,PSTN,16376802.0,명,,auto
+factsheet_2022-12_10611,2011-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19356460.0,명,,auto
+factsheet_2022-12_10611,2011-04,month,시점,별도,,subs_voip,VoIP,2979658.0,명,,auto
+factsheet_2022-12_10611,2011-05,month,시점,별도,,subs_broadband,Broadband,7601797.0,명,,auto
+factsheet_2022-12_10611,2011-05,month,시점,별도,,subs_pstn,PSTN,16300792.0,명,,auto
+factsheet_2022-12_10611,2011-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19300289.0,명,,auto
+factsheet_2022-12_10611,2011-05,month,시점,별도,,subs_voip,VoIP,2999497.0,명,,auto
+factsheet_2022-12_10611,2011-06,month,시점,별도,,subs_broadband,Broadband,7629148.0,명,,auto
+factsheet_2022-12_10611,2011-06,month,시점,별도,,subs_pstn,PSTN,16234283.0,명,,auto
+factsheet_2022-12_10611,2011-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19272170.0,명,,auto
+factsheet_2022-12_10611,2011-06,month,시점,별도,,subs_voip,VoIP,3037887.0,명,,auto
+factsheet_2022-12_10611,2011-07,month,시점,별도,,subs_broadband,Broadband,7657434.0,명,,auto
+factsheet_2022-12_10611,2011-07,month,시점,별도,,subs_pstn,PSTN,16170550.0,명,,auto
+factsheet_2022-12_10611,2011-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19244552.0,명,,auto
+factsheet_2022-12_10611,2011-07,month,시점,별도,,subs_voip,VoIP,3074002.0,명,,auto
+factsheet_2022-12_10611,2011-08,month,시점,별도,,subs_broadband,Broadband,7688277.0,명,,auto
+factsheet_2022-12_10611,2011-08,month,시점,별도,,subs_pstn,PSTN,16113247.0,명,,auto
+factsheet_2022-12_10611,2011-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19231345.0,명,,auto
+factsheet_2022-12_10611,2011-08,month,시점,별도,,subs_voip,VoIP,3118098.0,명,,auto
+factsheet_2022-12_10611,2011-09,month,시점,별도,,subs_broadband,Broadband,7724432.0,명,,auto
+factsheet_2022-12_10611,2011-09,month,시점,별도,,subs_pstn,PSTN,16071071.0,명,,auto
+factsheet_2022-12_10611,2011-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19227330.0,명,,auto
+factsheet_2022-12_10611,2011-09,month,시점,별도,,subs_voip,VoIP,3156259.0,명,,auto
+factsheet_2022-12_10611,2011-10,month,시점,별도,,subs_broadband,Broadband,7759208.0,명,,auto
+factsheet_2022-12_10611,2011-10,month,시점,별도,,subs_pstn,PSTN,16028465.0,명,,auto
+factsheet_2022-12_10611,2011-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19215426.0,명,,auto
+factsheet_2022-12_10611,2011-10,month,시점,별도,,subs_voip,VoIP,3186961.0,명,,auto
+factsheet_2022-12_10611,2011-11,month,시점,별도,,subs_broadband,Broadband,7791784.0,명,,auto
+factsheet_2022-12_10611,2011-11,month,시점,별도,,subs_pstn,PSTN,15983650.0,명,,auto
+factsheet_2022-12_10611,2011-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19202551.0,명,,auto
+factsheet_2022-12_10611,2011-11,month,시점,별도,,subs_voip,VoIP,3218901.0,명,,auto
+factsheet_2022-12_10611,2011-12,month,시점,별도,,subs_broadband,Broadband,7822844.0,명,,auto
+factsheet_2022-12_10611,2011-12,month,시점,별도,,subs_pstn,PSTN,15929407.0,명,,auto
+factsheet_2022-12_10611,2011-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19159384.0,명,,auto
+factsheet_2022-12_10611,2011-12,month,시점,별도,,subs_voip,VoIP,3229977.0,명,,auto
+factsheet_2022-12_10611,2011Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,16725524.0,명,,auto
+factsheet_2022-12_10611,2011Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,16776421.0,명,,auto
+factsheet_2022-12_10611,2011Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,17042149.0,명,,auto
+factsheet_2022-12_10611,2011Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,17307292.0,명,,auto
 financial_indicator_2015Q4_208,2012,year,연간,별도,,capex_access,- Access Network,24746.0,억원,,auto
 financial_indicator_2016Q1_213,2012,year,연간,별도,,capex_access,- Access Network,24746.0,억원,,auto
 financial_indicator_2016Q2_218,2012,year,연간,별도,,capex_access,- Access Network,24746.0,억원,,auto
@@ -1346,6 +1597,60 @@ financial_indicator_2019Q1_10198,2012,year,연간,연결,K-IFRS,revenue_total,Re
 financial_indicator_2019Q2_10230,2012,year,연간,연결,K-IFRS,revenue_total,Revenue,237902.9,억원,,auto
 financial_indicator_2019Q3_10246,2012,year,연간,연결,K-IFRS,revenue_total,Revenue,237902.9,억원,,auto
 financial_indicator_2019Q4_10284,2012,year,연간,연결,K-IFRS,revenue_total,Revenue,237902.9,억원,,auto
+factsheet_2022-12_10611,2012-01,month,시점,별도,,subs_broadband,Broadband,7845920.0,명,,auto
+factsheet_2022-12_10611,2012-01,month,시점,별도,,subs_pstn,PSTN,15872529.0,명,,auto
+factsheet_2022-12_10611,2012-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19118722.0,명,,auto
+factsheet_2022-12_10611,2012-01,month,시점,별도,,subs_voip,VoIP,3246193.0,명,,auto
+factsheet_2022-12_10611,2012-02,month,시점,별도,,subs_broadband,Broadband,7881042.0,명,,auto
+factsheet_2022-12_10611,2012-02,month,시점,별도,,subs_pstn,PSTN,15822148.0,명,,auto
+factsheet_2022-12_10611,2012-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19094584.0,명,,auto
+factsheet_2022-12_10611,2012-02,month,시점,별도,,subs_voip,VoIP,3272436.0,명,,auto
+factsheet_2022-12_10611,2012-03,month,시점,별도,,subs_broadband,Broadband,7921540.0,명,,auto
+factsheet_2022-12_10611,2012-03,month,시점,별도,,subs_pstn,PSTN,15770730.0,명,,auto
+factsheet_2022-12_10611,2012-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19065104.0,명,,auto
+factsheet_2022-12_10611,2012-03,month,시점,별도,,subs_voip,VoIP,3294374.0,명,,auto
+factsheet_2022-12_10611,2012-04,month,시점,별도,,subs_broadband,Broadband,7935867.0,명,,auto
+factsheet_2022-12_10611,2012-04,month,시점,별도,,subs_pstn,PSTN,15720205.0,명,,auto
+factsheet_2022-12_10611,2012-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),19023879.0,명,,auto
+factsheet_2022-12_10611,2012-04,month,시점,별도,,subs_voip,VoIP,3303674.0,명,,auto
+factsheet_2022-12_10611,2012-05,month,시점,별도,,subs_broadband,Broadband,7944832.0,명,,auto
+factsheet_2012-05_434,2012-05,month,시점,별도,,subs_pstn,PSTN,15670449.0,명,,auto
+factsheet_2022-12_10611,2012-05,month,시점,별도,,subs_pstn,PSTN,15678157.0,명,,auto
+factsheet_2012-05_434,2012-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18987637.0,명,,auto
+factsheet_2022-12_10611,2012-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18995345.0,명,,auto
+factsheet_2022-12_10611,2012-05,month,시점,별도,,subs_voip,VoIP,3317188.0,명,,auto
+factsheet_2022-12_10611,2012-06,month,시점,별도,,subs_broadband,Broadband,7966681.0,명,,auto
+factsheet_2022-12_10611,2012-06,month,시점,별도,,subs_pstn,PSTN,15630429.0,명,,auto
+factsheet_2012-07_439,2012-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18956701.0,명,,auto
+factsheet_2022-12_10611,2012-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18956703.0,명,,auto
+factsheet_2012-07_439,2012-06,month,시점,별도,,subs_voip,VoIP,3326272.0,명,,auto
+factsheet_2022-12_10611,2012-06,month,시점,별도,,subs_voip,VoIP,3326274.0,명,,auto
+factsheet_2022-12_10611,2012-07,month,시점,별도,,subs_broadband,Broadband,7980317.0,명,,auto
+factsheet_2022-12_10611,2012-07,month,시점,별도,,subs_pstn,PSTN,15577182.0,명,,auto
+factsheet_2012-07_439,2012-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18910706.0,명,,auto
+factsheet_2022-12_10611,2012-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18910630.0,명,,auto
+factsheet_2012-07_439,2012-07,month,시점,별도,,subs_voip,VoIP,3333524.0,명,,auto
+factsheet_2022-12_10611,2012-07,month,시점,별도,,subs_voip,VoIP,3333448.0,명,,auto
+factsheet_2022-12_10611,2012-08,month,시점,별도,,subs_broadband,Broadband,8001299.0,명,,auto
+factsheet_2022-12_10611,2012-08,month,시점,별도,,subs_pstn,PSTN,15527274.0,명,,auto
+factsheet_2022-12_10611,2012-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18866290.0,명,,auto
+factsheet_2022-12_10611,2012-08,month,시점,별도,,subs_voip,VoIP,3339016.0,명,,auto
+factsheet_2022-12_10611,2012-09,month,시점,별도,,subs_broadband,Broadband,8009415.0,명,,auto
+factsheet_2022-12_10611,2012-09,month,시점,별도,,subs_pstn,PSTN,15492794.0,명,,auto
+factsheet_2022-12_10611,2012-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18836931.0,명,,auto
+factsheet_2022-12_10611,2012-09,month,시점,별도,,subs_voip,VoIP,3344137.0,명,,auto
+factsheet_2022-12_10611,2012-10,month,시점,별도,,subs_broadband,Broadband,8017174.0,명,,auto
+factsheet_2022-12_10611,2012-10,month,시점,별도,,subs_pstn,PSTN,15423931.0,명,,auto
+factsheet_2022-12_10611,2012-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18772441.0,명,,auto
+factsheet_2022-12_10611,2012-10,month,시점,별도,,subs_voip,VoIP,3348510.0,명,,auto
+factsheet_2022-12_10611,2012-11,month,시점,별도,,subs_broadband,Broadband,8031695.0,명,,auto
+factsheet_2022-12_10611,2012-11,month,시점,별도,,subs_pstn,PSTN,15373533.0,명,,auto
+factsheet_2022-12_10611,2012-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18723650.0,명,,auto
+factsheet_2022-12_10611,2012-11,month,시점,별도,,subs_voip,VoIP,3350117.0,명,,auto
+factsheet_2022-12_10611,2012-12,month,시점,별도,,subs_broadband,Broadband,8036639.0,명,,auto
+factsheet_2022-12_10611,2012-12,month,시점,별도,,subs_pstn,PSTN,15318292.0,명,,auto
+factsheet_2022-12_10611,2012-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18665934.0,명,,auto
+factsheet_2022-12_10611,2012-12,month,시점,별도,,subs_voip,VoIP,3347642.0,명,,auto
 financial_indicator_2012Q4_148,2012Q1,quarter,단일분기,별도,,capex_total,Capex,8974.0,억원,,auto
 financial_indicator_2012Q1_133,2012Q1,quarter,단일분기,별도,K-IFRS,ebitda,EBITDA,12404.0,억원,,auto
 financial_indicator_2012Q2_138,2012Q1,quarter,단일분기,별도,K-IFRS,ebitda,EBITDA,12404.0,억원,,auto
@@ -1375,6 +1680,7 @@ financial_indicator_2012Q1_133,2012Q1,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2012Q2_138,2012Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,46453.0,억원,,auto
 financial_indicator_2012Q3_143,2012Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,46453.0,억원,,auto
 financial_indicator_2012Q4_148,2012Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,46010.0,억원,,auto
+factsheet_2022-12_10611,2012Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,17434752.0,명,,auto
 financial_indicator_2012Q1_133,2012Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,13380.0,억원,,auto
 financial_indicator_2012Q2_138,2012Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,13380.0,억원,,auto
 financial_indicator_2012Q3_143,2012Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,13380.0,억원,,auto
@@ -1425,6 +1731,7 @@ financial_indicator_2012Q4_148,2012Q2,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2012Q2_138,2012Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,46339.0,억원,,auto
 financial_indicator_2012Q3_143,2012Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,46339.0,억원,,auto
 financial_indicator_2012Q4_148,2012Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,45748.0,억원,,auto
+factsheet_2022-12_10611,2012Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,17389462.0,명,,auto
 financial_indicator_2012Q2_138,2012Q2,quarter,단일분기,연결,,ebitda,EBITDA,11450.0,억원,,auto
 financial_indicator_2012Q3_143,2012Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11450.0,억원,,auto
 financial_indicator_2012Q4_148,2012Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11224.0,억원,,auto
@@ -1461,6 +1768,7 @@ financial_indicator_2012Q3_143,2012Q3,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2012Q4_148,2012Q3,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,36388.0,억원,,auto
 financial_indicator_2012Q3_143,2012Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,51613.0,억원,,auto
 financial_indicator_2012Q4_148,2012Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,49406.0,억원,,auto
+factsheet_2022-12_10611,2012Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,17416396.0,명,,auto
 financial_indicator_2012Q3_143,2012Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,14128.0,억원,,auto
 financial_indicator_2012Q4_148,2012Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11041.0,억원,,auto
 financial_indicator_2012Q3_143,2012Q3,quarter,단일분기,연결,K-IFRS,net_profit,Net Income,3723.0,억원,,auto
@@ -1483,6 +1791,7 @@ financial_indicator_2012Q4_148,2012Q4,quarter,단일분기,별도,,opex_deprecia
 financial_indicator_2012Q4_148,2012Q4,quarter,단일분기,별도,K-IFRS,revenue_goods,- Merchandise,11844.0,억원,,auto
 financial_indicator_2012Q4_148,2012Q4,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,35624.0,억원,,auto
 financial_indicator_2012Q4_148,2012Q4,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,47469.0,억원,,auto
+factsheet_2022-12_10611,2012Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,17435949.0,명,,auto
 financial_indicator_2012Q4_148,2012Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,9083.0,억원,,auto
 financial_indicator_2012Q4_148,2012Q4,quarter,단일분기,연결,K-IFRS,net_profit,Net Income,936.0,억원,,auto
 financial_indicator_2012Q4_148,2012Q4,quarter,단일분기,연결,K-IFRS,net_profit_controlling,Net income attributable to KT,916.0,억원,,auto
@@ -2066,6 +2375,59 @@ financial_indicator_2019Q1_10198,2013,year,연간,연결,K-IFRS,revenue_total,Re
 financial_indicator_2019Q2_10230,2013,year,연간,연결,K-IFRS,revenue_total,Revenue,238106.23,억원,,auto
 financial_indicator_2019Q3_10246,2013,year,연간,연결,K-IFRS,revenue_total,Revenue,238106.23,억원,,auto
 financial_indicator_2019Q4_10284,2013,year,연간,연결,K-IFRS,revenue_total,Revenue,238106.23,억원,,auto
+factsheet_2022-12_10611,2013-01,month,시점,별도,,subs_broadband,Broadband,8046876.0,명,,auto
+factsheet_2022-12_10611,2013-01,month,시점,별도,,subs_pstn,PSTN,15247542.0,명,,auto
+factsheet_2013-01_449,2013-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18595184.0,명,,auto
+factsheet_2022-12_10611,2013-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18610872.0,명,,auto
+factsheet_2022-12_10611,2013-01,month,시점,별도,,subs_voip,VoIP,3363330.0,명,,auto
+factsheet_2022-12_10611,2013-02,month,시점,별도,,subs_broadband,Broadband,8047259.0,명,,auto
+factsheet_2022-12_10611,2013-02,month,시점,별도,,subs_pstn,PSTN,15179759.0,명,,auto
+factsheet_2022-12_10611,2013-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18553263.0,명,,auto
+factsheet_2022-12_10611,2013-02,month,시점,별도,,subs_voip,VoIP,3373504.0,명,,auto
+factsheet_2022-12_10611,2013-03,month,시점,별도,,subs_broadband,Broadband,8049923.0,명,,auto
+factsheet_2022-12_10611,2013-03,month,시점,별도,,subs_pstn,PSTN,15113069.0,명,,auto
+factsheet_2022-12_10611,2013-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18495789.0,명,,auto
+factsheet_2022-12_10611,2013-03,month,시점,별도,,subs_voip,VoIP,3382720.0,명,,auto
+factsheet_2022-12_10611,2013-04,month,시점,별도,,subs_broadband,Broadband,8039370.0,명,,auto
+factsheet_2022-12_10611,2013-04,month,시점,별도,,subs_pstn,PSTN,15039249.0,명,,auto
+factsheet_2013-04_452,2013-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18428019.0,명,,auto
+factsheet_2022-12_10611,2013-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18427383.0,명,,auto
+factsheet_2013-04_452,2013-04,month,시점,별도,,subs_voip,VoIP,3388770.0,명,,auto
+factsheet_2022-12_10611,2013-04,month,시점,별도,,subs_voip,VoIP,3388134.0,명,,auto
+factsheet_2022-12_10611,2013-05,month,시점,별도,,subs_broadband,Broadband,8031170.0,명,,auto
+factsheet_2022-12_10611,2013-05,month,시점,별도,,subs_pstn,PSTN,14974537.0,명,,auto
+factsheet_2022-12_10611,2013-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18363975.0,명,,auto
+factsheet_2013-05_455,2013-05,month,시점,별도,,subs_voip,VoIP,3389438.0,명,,auto
+factsheet_2022-12_10611,2013-05,month,시점,별도,,subs_voip,VoIP,3389408.0,명,,auto
+factsheet_2022-12_10611,2013-06,month,시점,별도,,subs_broadband,Broadband,8038275.0,명,,auto
+factsheet_2022-12_10611,2013-06,month,시점,별도,,subs_pstn,PSTN,14915595.0,명,,auto
+factsheet_2022-12_10611,2013-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18322736.0,명,,auto
+factsheet_2022-12_10611,2013-06,month,시점,별도,,subs_voip,VoIP,3407141.0,명,,auto
+factsheet_2022-12_10611,2013-07,month,시점,별도,,subs_broadband,Broadband,8034466.0,명,,auto
+factsheet_2022-12_10611,2013-07,month,시점,별도,,subs_pstn,PSTN,14838751.0,명,,auto
+factsheet_2022-12_10611,2013-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18256452.0,명,,auto
+factsheet_2022-12_10611,2013-07,month,시점,별도,,subs_voip,VoIP,3417701.0,명,,auto
+factsheet_2022-12_10611,2013-08,month,시점,별도,,subs_broadband,Broadband,8039998.0,명,,auto
+factsheet_2022-12_10611,2013-08,month,시점,별도,,subs_pstn,PSTN,14769243.0,명,,auto
+factsheet_2022-12_10611,2013-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18209575.0,명,,auto
+factsheet_2022-12_10611,2013-08,month,시점,별도,,subs_voip,VoIP,3440332.0,명,,auto
+factsheet_2022-12_10611,2013-09,month,시점,별도,,subs_broadband,Broadband,8041344.0,명,,auto
+factsheet_2022-12_10611,2013-09,month,시점,별도,,subs_pstn,PSTN,14711646.0,명,,auto
+factsheet_2022-12_10611,2013-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18173294.0,명,,auto
+factsheet_2022-12_10611,2013-09,month,시점,별도,,subs_voip,VoIP,3461648.0,명,,auto
+factsheet_2022-12_10611,2013-10,month,시점,별도,,subs_broadband,Broadband,8053214.0,명,,auto
+factsheet_2022-12_10611,2013-10,month,시점,별도,,subs_pstn,PSTN,14641767.0,명,,auto
+factsheet_2022-12_10611,2013-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18120863.0,명,,auto
+factsheet_2022-12_10611,2013-10,month,시점,별도,,subs_voip,VoIP,3479096.0,명,,auto
+factsheet_2022-12_10611,2013-11,month,시점,별도,,subs_broadband,Broadband,8063827.0,명,,auto
+factsheet_2022-12_10611,2013-11,month,시점,별도,,subs_pstn,PSTN,14590010.0,명,,auto
+factsheet_2022-12_10611,2013-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18087687.0,명,,auto
+factsheet_2013-11_465,2013-11,month,시점,별도,,subs_voip,VoIP,3497677.0,명,,auto
+factsheet_2022-12_10611,2013-11,month,시점,별도,,subs_voip,VoIP,3497962.0,명,,auto
+factsheet_2022-12_10611,2013-12,month,시점,별도,,subs_broadband,Broadband,8066628.0,명,,auto
+factsheet_2022-12_10611,2013-12,month,시점,별도,,subs_pstn,PSTN,14513321.0,명,,auto
+factsheet_2022-12_10611,2013-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),18017879.0,명,,auto
+factsheet_2022-12_10611,2013-12,month,시점,별도,,subs_voip,VoIP,3504558.0,명,,auto
 financial_indicator_2013Q1_153,2013Q1,quarter,단일분기,별도,,capex_total,Capex,5211.0,억원,,auto
 financial_indicator_2013Q2_158,2013Q1,quarter,단일분기,별도,,capex_total,Capex,5211.0,억원,,auto
 financial_indicator_2013Q3_163,2013Q1,quarter,단일분기,별도,,capex_total,Capex,5211.0,억원,,auto
@@ -2098,6 +2460,7 @@ financial_indicator_2013Q1_153,2013Q1,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2013Q2_158,2013Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,47905.95,억원,,auto
 financial_indicator_2013Q3_163,2013Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,47906.0,억원,,auto
 financial_indicator_2013Q4_168,2013Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,47906.0,억원,,auto
+factsheet_2022-12_10611,2013Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,17370972.0,명,,auto
 financial_indicator_2013Q1_153,2013Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12459.6,억원,,auto
 financial_indicator_2013Q2_158,2013Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12459.6,억원,,auto
 financial_indicator_2013Q3_163,2013Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12460.0,억원,,auto
@@ -2150,6 +2513,7 @@ financial_indicator_2013Q4_168,2013Q2,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2013Q2_158,2013Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43590.71,억원,,auto
 financial_indicator_2013Q3_163,2013Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43591.0,억원,,auto
 financial_indicator_2013Q4_168,2013Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43591.0,억원,,auto
+factsheet_2022-12_10611,2013Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,17354087.0,명,,auto
 financial_indicator_2013Q2_158,2013Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12281.39,억원,,auto
 financial_indicator_2013Q3_163,2013Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12281.0,억원,,auto
 financial_indicator_2013Q4_168,2013Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12281.0,억원,,auto
@@ -2187,6 +2551,7 @@ financial_indicator_2013Q3_163,2013Q3,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2013Q4_168,2013Q3,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,34709.0,억원,,auto
 financial_indicator_2013Q3_163,2013Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41513.0,억원,,auto
 financial_indicator_2013Q4_168,2013Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41513.0,억원,,auto
+factsheet_2022-12_10611,2013Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,17204882.0,명,,auto
 financial_indicator_2013Q3_163,2013Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11945.0,억원,,auto
 financial_indicator_2013Q4_168,2013Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11945.0,억원,,auto
 financial_indicator_2013Q3_163,2013Q3,quarter,단일분기,연결,K-IFRS,net_profit,Net Income,1363.0,억원,,auto
@@ -2209,6 +2574,7 @@ financial_indicator_2013Q4_168,2013Q4,quarter,단일분기,별도,,opex_deprecia
 financial_indicator_2013Q4_168,2013Q4,quarter,단일분기,별도,K-IFRS,revenue_goods,- Merchandise,10868.99,억원,,auto
 financial_indicator_2013Q4_168,2013Q4,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,35492.47,억원,,auto
 financial_indicator_2013Q4_168,2013Q4,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,46361.46,억원,,auto
+factsheet_2022-12_10611,2013Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,17299899.0,명,,auto
 financial_indicator_2013Q4_168,2013Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,7369.55,억원,,auto
 financial_indicator_2013Q4_168,2013Q4,quarter,단일분기,연결,K-IFRS,net_profit,Net Income,-5425.24,억원,,auto
 financial_indicator_2013Q4_168,2013Q4,quarter,단일분기,연결,K-IFRS,net_profit_controlling,Net income attributable to KT,-5585.46,억원,,auto
@@ -2732,6 +3098,56 @@ financial_indicator_2019Q1_10198,2014,year,연간,연결,K-IFRS,revenue_total,Re
 financial_indicator_2019Q2_10230,2014,year,연간,연결,K-IFRS,revenue_total,Revenue,223116.66,억원,,auto
 financial_indicator_2019Q3_10246,2014,year,연간,연결,K-IFRS,revenue_total,Revenue,223116.66,억원,,auto
 financial_indicator_2019Q4_10284,2014,year,연간,연결,K-IFRS,revenue_total,Revenue,223116.66,억원,,auto
+factsheet_2022-12_10611,2014-01,month,시점,별도,,subs_broadband,Broadband,8040740.0,명,,auto
+factsheet_2022-12_10611,2014-01,month,시점,별도,,subs_pstn,PSTN,14450583.0,명,,auto
+factsheet_2022-12_10611,2014-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17937996.0,명,,auto
+factsheet_2022-12_10611,2014-01,month,시점,별도,,subs_voip,VoIP,3487413.0,명,,auto
+factsheet_2022-12_10611,2014-02,month,시점,별도,,subs_broadband,Broadband,8032176.0,명,,auto
+factsheet_2022-12_10611,2014-02,month,시점,별도,,subs_pstn,PSTN,14389723.0,명,,auto
+factsheet_2022-12_10611,2014-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17869891.0,명,,auto
+factsheet_2022-12_10611,2014-02,month,시점,별도,,subs_voip,VoIP,3480168.0,명,,auto
+factsheet_2022-12_10611,2014-03,month,시점,별도,,subs_broadband,Broadband,8036899.0,명,,auto
+factsheet_2022-12_10611,2014-03,month,시점,별도,,subs_pstn,PSTN,14309361.0,명,,auto
+factsheet_2022-12_10611,2014-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17789007.0,명,,auto
+factsheet_2022-12_10611,2014-03,month,시점,별도,,subs_voip,VoIP,3479646.0,명,,auto
+factsheet_2022-12_10611,2014-04,month,시점,별도,,subs_broadband,Broadband,8015543.0,명,,auto
+factsheet_2014-04_474,2014-04,month,시점,별도,,subs_pstn,PSTN,14235955.0,명,,auto
+factsheet_2022-12_10611,2014-04,month,시점,별도,,subs_pstn,PSTN,14260098.0,명,,auto
+factsheet_2014-04_474,2014-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17696564.0,명,,auto
+factsheet_2022-12_10611,2014-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17720707.0,명,,auto
+factsheet_2022-12_10611,2014-04,month,시점,별도,,subs_voip,VoIP,3460609.0,명,,auto
+factsheet_2022-12_10611,2014-05,month,시점,별도,,subs_broadband,Broadband,8026663.0,명,,auto
+factsheet_2022-12_10611,2014-05,month,시점,별도,,subs_pstn,PSTN,14208456.0,명,,auto
+factsheet_2022-12_10611,2014-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17661825.0,명,,auto
+factsheet_2022-12_10611,2014-05,month,시점,별도,,subs_voip,VoIP,3453369.0,명,,auto
+factsheet_2022-12_10611,2014-06,month,시점,별도,,subs_broadband,Broadband,8038765.0,명,,auto
+factsheet_2022-12_10611,2014-06,month,시점,별도,,subs_pstn,PSTN,14164934.0,명,,auto
+factsheet_2022-12_10611,2014-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17614933.0,명,,auto
+factsheet_2022-12_10611,2014-06,month,시점,별도,,subs_voip,VoIP,3449999.0,명,,auto
+factsheet_2022-12_10611,2014-07,month,시점,별도,,subs_broadband,Broadband,8047577.0,명,,auto
+factsheet_2022-12_10611,2014-07,month,시점,별도,,subs_pstn,PSTN,14144443.0,명,,auto
+factsheet_2022-12_10611,2014-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17583478.0,명,,auto
+factsheet_2022-12_10611,2014-07,month,시점,별도,,subs_voip,VoIP,3439035.0,명,,auto
+factsheet_2022-12_10611,2014-08,month,시점,별도,,subs_broadband,Broadband,8076637.0,명,,auto
+factsheet_2022-12_10611,2014-08,month,시점,별도,,subs_pstn,PSTN,14092424.0,명,,auto
+factsheet_2022-12_10611,2014-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17529251.0,명,,auto
+factsheet_2022-12_10611,2014-08,month,시점,별도,,subs_voip,VoIP,3436827.0,명,,auto
+factsheet_2022-12_10611,2014-09,month,시점,별도,,subs_broadband,Broadband,8106821.0,명,,auto
+factsheet_2022-12_10611,2014-09,month,시점,별도,,subs_pstn,PSTN,14037236.0,명,,auto
+factsheet_2022-12_10611,2014-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17469192.0,명,,auto
+factsheet_2022-12_10611,2014-09,month,시점,별도,,subs_voip,VoIP,3431956.0,명,,auto
+factsheet_2022-12_10611,2014-10,month,시점,별도,,subs_broadband,Broadband,8136159.0,명,,auto
+factsheet_2022-12_10611,2014-10,month,시점,별도,,subs_pstn,PSTN,13982891.0,명,,auto
+factsheet_2022-12_10611,2014-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17418252.0,명,,auto
+factsheet_2022-12_10611,2014-10,month,시점,별도,,subs_voip,VoIP,3435361.0,명,,auto
+factsheet_2022-12_10611,2014-11,month,시점,별도,,subs_broadband,Broadband,8159197.0,명,,auto
+factsheet_2022-12_10611,2014-11,month,시점,별도,,subs_pstn,PSTN,13917914.0,명,,auto
+factsheet_2022-12_10611,2014-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17342826.0,명,,auto
+factsheet_2022-12_10611,2014-11,month,시점,별도,,subs_voip,VoIP,3424912.0,명,,auto
+factsheet_2022-12_10611,2014-12,month,시점,별도,,subs_broadband,Broadband,8129482.0,명,,auto
+factsheet_2022-12_10611,2014-12,month,시점,별도,,subs_pstn,PSTN,13848583.0,명,,auto
+factsheet_2022-12_10611,2014-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17259127.0,명,,auto
+factsheet_2022-12_10611,2014-12,month,시점,별도,,subs_voip,VoIP,3410544.0,명,,auto
 financial_indicator_2014Q1_172,2014Q1,quarter,단일분기,별도,,capex_total,Capex,3572.0,억원,,auto
 financial_indicator_2014Q2_177,2014Q1,quarter,단일분기,별도,,capex_total,Capex,3572.0,억원,,auto
 financial_indicator_2014Q3_182,2014Q1,quarter,단일분기,별도,,capex_total,Capex,3572.0,억원,,auto
@@ -2756,6 +3172,8 @@ financial_indicator_2014Q1_172,2014Q1,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2014Q2_177,2014Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,44608.53,억원,,auto
 financial_indicator_2014Q3_182,2014Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,44608.53,억원,,auto
 financial_indicator_2014Q4_188,2014Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,44608.53,억원,,auto
+factsheet_2015-09_501,2014Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,17293468.0,명,,auto
+factsheet_2022-12_10611,2014Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,17291375.0,명,,auto
 financial_indicator_2014Q1_172,2014Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,10838.71,억원,,auto
 financial_indicator_2014Q2_177,2014Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,10838.71,억원,,auto
 financial_indicator_2014Q3_182,2014Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,10838.71,억원,,auto
@@ -2826,6 +3244,8 @@ financial_indicator_2014Q4_188,2014Q2,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2014Q2_177,2014Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,44424.77,억원,,auto
 financial_indicator_2014Q3_182,2014Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,44424.77,억원,,auto
 financial_indicator_2014Q4_188,2014Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,44424.77,억원,,auto
+factsheet_2015-09_501,2014Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,17563892.0,명,,auto
+factsheet_2022-12_10611,2014Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,17561799.0,명,,auto
 financial_indicator_2014Q2_177,2014Q2,quarter,단일분기,연결,K-IFRS,net_profit,Net Income,-7571.07,억원,,auto
 financial_indicator_2014Q3_182,2014Q2,quarter,단일분기,연결,K-IFRS,net_profit,Net Income,-7571.07,억원,,auto
 financial_indicator_2014Q4_188,2014Q2,quarter,단일분기,연결,K-IFRS,net_profit,Net Income,-7571.07,억원,,auto
@@ -2876,6 +3296,8 @@ financial_indicator_2014Q3_182,2014Q3,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2014Q4_188,2014Q3,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,36376.31,억원,,auto
 financial_indicator_2014Q3_182,2014Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43723.97,억원,,auto
 financial_indicator_2014Q4_188,2014Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43723.97,억원,,auto
+factsheet_2015-09_501,2014Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,17954517.0,명,,auto
+factsheet_2022-12_10611,2014Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,17952122.0,명,,auto
 financial_indicator_2014Q3_182,2014Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12802.89,억원,,auto
 financial_indicator_2014Q4_188,2014Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12802.89,억원,,auto
 financial_indicator_2015Q1_193,2014Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11397.5,억원,,auto
@@ -2918,6 +3340,8 @@ financial_indicator_2014Q4_188,2014Q4,quarter,단일분기,별도,,opex_deprecia
 financial_indicator_2014Q4_188,2014Q4,quarter,단일분기,별도,K-IFRS,revenue_goods,- Merchandise,6395.02,억원,,auto
 financial_indicator_2014Q4_188,2014Q4,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,35206.12,억원,,auto
 financial_indicator_2014Q4_188,2014Q4,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41601.15,억원,,auto
+factsheet_2015-09_501,2014Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,18080250.0,명,,auto
+factsheet_2022-12_10611,2014Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,18052746.0,명,,auto
 financial_indicator_2014Q4_188,2014Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,9943.26,억원,,auto
 financial_indicator_2015Q1_193,2014Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,8616.1,억원,,auto
 financial_indicator_2015Q2_198,2014Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,8616.1,억원,,auto
@@ -3432,6 +3856,55 @@ financial_indicator_2019Q1_10198,2015,year,연간,연결,K-IFRS,revenue_total,Re
 financial_indicator_2019Q2_10230,2015,year,연간,연결,K-IFRS,revenue_total,Revenue,222812.21,억원,,auto
 financial_indicator_2019Q3_10246,2015,year,연간,연결,K-IFRS,revenue_total,Revenue,222812.21,억원,,auto
 financial_indicator_2019Q4_10284,2015,year,연간,연결,K-IFRS,revenue_total,Revenue,222812.21,억원,,auto
+factsheet_2022-12_10611,2015-01,month,시점,별도,,subs_broadband,Broadband,8146266.0,명,,auto
+factsheet_2022-12_10611,2015-01,month,시점,별도,,subs_pstn,PSTN,13793845.0,명,,auto
+factsheet_2022-12_10611,2015-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17195630.0,명,,auto
+factsheet_2022-12_10611,2015-01,month,시점,별도,,subs_voip,VoIP,3401785.0,명,,auto
+factsheet_2022-12_10611,2015-02,month,시점,별도,,subs_broadband,Broadband,8159536.0,명,,auto
+factsheet_2022-12_10611,2015-02,month,시점,별도,,subs_pstn,PSTN,13758284.0,명,,auto
+factsheet_2022-12_10611,2015-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17156764.0,명,,auto
+factsheet_2022-12_10611,2015-02,month,시점,별도,,subs_voip,VoIP,3398480.0,명,,auto
+factsheet_2022-12_10611,2015-03,month,시점,별도,,subs_broadband,Broadband,8167690.0,명,,auto
+factsheet_2022-12_10611,2015-03,month,시점,별도,,subs_pstn,PSTN,13705821.0,명,,auto
+factsheet_2022-12_10611,2015-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17102875.0,명,,auto
+factsheet_2022-12_10611,2015-03,month,시점,별도,,subs_voip,VoIP,3397054.0,명,,auto
+factsheet_2022-12_10611,2015-04,month,시점,별도,,subs_broadband,Broadband,8185194.0,명,,auto
+factsheet_2022-12_10611,2015-04,month,시점,별도,,subs_pstn,PSTN,13655302.0,명,,auto
+factsheet_2022-12_10611,2015-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17052485.0,명,,auto
+factsheet_2022-12_10611,2015-04,month,시점,별도,,subs_voip,VoIP,3397183.0,명,,auto
+factsheet_2015-07_499,2015-05,month,시점,별도,,subs_broadband,Broadband,8207086.0,명,,auto
+factsheet_2022-12_10611,2015-05,month,시점,별도,,subs_broadband,Broadband,8207405.0,명,,auto
+factsheet_2022-12_10611,2015-05,month,시점,별도,,subs_pstn,PSTN,13612925.0,명,,auto
+factsheet_2022-12_10611,2015-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),17005065.0,명,,auto
+factsheet_2022-12_10611,2015-05,month,시점,별도,,subs_voip,VoIP,3392140.0,명,,auto
+factsheet_2022-12_10611,2015-06,month,시점,별도,,subs_broadband,Broadband,8229330.0,명,,auto
+factsheet_2022-12_10611,2015-06,month,시점,별도,,subs_pstn,PSTN,13548835.0,명,,auto
+factsheet_2022-12_10611,2015-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16951251.0,명,,auto
+factsheet_2022-12_10611,2015-06,month,시점,별도,,subs_voip,VoIP,3402416.0,명,,auto
+factsheet_2022-12_10611,2015-07,month,시점,별도,,subs_broadband,Broadband,8244830.0,명,,auto
+factsheet_2022-12_10611,2015-07,month,시점,별도,,subs_pstn,PSTN,13486453.0,명,,auto
+factsheet_2022-12_10611,2015-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16883308.0,명,,auto
+factsheet_2022-12_10611,2015-07,month,시점,별도,,subs_voip,VoIP,3396855.0,명,,auto
+factsheet_2022-12_10611,2015-08,month,시점,별도,,subs_broadband,Broadband,8268802.0,명,,auto
+factsheet_2022-12_10611,2015-08,month,시점,별도,,subs_pstn,PSTN,13440961.0,명,,auto
+factsheet_2022-12_10611,2015-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16835513.0,명,,auto
+factsheet_2022-12_10611,2015-08,month,시점,별도,,subs_voip,VoIP,3394552.0,명,,auto
+factsheet_2022-12_10611,2015-09,month,시점,별도,,subs_broadband,Broadband,8288753.0,명,,auto
+factsheet_2022-12_10611,2015-09,month,시점,별도,,subs_pstn,PSTN,13402597.0,명,,auto
+factsheet_2022-12_10611,2015-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16805702.0,명,,auto
+factsheet_2022-12_10611,2015-09,month,시점,별도,,subs_voip,VoIP,3403105.0,명,,auto
+factsheet_2022-12_10611,2015-10,month,시점,별도,,subs_broadband,Broadband,8313831.0,명,,auto
+factsheet_2022-12_10611,2015-10,month,시점,별도,,subs_pstn,PSTN,13365568.0,명,,auto
+factsheet_2022-12_10611,2015-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16777264.0,명,,auto
+factsheet_2022-12_10611,2015-10,month,시점,별도,,subs_voip,VoIP,3411696.0,명,,auto
+factsheet_2022-12_10611,2015-11,month,시점,별도,,subs_broadband,Broadband,8328170.0,명,,auto
+factsheet_2022-12_10611,2015-11,month,시점,별도,,subs_pstn,PSTN,13322994.0,명,,auto
+factsheet_2022-12_10611,2015-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16739746.0,명,,auto
+factsheet_2022-12_10611,2015-11,month,시점,별도,,subs_voip,VoIP,3416752.0,명,,auto
+factsheet_2022-12_10611,2015-12,month,시점,별도,,subs_broadband,Broadband,8328419.0,명,,auto
+factsheet_2022-12_10611,2015-12,month,시점,별도,,subs_pstn,PSTN,13268334.0,명,,auto
+factsheet_2022-12_10611,2015-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16681569.0,명,,auto
+factsheet_2022-12_10611,2015-12,month,시점,별도,,subs_voip,VoIP,3413235.0,명,,auto
 financial_indicator_2015Q4_208,2015Q1,quarter,단일분기,별도,,capex_access,- Access Network,2364.0,억원,,auto
 financial_indicator_2016Q1_213,2015Q1,quarter,단일분기,별도,,capex_access,- Access Network,910.0,억원,,auto
 financial_indicator_2015Q4_208,2015Q1,quarter,단일분기,별도,,capex_b2b,- B2B,267.0,억원,,auto
@@ -3471,6 +3944,8 @@ financial_indicator_2015Q1_193,2015Q1,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2015Q2_198,2015Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41334.43,억원,,auto
 financial_indicator_2015Q3_203,2015Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41334.43,억원,,auto
 financial_indicator_2015Q4_208,2015Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41334.43,억원,,auto
+factsheet_2015-09_501,2015Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,18243000.0,명,,auto
+factsheet_2022-12_10611,2015Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,18178167.0,명,,auto
 financial_indicator_2015Q1_193,2015Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11627.33,억원,,auto
 financial_indicator_2015Q2_198,2015Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11549.43,억원,,auto
 financial_indicator_2015Q3_203,2015Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11549.43,억원,,auto
@@ -3526,6 +4001,8 @@ financial_indicator_2015Q4_208,2015Q2,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2015Q2_198,2015Q2,quarter,단일분기,별도,,revenue_total,Revenue,41970.73,억원,,auto
 financial_indicator_2015Q3_203,2015Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41970.73,억원,,auto
 financial_indicator_2015Q4_208,2015Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41970.73,억원,,auto
+factsheet_2015-09_501,2015Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,18471000.0,명,,auto
+factsheet_2022-12_10611,2015Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,18368379.0,명,,auto
 financial_indicator_2015Q2_198,2015Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12055.74,억원,,auto
 financial_indicator_2015Q3_203,2015Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12055.74,억원,,auto
 financial_indicator_2015Q4_208,2015Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12055.74,억원,,auto
@@ -3566,6 +4043,7 @@ financial_indicator_2015Q3_203,2015Q3,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2015Q4_208,2015Q3,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,36018.04,억원,,auto
 financial_indicator_2015Q3_203,2015Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41632.37,억원,,auto
 financial_indicator_2015Q4_208,2015Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41632.37,억원,,auto
+factsheet_2022-12_10611,2015Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,18514207.0,명,,auto
 financial_indicator_2015Q3_203,2015Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11743.4,억원,,auto
 financial_indicator_2015Q4_208,2015Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11743.4,억원,,auto
 financial_indicator_2015Q3_203,2015Q3,quarter,단일분기,연결,K-IFRS,net_profit,Net Income,1259.69,억원,,auto
@@ -3591,6 +4069,8 @@ financial_indicator_2015Q4_208,2015Q4,quarter,단일분기,별도,,opex_deprecia
 financial_indicator_2015Q4_208,2015Q4,quarter,단일분기,별도,K-IFRS,revenue_goods,- Merchandise,8339.35,억원,,auto
 financial_indicator_2015Q4_208,2015Q4,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,36146.7,억원,,auto
 financial_indicator_2015Q4_208,2015Q4,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,44486.05,억원,,auto
+factsheet_2016-06_516,2015Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,18723000.0,명,,auto
+factsheet_2022-12_10611,2015Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,18721000.0,명,,auto
 financial_indicator_2015Q4_208,2015Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,10966.85,억원,,auto
 financial_indicator_2015Q4_208,2015Q4,quarter,단일분기,연결,K-IFRS,net_profit,Net Income,-970.68,억원,,auto
 financial_indicator_2015Q4_208,2015Q4,quarter,단일분기,연결,K-IFRS,net_profit_controlling,Net income attributable to KT,-1259.48,억원,,auto
@@ -3997,6 +4477,54 @@ financial_indicator_2019Q1_10198,2016,year,연간,연결,K-IFRS,revenue_total,Re
 financial_indicator_2019Q2_10230,2016,year,연간,연결,K-IFRS,revenue_total,Revenue,227436.65,억원,,auto
 financial_indicator_2019Q3_10246,2016,year,연간,연결,K-IFRS,revenue_total,Revenue,227436.65,억원,,auto
 financial_indicator_2019Q4_10284,2016,year,연간,연결,K-IFRS,revenue_total,Revenue,227436.65,억원,,auto
+factsheet_2022-12_10611,2016-01,month,시점,별도,,subs_broadband,Broadband,8342139.0,명,,auto
+factsheet_2022-12_10611,2016-01,month,시점,별도,,subs_pstn,PSTN,13205308.0,명,,auto
+factsheet_2022-12_10611,2016-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16620010.0,명,,auto
+factsheet_2022-12_10611,2016-01,month,시점,별도,,subs_voip,VoIP,3414702.0,명,,auto
+factsheet_2022-12_10611,2016-02,month,시점,별도,,subs_broadband,Broadband,8354215.0,명,,auto
+factsheet_2022-12_10611,2016-02,month,시점,별도,,subs_pstn,PSTN,13160531.0,명,,auto
+factsheet_2022-12_10611,2016-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16583571.0,명,,auto
+factsheet_2022-12_10611,2016-02,month,시점,별도,,subs_voip,VoIP,3423040.0,명,,auto
+factsheet_2022-12_10611,2016-03,month,시점,별도,,subs_broadband,Broadband,8374808.0,명,,auto
+factsheet_2022-12_10611,2016-03,month,시점,별도,,subs_pstn,PSTN,13115271.0,명,,auto
+factsheet_2022-12_10611,2016-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16553798.0,명,,auto
+factsheet_2022-12_10611,2016-03,month,시점,별도,,subs_voip,VoIP,3438527.0,명,,auto
+factsheet_2022-12_10611,2016-04,month,시점,별도,,subs_broadband,Broadband,8395253.0,명,,auto
+factsheet_2022-12_10611,2016-04,month,시점,별도,,subs_pstn,PSTN,13076350.0,명,,auto
+factsheet_2022-12_10611,2016-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16527106.0,명,,auto
+factsheet_2022-12_10611,2016-04,month,시점,별도,,subs_voip,VoIP,3450756.0,명,,auto
+factsheet_2022-12_10611,2016-05,month,시점,별도,,subs_broadband,Broadband,8414826.0,명,,auto
+factsheet_2022-12_10611,2016-05,month,시점,별도,,subs_pstn,PSTN,13034084.0,명,,auto
+factsheet_2022-12_10611,2016-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16490971.0,명,,auto
+factsheet_2022-12_10611,2016-05,month,시점,별도,,subs_voip,VoIP,3456887.0,명,,auto
+factsheet_2022-12_10611,2016-06,month,시점,별도,,subs_broadband,Broadband,8433995.0,명,,auto
+factsheet_2022-12_10611,2016-06,month,시점,별도,,subs_pstn,PSTN,12992819.0,명,,auto
+factsheet_2022-12_10611,2016-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16450347.0,명,,auto
+factsheet_2022-12_10611,2016-06,month,시점,별도,,subs_voip,VoIP,3457528.0,명,,auto
+factsheet_2022-12_10611,2016-07,month,시점,별도,,subs_broadband,Broadband,8452714.0,명,,auto
+factsheet_2022-12_10611,2016-07,month,시점,별도,,subs_pstn,PSTN,12950702.0,명,,auto
+factsheet_2022-12_10611,2016-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16410848.0,명,,auto
+factsheet_2022-12_10611,2016-07,month,시점,별도,,subs_voip,VoIP,3460146.0,명,,auto
+factsheet_2022-12_10611,2016-08,month,시점,별도,,subs_broadband,Broadband,8465207.0,명,,auto
+factsheet_2022-12_10611,2016-08,month,시점,별도,,subs_pstn,PSTN,12914638.0,명,,auto
+factsheet_2022-12_10611,2016-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16376460.0,명,,auto
+factsheet_2022-12_10611,2016-08,month,시점,별도,,subs_voip,VoIP,3461822.0,명,,auto
+factsheet_2022-12_10611,2016-09,month,시점,별도,,subs_broadband,Broadband,8477927.0,명,,auto
+factsheet_2022-12_10611,2016-09,month,시점,별도,,subs_pstn,PSTN,12881616.0,명,,auto
+factsheet_2022-12_10611,2016-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16336539.0,명,,auto
+factsheet_2022-12_10611,2016-09,month,시점,별도,,subs_voip,VoIP,3454923.0,명,,auto
+factsheet_2022-12_10611,2016-10,month,시점,별도,,subs_broadband,Broadband,8499331.0,명,,auto
+factsheet_2022-12_10611,2016-10,month,시점,별도,,subs_pstn,PSTN,12849279.0,명,,auto
+factsheet_2022-12_10611,2016-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16297938.0,명,,auto
+factsheet_2022-12_10611,2016-10,month,시점,별도,,subs_voip,VoIP,3448659.0,명,,auto
+factsheet_2022-12_10611,2016-11,month,시점,별도,,subs_broadband,Broadband,8513300.0,명,,auto
+factsheet_2022-12_10611,2016-11,month,시점,별도,,subs_pstn,PSTN,12804643.0,명,,auto
+factsheet_2022-12_10611,2016-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16246219.0,명,,auto
+factsheet_2022-12_10611,2016-11,month,시점,별도,,subs_voip,VoIP,3441576.0,명,,auto
+factsheet_2022-12_10611,2016-12,month,시점,별도,,subs_broadband,Broadband,8516496.0,명,,auto
+factsheet_2022-12_10611,2016-12,month,시점,별도,,subs_pstn,PSTN,12790903.0,명,,auto
+factsheet_2022-12_10611,2016-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16226410.0,명,,auto
+factsheet_2022-12_10611,2016-12,month,시점,별도,,subs_voip,VoIP,3435507.0,명,,auto
 dart_2016_11013_OFS,2016Q1,quarter,시점,별도,K-IFRS,assets_total,자산총계,239819.16,억원,,auto
 financial_indicator_2016Q2_218,2016Q1,quarter,단일분기,별도,,capex_access,- Access Network,910.0,억원,,auto
 financial_indicator_2016Q3_223,2016Q1,quarter,단일분기,별도,,capex_access,- Access Network,910.0,억원,,auto
@@ -4044,6 +4572,8 @@ financial_indicator_2016Q1_213,2016Q1,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2016Q2_218,2016Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,42008.56,억원,,auto
 financial_indicator_2016Q3_223,2016Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,42008.56,억원,,auto
 financial_indicator_2016Q4_228,2016Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,42008.56,억원,,auto
+factsheet_2016-06_516,2016Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,18845037.0,명,,auto
+factsheet_2022-12_10611,2016Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,18843378.0,명,,auto
 dart_2016_11013_CFS,2016Q1,quarter,시점,연결,K-IFRS,assets_total,자산총계,294847.57,억원,,auto
 financial_indicator_2016Q1_213,2016Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12156.93,억원,,auto
 financial_indicator_2016Q2_218,2016Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12156.93,억원,,auto
@@ -4127,6 +4657,7 @@ dart_2016_11012_OFS,2016Q2,quarter,누적,별도,K-IFRS,revenue_total,영업수�
 financial_indicator_2016Q2_218,2016Q2,quarter,단일분기,별도,,revenue_total,Revenue,42035.38,억원,,auto
 financial_indicator_2016Q3_223,2016Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,42035.38,억원,,auto
 financial_indicator_2016Q4_228,2016Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,42035.38,억원,,auto
+factsheet_2022-12_10611,2016Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,18997347.0,명,,auto
 dart_2016_11012_CFS,2016Q2,quarter,시점,연결,K-IFRS,assets_total,자산총계,286242.28,억원,,auto
 financial_indicator_2016Q2_218,2016Q2,quarter,단일분기,연결,,ebitda,EBITDA,12572.04,억원,,auto
 financial_indicator_2016Q3_223,2016Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12572.04,억원,,auto
@@ -4192,6 +4723,8 @@ dart_2016_11014_OFS,2016Q3,quarter,단일분기,별도,K-IFRS,revenue_total,영�
 dart_2016_11014_OFS,2016Q3,quarter,누적,별도,K-IFRS,revenue_total,영업수익,125059.52,억원,,auto
 financial_indicator_2016Q3_223,2016Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41015.59,억원,,auto
 financial_indicator_2016Q4_228,2016Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41015.59,억원,,auto
+factsheet_2022-11_10606,2016Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,19236344.0,명,,auto
+factsheet_2022-12_10611,2016Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,18677947.0,명,,auto
 dart_2016_11014_CFS,2016Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,301358.12,억원,,auto
 financial_indicator_2016Q3_223,2016Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12363.25,억원,,auto
 financial_indicator_2016Q4_228,2016Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12363.25,억원,,auto
@@ -4228,6 +4761,8 @@ financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,별도,,opex_deprecia
 financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,별도,K-IFRS,revenue_goods,- Merchandise,9385.15,억원,,auto
 financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,35844.01,억원,,auto
 financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,45229.16,억원,,auto
+factsheet_2022-11_10606,2016Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,19397464.0,명,,auto
+factsheet_2022-12_10611,2016Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,18891794.0,명,,auto
 financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,10760.22,억원,,auto
 financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,연결,K-IFRS,net_profit,Net Income,929.78,억원,,auto
 financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,연결,K-IFRS,net_profit_controlling,Net income attributable to KT,835.75,억원,,auto
@@ -4508,6 +5043,57 @@ financial_indicator_2019Q1_10198,2017,year,연간,연결,K-IFRS,revenue_total,Re
 financial_indicator_2019Q2_10230,2017,year,연간,연결,K-IFRS,revenue_total,Revenue,233872.67,억원,,auto
 financial_indicator_2019Q3_10246,2017,year,연간,연결,K-IFRS,revenue_total,Revenue,233872.67,억원,,auto
 financial_indicator_2019Q4_10284,2017,year,연간,연결,K-IFRS,revenue_total,Revenue,233872.67,억원,,auto
+factsheet_2022-12_10611,2017-01,month,시점,별도,,subs_broadband,Broadband,8525896.0,명,,auto
+factsheet_2022-12_10611,2017-01,month,시점,별도,,subs_pstn,PSTN,12749134.0,명,,auto
+factsheet_2022-12_10611,2017-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16187622.0,명,,auto
+factsheet_2022-12_10611,2017-01,month,시점,별도,,subs_voip,VoIP,3438488.0,명,,auto
+factsheet_2022-12_10611,2017-02,month,시점,별도,,subs_broadband,Broadband,8546988.0,명,,auto
+factsheet_2022-12_10611,2017-02,month,시점,별도,,subs_pstn,PSTN,12711874.0,명,,auto
+factsheet_2022-12_10611,2017-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16153740.0,명,,auto
+factsheet_2022-12_10611,2017-02,month,시점,별도,,subs_voip,VoIP,3441866.0,명,,auto
+factsheet_2022-12_10611,2017-03,month,시점,별도,,subs_broadband,Broadband,8573344.0,명,,auto
+factsheet_2022-12_10611,2017-03,month,시점,별도,,subs_pstn,PSTN,12678692.0,명,,auto
+factsheet_2022-12_10611,2017-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16129118.0,명,,auto
+factsheet_2022-12_10611,2017-03,month,시점,별도,,subs_voip,VoIP,3450426.0,명,,auto
+factsheet_2022-12_10611,2017-04,month,시점,별도,,subs_broadband,Broadband,8598734.0,명,,auto
+factsheet_2022-12_10611,2017-04,month,시점,별도,,subs_pstn,PSTN,12650701.0,명,,auto
+factsheet_2022-12_10611,2017-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16104150.0,명,,auto
+factsheet_2022-12_10611,2017-04,month,시점,별도,,subs_voip,VoIP,3453449.0,명,,auto
+factsheet_2022-12_10611,2017-05,month,시점,별도,,subs_broadband,Broadband,8619656.0,명,,auto
+factsheet_2022-12_10611,2017-05,month,시점,별도,,subs_pstn,PSTN,12615539.0,명,,auto
+factsheet_2022-12_10611,2017-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16073318.0,명,,auto
+factsheet_2022-12_10611,2017-05,month,시점,별도,,subs_voip,VoIP,3457779.0,명,,auto
+factsheet_2017-06_536,2017-06,month,시점,별도,,subs_broadband,Broadband,8637674.0,명,,auto
+factsheet_2022-12_10611,2017-06,month,시점,별도,,subs_broadband,Broadband,8639823.0,명,,auto
+factsheet_2022-12_10611,2017-06,month,시점,별도,,subs_pstn,PSTN,12576095.0,명,,auto
+factsheet_2022-12_10611,2017-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),16045280.0,명,,auto
+factsheet_2022-12_10611,2017-06,month,시점,별도,,subs_voip,VoIP,3469185.0,명,,auto
+factsheet_2022-12_10611,2017-07,month,시점,별도,,subs_broadband,Broadband,8655250.0,명,,auto
+factsheet_2022-12_10611,2017-07,month,시점,별도,,subs_pstn,PSTN,12510699.0,명,,auto
+factsheet_2022-12_10611,2017-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15972207.0,명,,auto
+factsheet_2022-12_10611,2017-07,month,시점,별도,,subs_voip,VoIP,3461508.0,명,,auto
+factsheet_2022-12_10611,2017-08,month,시점,별도,,subs_broadband,Broadband,8680327.0,명,,auto
+factsheet_2022-12_10611,2017-08,month,시점,별도,,subs_pstn,PSTN,12425932.0,명,,auto
+factsheet_2022-12_10611,2017-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15867638.0,명,,auto
+factsheet_2022-12_10611,2017-08,month,시점,별도,,subs_voip,VoIP,3441706.0,명,,auto
+factsheet_2022-12_10611,2017-09,month,시점,별도,,subs_broadband,Broadband,8708259.0,명,,auto
+factsheet_2017-09_10023,2017-09,month,시점,별도,,subs_pstn,PSTN,12388207.0,명,,auto
+factsheet_2022-12_10611,2017-09,month,시점,별도,,subs_pstn,PSTN,12375994.0,명,,auto
+factsheet_2017-09_10023,2017-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15827496.0,명,,auto
+factsheet_2022-12_10611,2017-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15815283.0,명,,auto
+factsheet_2022-12_10611,2017-09,month,시점,별도,,subs_voip,VoIP,3439289.0,명,,auto
+factsheet_2022-12_10611,2017-10,month,시점,별도,,subs_broadband,Broadband,8722604.0,명,,auto
+factsheet_2022-12_10611,2017-10,month,시점,별도,,subs_pstn,PSTN,12333176.0,명,,auto
+factsheet_2022-12_10611,2017-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15757442.0,명,,auto
+factsheet_2022-12_10611,2017-10,month,시점,별도,,subs_voip,VoIP,3424266.0,명,,auto
+factsheet_2022-12_10611,2017-11,month,시점,별도,,subs_broadband,Broadband,8740343.0,명,,auto
+factsheet_2022-12_10611,2017-11,month,시점,별도,,subs_pstn,PSTN,12263203.0,명,,auto
+factsheet_2022-12_10611,2017-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15681989.0,명,,auto
+factsheet_2022-12_10611,2017-11,month,시점,별도,,subs_voip,VoIP,3418786.0,명,,auto
+factsheet_2022-12_10611,2017-12,month,시점,별도,,subs_broadband,Broadband,8758425.0,명,,auto
+factsheet_2022-12_10611,2017-12,month,시점,별도,,subs_pstn,PSTN,12200872.0,명,,auto
+factsheet_2022-12_10611,2017-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15609625.0,명,,auto
+factsheet_2022-12_10611,2017-12,month,시점,별도,,subs_voip,VoIP,3408753.0,명,,auto
 dart_2017_11013_OFS,2017Q1,quarter,시점,별도,K-IFRS,assets_total,자산총계,236772.42,억원,,auto
 financial_indicator_2017Q1_233,2017Q1,quarter,단일분기,별도,,capex_access,- Access Network,2009.0,억원,,auto
 financial_indicator_2017Q2_238,2017Q1,quarter,단일분기,별도,,capex_access,- Access Network,2009.0,억원,,auto
@@ -4816,6 +5402,8 @@ financial_indicator_2022Q4_10614,2017Q1,quarter,단일분기,별도,K-IFRS,reven
 financial_indicator_2023Q1_10648,2017Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41614.18,억원,,auto
 financial_indicator_2023Q2_10675,2017Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41614.18,억원,,auto
 financial_indicator_2023Q3_10697,2017Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41614.18,억원,,auto
+factsheet_2017-06_536,2017Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,19670036.0,명,,auto
+factsheet_2022-12_10611,2017Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,19689033.0,명,,auto
 dart_2017_11013_CFS,2017Q1,quarter,시점,연결,K-IFRS,assets_total,자산총계,301025.96,억원,,auto
 financial_indicator_2017Q1_233,2017Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12676.48,억원,,auto
 financial_indicator_2017Q2_238,2017Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12676.48,억원,,auto
@@ -5208,6 +5796,7 @@ financial_indicator_2022Q4_10614,2017Q2,quarter,단일분기,별도,K-IFRS,reven
 financial_indicator_2023Q1_10648,2017Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,42925.82,억원,,auto
 financial_indicator_2023Q2_10675,2017Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,42925.82,억원,,auto
 financial_indicator_2023Q3_10697,2017Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,42925.82,억원,,auto
+factsheet_2022-12_10611,2017Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,19918000.0,명,,auto
 dart_2017_11012_CFS,2017Q2,quarter,시점,연결,K-IFRS,assets_total,자산총계,278255.03,억원,,auto
 financial_indicator_2017Q2_238,2017Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12882.68,억원,,auto
 financial_indicator_2017Q3_10029,2017Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12882.68,억원,,auto
@@ -5580,6 +6169,8 @@ financial_indicator_2022Q4_10614,2017Q3,quarter,단일분기,별도,K-IFRS,reven
 financial_indicator_2023Q1_10648,2017Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43120.23,억원,,auto
 financial_indicator_2023Q2_10675,2017Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43120.23,억원,,auto
 financial_indicator_2023Q3_10697,2017Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43120.23,억원,,auto
+factsheet_2022-11_10606,2017Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,20140112.0,명,,auto
+factsheet_2022-12_10611,2017Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,19795265.0,명,,auto
 dart_2017_11014_CFS,2017Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,293729.95,억원,,auto
 financial_indicator_2017Q3_10029,2017Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12150.67,억원,,auto
 financial_indicator_2017Q4_10064,2017Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12150.67,억원,,auto
@@ -5923,6 +6514,8 @@ financial_indicator_2022Q4_10614,2017Q4,quarter,단일분기,별도,K-IFRS,reven
 financial_indicator_2023Q1_10648,2017Q4,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,45752.94,억원,,auto
 financial_indicator_2023Q2_10675,2017Q4,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,45752.94,억원,,auto
 financial_indicator_2023Q3_10697,2017Q4,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,45752.94,억원,,auto
+factsheet_2022-11_10606,2017Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,20319896.0,명,,auto
+factsheet_2022-12_10611,2017Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,20015471.0,명,,auto
 financial_indicator_2017Q4_10064,2017Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,9692.4,억원,,auto
 financial_indicator_2018Q1_10101,2017Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,9688.06,억원,,auto
 financial_indicator_2018Q2_10119,2017Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,9688.06,억원,,auto
@@ -6349,6 +6942,66 @@ financial_indicator_2022Q4_10614,2018,year,연간,연결,,revenue_total,Revenue,
 financial_indicator_2023Q1_10648,2018,year,연간,연결,,revenue_total,Revenue,234601.0,억원,,auto
 financial_indicator_2023Q2_10675,2018,year,연간,연결,,revenue_total,Revenue,234601.0,억원,,auto
 financial_indicator_2023Q3_10697,2018,year,연간,연결,,revenue_total,Revenue,234601.0,억원,,auto
+factsheet_2026-06_10891,2018-01,month,시점,별도,,subs_broadband,Broadband,8781199.0,명,,auto
+factsheet_2026-06_10891,2018-01,month,시점,별도,,subs_iptv,Genie TV,7513024.0,명,,auto
+factsheet_2026-06_10891,2018-01,month,시점,별도,,subs_pstn,PSTN,12165986.0,명,,auto
+factsheet_2026-06_10891,2018-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15570837.0,명,,auto
+factsheet_2026-06_10891,2018-01,month,시점,별도,,subs_voip,VoIP,3404851.0,명,,auto
+factsheet_2026-06_10891,2018-02,month,시점,별도,,subs_broadband,Broadband,8721963.0,명,,auto
+factsheet_2026-06_10891,2018-02,month,시점,별도,,subs_iptv,Genie TV,7548729.0,명,,auto
+factsheet_2026-06_10891,2018-02,month,시점,별도,,subs_pstn,PSTN,12130602.0,명,,auto
+factsheet_2026-06_10891,2018-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15529540.0,명,,auto
+factsheet_2026-06_10891,2018-02,month,시점,별도,,subs_voip,VoIP,3398938.0,명,,auto
+factsheet_2026-06_10891,2018-03,month,시점,별도,,subs_broadband,Broadband,8652976.0,명,,auto
+factsheet_2026-06_10891,2018-03,month,시점,별도,,subs_iptv,Genie TV,7572920.0,명,,auto
+factsheet_2026-06_10891,2018-03,month,시점,별도,,subs_pstn,PSTN,12079624.0,명,,auto
+factsheet_2026-06_10891,2018-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15477717.0,명,,auto
+factsheet_2026-06_10891,2018-03,month,시점,별도,,subs_voip,VoIP,3398093.0,명,,auto
+factsheet_2026-06_10891,2018-04,month,시점,별도,,subs_broadband,Broadband,8662121.0,명,,auto
+factsheet_2026-06_10891,2018-04,month,시점,별도,,subs_iptv,Genie TV,7606278.0,명,,auto
+factsheet_2026-06_10891,2018-04,month,시점,별도,,subs_pstn,PSTN,12040267.0,명,,auto
+factsheet_2026-06_10891,2018-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15437983.0,명,,auto
+factsheet_2026-06_10891,2018-04,month,시점,별도,,subs_voip,VoIP,3397716.0,명,,auto
+factsheet_2026-06_10891,2018-05,month,시점,별도,,subs_broadband,Broadband,8662867.0,명,,auto
+factsheet_2026-06_10891,2018-05,month,시점,별도,,subs_iptv,Genie TV,7633778.0,명,,auto
+factsheet_2026-06_10891,2018-05,month,시점,별도,,subs_pstn,PSTN,11999833.0,명,,auto
+factsheet_2026-06_10891,2018-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15395562.0,명,,auto
+factsheet_2026-06_10891,2018-05,month,시점,별도,,subs_voip,VoIP,3395729.0,명,,auto
+factsheet_2026-06_10891,2018-06,month,시점,별도,,subs_broadband,Broadband,8659183.0,명,,auto
+factsheet_2026-06_10891,2018-06,month,시점,별도,,subs_iptv,Genie TV,7672467.0,명,,auto
+factsheet_2026-06_10891,2018-06,month,시점,별도,,subs_pstn,PSTN,11948664.0,명,,auto
+factsheet_2026-06_10891,2018-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15342823.0,명,,auto
+factsheet_2026-06_10891,2018-06,month,시점,별도,,subs_voip,VoIP,3394159.0,명,,auto
+factsheet_2026-06_10891,2018-07,month,시점,별도,,subs_broadband,Broadband,8665894.0,명,,auto
+factsheet_2026-06_10891,2018-07,month,시점,별도,,subs_iptv,Genie TV,7696811.0,명,,auto
+factsheet_2026-06_10891,2018-07,month,시점,별도,,subs_pstn,PSTN,11876356.0,명,,auto
+factsheet_2026-06_10891,2018-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15264697.0,명,,auto
+factsheet_2026-06_10891,2018-07,month,시점,별도,,subs_voip,VoIP,3388341.0,명,,auto
+factsheet_2026-06_10891,2018-08,month,시점,별도,,subs_broadband,Broadband,8676911.0,명,,auto
+factsheet_2026-06_10891,2018-08,month,시점,별도,,subs_iptv,Genie TV,7730946.0,명,,auto
+factsheet_2026-06_10891,2018-08,month,시점,별도,,subs_pstn,PSTN,11826454.0,명,,auto
+factsheet_2026-06_10891,2018-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15210126.0,명,,auto
+factsheet_2026-06_10891,2018-08,month,시점,별도,,subs_voip,VoIP,3383672.0,명,,auto
+factsheet_2026-06_10891,2018-09,month,시점,별도,,subs_broadband,Broadband,8697813.0,명,,auto
+factsheet_2026-06_10891,2018-09,month,시점,별도,,subs_iptv,Genie TV,7775331.0,명,,auto
+factsheet_2026-06_10891,2018-09,month,시점,별도,,subs_pstn,PSTN,11785945.0,명,,auto
+factsheet_2026-06_10891,2018-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15162634.0,명,,auto
+factsheet_2026-06_10891,2018-09,month,시점,별도,,subs_voip,VoIP,3376689.0,명,,auto
+factsheet_2026-06_10891,2018-10,month,시점,별도,,subs_broadband,Broadband,8714236.0,명,,auto
+factsheet_2026-06_10891,2018-10,month,시점,별도,,subs_iptv,Genie TV,7816244.0,명,,auto
+factsheet_2026-06_10891,2018-10,month,시점,별도,,subs_pstn,PSTN,11739238.0,명,,auto
+factsheet_2026-06_10891,2018-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15113144.0,명,,auto
+factsheet_2026-06_10891,2018-10,month,시점,별도,,subs_voip,VoIP,3373906.0,명,,auto
+factsheet_2026-06_10891,2018-11,month,시점,별도,,subs_broadband,Broadband,8722492.0,명,,auto
+factsheet_2026-06_10891,2018-11,month,시점,별도,,subs_iptv,Genie TV,7830991.0,명,,auto
+factsheet_2026-06_10891,2018-11,month,시점,별도,,subs_pstn,PSTN,11689882.0,명,,auto
+factsheet_2026-06_10891,2018-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),15054999.0,명,,auto
+factsheet_2026-06_10891,2018-11,month,시점,별도,,subs_voip,VoIP,3365117.0,명,,auto
+factsheet_2026-06_10891,2018-12,month,시점,별도,,subs_broadband,Broadband,8729383.0,명,,auto
+factsheet_2026-06_10891,2018-12,month,시점,별도,,subs_iptv,Genie TV,7851189.0,명,,auto
+factsheet_2026-06_10891,2018-12,month,시점,별도,,subs_pstn,PSTN,11636898.0,명,,auto
+factsheet_2026-06_10891,2018-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14991559.0,명,,auto
+factsheet_2026-06_10891,2018-12,month,시점,별도,,subs_voip,VoIP,3354661.0,명,,auto
 dart_2018_11013_OFS,2018Q1,quarter,시점,별도,K-IFRS,assets_total,자산총계,246397.81,억원,,auto
 financial_indicator_2018Q1_10101,2018Q1,quarter,단일분기,별도,,capex_access,- Access Network,1278.0,억원,,auto
 financial_indicator_2018Q2_10119,2018Q1,quarter,단일분기,별도,,capex_access,- Access Network,1278.0,억원,,auto
@@ -6613,6 +7266,9 @@ financial_indicator_2022Q4_10614,2018Q1,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2018Q1,quarter,단일분기,별도,,revenue_total,Revenue,42971.58,억원,,auto
 financial_indicator_2023Q2_10675,2018Q1,quarter,단일분기,별도,,revenue_total,Revenue,42971.58,억원,,auto
 financial_indicator_2023Q3_10697,2018Q1,quarter,단일분기,별도,,revenue_total,Revenue,42971.58,억원,,auto
+factsheet_2026-06_10891,2018Q1,quarter,시점,별도,,subs_mno,MNO,16794524.0,명,,auto
+factsheet_2026-06_10891,2018Q1,quarter,시점,별도,,subs_mvno,MVNO,3583766.0,명,,auto
+factsheet_2026-06_10891,2018Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,20623074.0,명,,auto
 dart_2018_11013_CFS,2018Q1,quarter,시점,연결,K-IFRS,assets_total,자산총계,304678.09,억원,,auto
 financial_indicator_2018Q1_10101,2018Q1,quarter,단일분기,연결,,ebitda,EBITDA,12289.36,억원,,auto
 financial_indicator_2018Q2_10119,2018Q1,quarter,단일분기,연결,,ebitda,EBITDA,12289.36,억원,,auto
@@ -7023,6 +7679,9 @@ financial_indicator_2022Q4_10614,2018Q2,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2018Q2,quarter,단일분기,별도,,revenue_total,Revenue,42830.3,억원,,auto
 financial_indicator_2023Q2_10675,2018Q2,quarter,단일분기,별도,,revenue_total,Revenue,42830.3,억원,,auto
 financial_indicator_2023Q3_10697,2018Q2,quarter,단일분기,별도,,revenue_total,Revenue,42830.3,억원,,auto
+factsheet_2026-06_10891,2018Q2,quarter,시점,별도,,subs_mno,MNO,17017893.0,명,,auto
+factsheet_2026-06_10891,2018Q2,quarter,시점,별도,,subs_mvno,MVNO,3644173.0,명,,auto
+factsheet_2026-06_10891,2018Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,20787130.0,명,,auto
 dart_2018_11012_CFS,2018Q2,quarter,시점,연결,K-IFRS,assets_total,자산총계,299680.12,억원,,auto
 financial_indicator_2018Q2_10119,2018Q2,quarter,단일분기,연결,,ebitda,EBITDA,12212.1,억원,,auto
 financial_indicator_2018Q3_10162,2018Q2,quarter,단일분기,연결,,ebitda,EBITDA,12212.1,억원,,auto
@@ -7415,6 +8074,9 @@ financial_indicator_2022Q4_10614,2018Q3,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2018Q3,quarter,단일분기,별도,,revenue_total,Revenue,43581.7,억원,,auto
 financial_indicator_2023Q2_10675,2018Q3,quarter,단일분기,별도,,revenue_total,Revenue,43581.7,억원,,auto
 financial_indicator_2023Q3_10697,2018Q3,quarter,단일분기,별도,,revenue_total,Revenue,43581.7,억원,,auto
+factsheet_2026-06_10891,2018Q3,quarter,시점,별도,,subs_mno,MNO,17221478.0,명,,auto
+factsheet_2026-06_10891,2018Q3,quarter,시점,별도,,subs_mvno,MVNO,3698288.0,명,,auto
+factsheet_2026-06_10891,2018Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,20960143.0,명,,auto
 dart_2018_11014_CFS,2018Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,326445.08,억원,,auto
 financial_indicator_2018Q3_10162,2018Q3,quarter,단일분기,연결,,ebitda,EBITDA,11848.6,억원,,auto
 financial_indicator_2018Q4_10182,2018Q3,quarter,단일분기,연결,,ebitda,EBITDA,11848.6,억원,,auto
@@ -7778,6 +8440,9 @@ financial_indicator_2022Q4_10614,2018Q4,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2018Q4,quarter,단일분기,별도,,revenue_total,Revenue,44181.78,억원,,auto
 financial_indicator_2023Q2_10675,2018Q4,quarter,단일분기,별도,,revenue_total,Revenue,44181.78,억원,,auto
 financial_indicator_2023Q3_10697,2018Q4,quarter,단일분기,별도,,revenue_total,Revenue,44181.78,억원,,auto
+factsheet_2026-06_10891,2018Q4,quarter,시점,별도,,subs_mno,MNO,17409116.0,명,,auto
+factsheet_2026-06_10891,2018Q4,quarter,시점,별도,,subs_mvno,MVNO,3711054.0,명,,auto
+factsheet_2026-06_10891,2018Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,21138470.0,명,,auto
 financial_indicator_2018Q4_10182,2018Q4,quarter,단일분기,연결,,ebitda,EBITDA,9082.46,억원,,auto
 financial_indicator_2019Q1_10198,2018Q4,quarter,단일분기,연결,,ebitda,EBITDA,9082.46,억원,,auto
 financial_indicator_2019Q2_10230,2018Q4,quarter,단일분기,연결,,ebitda,EBITDA,9082.46,억원,,auto
@@ -8195,6 +8860,66 @@ financial_indicator_2022Q4_10614,2019,year,연간,연결,,revenue_total,Revenue,
 financial_indicator_2023Q1_10648,2019,year,연간,연결,,revenue_total,Revenue,243420.0,억원,,auto
 financial_indicator_2023Q2_10675,2019,year,연간,연결,,revenue_total,Revenue,243420.0,억원,,auto
 financial_indicator_2023Q3_10697,2019,year,연간,연결,,revenue_total,Revenue,243420.0,억원,,auto
+factsheet_2026-06_10891,2019-01,month,시점,별도,,subs_broadband,Broadband,8745112.0,명,,auto
+factsheet_2026-06_10891,2019-01,month,시점,별도,,subs_iptv,Genie TV,7890390.0,명,,auto
+factsheet_2026-06_10891,2019-01,month,시점,별도,,subs_pstn,PSTN,11580615.0,명,,auto
+factsheet_2026-06_10891,2019-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14923497.0,명,,auto
+factsheet_2026-06_10891,2019-01,month,시점,별도,,subs_voip,VoIP,3342882.0,명,,auto
+factsheet_2026-06_10891,2019-02,month,시점,별도,,subs_broadband,Broadband,8756242.0,명,,auto
+factsheet_2026-06_10891,2019-02,month,시점,별도,,subs_iptv,Genie TV,7920033.0,명,,auto
+factsheet_2026-06_10891,2019-02,month,시점,별도,,subs_pstn,PSTN,11532766.0,명,,auto
+factsheet_2026-06_10891,2019-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14878500.0,명,,auto
+factsheet_2026-06_10891,2019-02,month,시점,별도,,subs_voip,VoIP,3345734.0,명,,auto
+factsheet_2026-06_10891,2019-03,month,시점,별도,,subs_broadband,Broadband,8781835.0,명,,auto
+factsheet_2026-06_10891,2019-03,month,시점,별도,,subs_iptv,Genie TV,7965733.0,명,,auto
+factsheet_2026-06_10891,2019-03,month,시점,별도,,subs_pstn,PSTN,11489373.0,명,,auto
+factsheet_2026-06_10891,2019-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14829652.0,명,,auto
+factsheet_2026-06_10891,2019-03,month,시점,별도,,subs_voip,VoIP,3340279.0,명,,auto
+factsheet_2026-06_10891,2019-04,month,시점,별도,,subs_broadband,Broadband,8807673.0,명,,auto
+factsheet_2026-06_10891,2019-04,month,시점,별도,,subs_iptv,Genie TV,8023369.0,명,,auto
+factsheet_2026-06_10891,2019-04,month,시점,별도,,subs_pstn,PSTN,11443491.0,명,,auto
+factsheet_2026-06_10891,2019-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14779829.0,명,,auto
+factsheet_2026-06_10891,2019-04,month,시점,별도,,subs_voip,VoIP,3336338.0,명,,auto
+factsheet_2026-06_10891,2019-05,month,시점,별도,,subs_broadband,Broadband,8826338.0,명,,auto
+factsheet_2026-06_10891,2019-05,month,시점,별도,,subs_iptv,Genie TV,8065312.0,명,,auto
+factsheet_2026-06_10891,2019-05,month,시점,별도,,subs_pstn,PSTN,11387753.0,명,,auto
+factsheet_2026-06_10891,2019-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14602162.0,명,,auto
+factsheet_2026-06_10891,2019-05,month,시점,별도,,subs_voip,VoIP,3214409.0,명,,auto
+factsheet_2026-06_10891,2019-06,month,시점,별도,,subs_broadband,Broadband,8849483.0,명,,auto
+factsheet_2026-06_10891,2019-06,month,시점,별도,,subs_iptv,Genie TV,8113100.0,명,,auto
+factsheet_2026-06_10891,2019-06,month,시점,별도,,subs_pstn,PSTN,11342798.0,명,,auto
+factsheet_2026-06_10891,2019-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14553643.0,명,,auto
+factsheet_2026-06_10891,2019-06,month,시점,별도,,subs_voip,VoIP,3210845.0,명,,auto
+factsheet_2026-06_10891,2019-07,month,시점,별도,,subs_broadband,Broadband,8867721.0,명,,auto
+factsheet_2026-06_10891,2019-07,month,시점,별도,,subs_iptv,Genie TV,8150639.0,명,,auto
+factsheet_2026-06_10891,2019-07,month,시점,별도,,subs_pstn,PSTN,11288675.0,명,,auto
+factsheet_2026-06_10891,2019-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14500174.0,명,,auto
+factsheet_2026-06_10891,2019-07,month,시점,별도,,subs_voip,VoIP,3211499.0,명,,auto
+factsheet_2026-06_10891,2019-08,month,시점,별도,,subs_broadband,Broadband,8887908.0,명,,auto
+factsheet_2026-06_10891,2019-08,month,시점,별도,,subs_iptv,Genie TV,8191393.0,명,,auto
+factsheet_2026-06_10891,2019-08,month,시점,별도,,subs_pstn,PSTN,11234789.0,명,,auto
+factsheet_2026-06_10891,2019-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14430533.0,명,,auto
+factsheet_2026-06_10891,2019-08,month,시점,별도,,subs_voip,VoIP,3195744.0,명,,auto
+factsheet_2026-06_10891,2019-09,month,시점,별도,,subs_broadband,Broadband,8903923.0,명,,auto
+factsheet_2026-06_10891,2019-09,month,시점,별도,,subs_iptv,Genie TV,8229149.0,명,,auto
+factsheet_2026-06_10891,2019-09,month,시점,별도,,subs_pstn,PSTN,11191540.0,명,,auto
+factsheet_2026-06_10891,2019-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14385696.0,명,,auto
+factsheet_2026-06_10891,2019-09,month,시점,별도,,subs_voip,VoIP,3194156.0,명,,auto
+factsheet_2026-06_10891,2019-10,month,시점,별도,,subs_broadband,Broadband,8925700.0,명,,auto
+factsheet_2026-06_10891,2019-10,month,시점,별도,,subs_iptv,Genie TV,8274718.0,명,,auto
+factsheet_2026-06_10891,2019-10,month,시점,별도,,subs_pstn,PSTN,11141986.0,명,,auto
+factsheet_2026-06_10891,2019-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14283072.0,명,,auto
+factsheet_2026-06_10891,2019-10,month,시점,별도,,subs_voip,VoIP,3141086.0,명,,auto
+factsheet_2026-06_10891,2019-11,month,시점,별도,,subs_broadband,Broadband,8949514.0,명,,auto
+factsheet_2026-06_10891,2019-11,month,시점,별도,,subs_iptv,Genie TV,8316742.0,명,,auto
+factsheet_2026-06_10891,2019-11,month,시점,별도,,subs_pstn,PSTN,11098712.0,명,,auto
+factsheet_2026-06_10891,2019-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14235148.0,명,,auto
+factsheet_2026-06_10891,2019-11,month,시점,별도,,subs_voip,VoIP,3136436.0,명,,auto
+factsheet_2026-06_10891,2019-12,month,시점,별도,,subs_broadband,Broadband,8962390.0,명,,auto
+factsheet_2026-06_10891,2019-12,month,시점,별도,,subs_iptv,Genie TV,8351227.0,명,,auto
+factsheet_2026-06_10891,2019-12,month,시점,별도,,subs_pstn,PSTN,11051940.0,명,,auto
+factsheet_2026-06_10891,2019-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14184875.0,명,,auto
+factsheet_2026-06_10891,2019-12,month,시점,별도,,subs_voip,VoIP,3132935.0,명,,auto
 dart_2019_11013_OFS,2019Q1,quarter,시점,별도,K-IFRS,assets_total,자산총계,268377.32,억원,,auto
 financial_indicator_2019Q1_10198,2019Q1,quarter,단일분기,별도,,capex_access,- Access Network,4173.0,억원,,auto
 financial_indicator_2019Q2_10230,2019Q1,quarter,단일분기,별도,,capex_access,- Access Network,4173.0,억원,,auto
@@ -8415,6 +9140,9 @@ financial_indicator_2022Q4_10614,2019Q1,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2019Q1,quarter,단일분기,별도,,revenue_total,Revenue,43343.0,억원,,auto
 financial_indicator_2023Q2_10675,2019Q1,quarter,단일분기,별도,,revenue_total,Revenue,43343.0,억원,,auto
 financial_indicator_2023Q3_10697,2019Q1,quarter,단일분기,별도,,revenue_total,Revenue,43343.0,억원,,auto
+factsheet_2026-06_10891,2019Q1,quarter,시점,별도,,subs_mno,MNO,17578076.0,명,,auto
+factsheet_2026-06_10891,2019Q1,quarter,시점,별도,,subs_mvno,MVNO,3755338.0,명,,auto
+factsheet_2026-06_10891,2019Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,21333414.0,명,,auto
 dart_2019_11013_CFS,2019Q1,quarter,시점,연결,K-IFRS,assets_total,자산총계,332478.45,억원,,auto
 financial_indicator_2019Q1_10198,2019Q1,quarter,단일분기,연결,,ebitda,EBITDA,13095.0,억원,,auto
 financial_indicator_2019Q2_10230,2019Q1,quarter,단일분기,연결,,ebitda,EBITDA,13095.0,억원,,auto
@@ -8751,6 +9479,9 @@ financial_indicator_2022Q4_10614,2019Q2,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2019Q2,quarter,단일분기,별도,,revenue_total,Revenue,45585.0,억원,,auto
 financial_indicator_2023Q2_10675,2019Q2,quarter,단일분기,별도,,revenue_total,Revenue,45585.0,억원,,auto
 financial_indicator_2023Q3_10697,2019Q2,quarter,단일분기,별도,,revenue_total,Revenue,45585.0,억원,,auto
+factsheet_2026-06_10891,2019Q2,quarter,시점,별도,,subs_mno,MNO,17781217.0,명,,auto
+factsheet_2026-06_10891,2019Q2,quarter,시점,별도,,subs_mvno,MVNO,3768058.0,명,,auto
+factsheet_2026-06_10891,2019Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,21549275.0,명,,auto
 dart_2019_11012_CFS,2019Q2,quarter,시점,연결,K-IFRS,assets_total,자산총계,334694.33,억원,,auto
 financial_indicator_2019Q2_10230,2019Q2,quarter,단일분기,연결,,ebitda,EBITDA,11913.0,억원,,auto
 financial_indicator_2019Q3_10246,2019Q2,quarter,단일분기,연결,,ebitda,EBITDA,11913.0,억원,,auto
@@ -9069,6 +9800,9 @@ financial_indicator_2022Q4_10614,2019Q3,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2019Q3,quarter,단일분기,별도,,revenue_total,Revenue,47057.0,억원,,auto
 financial_indicator_2023Q2_10675,2019Q3,quarter,단일분기,별도,,revenue_total,Revenue,47057.0,억원,,auto
 financial_indicator_2023Q3_10697,2019Q3,quarter,단일분기,별도,,revenue_total,Revenue,47057.0,억원,,auto
+factsheet_2026-06_10891,2019Q3,quarter,시점,별도,,subs_mno,MNO,17979192.0,명,,auto
+factsheet_2026-06_10891,2019Q3,quarter,시점,별도,,subs_mvno,MVNO,3792203.0,명,,auto
+factsheet_2026-06_10891,2019Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,21771395.0,명,,auto
 dart_2019_11014_CFS,2019Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,336612.92,억원,,auto
 financial_indicator_2019Q3_10246,2019Q3,quarter,단일분기,연결,,ebitda,EBITDA,12098.0,억원,,auto
 financial_indicator_2019Q4_10284,2019Q3,quarter,단일분기,연결,,ebitda,EBITDA,12098.0,억원,,auto
@@ -9362,6 +10096,9 @@ financial_indicator_2022Q4_10614,2019Q4,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2019Q4,quarter,단일분기,별도,,revenue_total,Revenue,46062.0,억원,,auto
 financial_indicator_2023Q2_10675,2019Q4,quarter,단일분기,별도,,revenue_total,Revenue,46062.0,억원,,auto
 financial_indicator_2023Q3_10697,2019Q4,quarter,단일분기,별도,,revenue_total,Revenue,46062.0,억원,,auto
+factsheet_2026-06_10891,2019Q4,quarter,시점,별도,,subs_mno,MNO,18150190.0,명,,auto
+factsheet_2026-06_10891,2019Q4,quarter,시점,별도,,subs_mvno,MVNO,3771536.0,명,,auto
+factsheet_2026-06_10891,2019Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,21921726.0,명,,auto
 financial_indicator_2019Q4_10284,2019Q4,quarter,단일분기,연결,,ebitda,EBITDA,10793.0,억원,,auto
 financial_indicator_2020Q1_10305,2019Q4,quarter,단일분기,연결,,ebitda,EBITDA,10793.0,억원,,auto
 financial_indicator_2020Q2_10325,2019Q4,quarter,단일분기,연결,,ebitda,EBITDA,10793.0,억원,,auto
@@ -9682,6 +10419,67 @@ financial_indicator_2022Q4_10614,2020,year,연간,연결,,revenue_total,Revenue,
 financial_indicator_2023Q1_10648,2020,year,연간,연결,,revenue_total,Revenue,239167.0,억원,,auto
 financial_indicator_2023Q2_10675,2020,year,연간,연결,,revenue_total,Revenue,239167.0,억원,,auto
 financial_indicator_2023Q3_10697,2020,year,연간,연결,,revenue_total,Revenue,239167.0,억원,,auto
+factsheet_2026-06_10891,2020-01,month,시점,별도,,subs_broadband,Broadband,8939810.0,명,,auto
+factsheet_2026-06_10891,2020-01,month,시점,별도,,subs_iptv,Genie TV,8353098.0,명,,auto
+factsheet_2026-06_10891,2020-01,month,시점,별도,,subs_pstn,PSTN,11001468.0,명,,auto
+factsheet_2026-06_10891,2020-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14139086.0,명,,auto
+factsheet_2026-06_10891,2020-01,month,시점,별도,,subs_voip,VoIP,3137618.0,명,,auto
+factsheet_2026-06_10891,2020-02,month,시점,별도,,subs_broadband,Broadband,8938871.0,명,,auto
+factsheet_2026-06_10891,2020-02,month,시점,별도,,subs_iptv,Genie TV,8383811.0,명,,auto
+factsheet_2026-06_10891,2020-02,month,시점,별도,,subs_pstn,PSTN,10954017.0,명,,auto
+factsheet_2026-06_10891,2020-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14091524.0,명,,auto
+factsheet_2026-06_10891,2020-02,month,시점,별도,,subs_voip,VoIP,3137507.0,명,,auto
+factsheet_2026-06_10891,2020-03,month,시점,별도,,subs_broadband,Broadband,8962448.0,명,,auto
+factsheet_2026-06_10891,2020-03,month,시점,별도,,subs_iptv,Genie TV,8422106.0,명,,auto
+factsheet_2026-06_10891,2020-03,month,시점,별도,,subs_pstn,PSTN,10897979.0,명,,auto
+factsheet_2026-06_10891,2020-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),14033364.0,명,,auto
+factsheet_2026-06_10891,2020-03,month,시점,별도,,subs_voip,VoIP,3135385.0,명,,auto
+factsheet_2026-06_10891,2020-04,month,시점,별도,,subs_broadband,Broadband,8986824.0,명,,auto
+factsheet_2026-06_10891,2020-04,month,시점,별도,,subs_iptv,Genie TV,8459060.0,명,,auto
+factsheet_2026-06_10891,2020-04,month,시점,별도,,subs_pstn,PSTN,10840865.0,명,,auto
+factsheet_2026-06_10891,2020-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13971852.0,명,,auto
+factsheet_2026-06_10891,2020-04,month,시점,별도,,subs_voip,VoIP,3130987.0,명,,auto
+factsheet_2026-06_10891,2020-05,month,시점,별도,,subs_broadband,Broadband,9014218.0,명,,auto
+factsheet_2026-06_10891,2020-05,month,시점,별도,,subs_iptv,Genie TV,8507050.0,명,,auto
+factsheet_2026-06_10891,2020-05,month,시점,별도,,subs_pstn,PSTN,10786650.0,명,,auto
+factsheet_2026-06_10891,2020-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13914094.0,명,,auto
+factsheet_2026-06_10891,2020-05,month,시점,별도,,subs_voip,VoIP,3127444.0,명,,auto
+factsheet_2026-06_10891,2020-06,month,시점,별도,,subs_broadband,Broadband,9043135.0,명,,auto
+factsheet_2026-06_10891,2020-06,month,시점,별도,,subs_iptv,Genie TV,8559260.0,명,,auto
+factsheet_2026-06_10891,2020-06,month,시점,별도,,subs_pstn,PSTN,10735639.0,명,,auto
+factsheet_2026-06_10891,2020-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13863019.0,명,,auto
+factsheet_2026-06_10891,2020-06,month,시점,별도,,subs_voip,VoIP,3127380.0,명,,auto
+factsheet_2026-06_10891,2020-07,month,시점,별도,,subs_broadband,Broadband,9068322.0,명,,auto
+factsheet_2026-06_10891,2020-07,month,시점,별도,,subs_iptv,Genie TV,8598645.0,명,,auto
+factsheet_2026-06_10891,2020-07,month,시점,별도,,subs_pstn,PSTN,10692331.0,명,,auto
+factsheet_2026-06_10891,2020-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13821925.0,명,,auto
+factsheet_2026-06_10891,2020-07,month,시점,별도,,subs_voip,VoIP,3129594.0,명,,auto
+factsheet_2026-06_10891,2020-08,month,시점,별도,,subs_broadband,Broadband,9094973.0,명,,auto
+factsheet_2026-06_10891,2020-08,month,시점,별도,,subs_iptv,Genie TV,8639342.0,명,,auto
+factsheet_2026-06_10891,2020-08,month,시점,별도,,subs_pstn,PSTN,10644123.0,명,,auto
+factsheet_2026-06_10891,2020-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13775275.0,명,,auto
+factsheet_2026-06_10891,2020-08,month,시점,별도,,subs_voip,VoIP,3131152.0,명,,auto
+factsheet_2026-06_10891,2020-09,month,시점,별도,,subs_broadband,Broadband,9129912.0,명,,auto
+factsheet_2026-06_10891,2020-09,month,시점,별도,,subs_iptv,Genie TV,8687278.0,명,,auto
+factsheet_2026-06_10891,2020-09,month,시점,별도,,subs_pstn,PSTN,10593883.0,명,,auto
+factsheet_2026-06_10891,2020-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13731677.0,명,,auto
+factsheet_2026-06_10891,2020-09,month,시점,별도,,subs_voip,VoIP,3137794.0,명,,auto
+factsheet_2026-06_10891,2020-10,month,시점,별도,,subs_broadband,Broadband,9162051.0,명,,auto
+factsheet_2026-06_10891,2020-10,month,시점,별도,,subs_iptv,Genie TV,8737154.0,명,,auto
+factsheet_2026-06_10891,2020-10,month,시점,별도,,subs_pstn,PSTN,10548072.0,명,,auto
+factsheet_2026-06_10891,2020-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13685850.0,명,,auto
+factsheet_2026-06_10891,2020-10,month,시점,별도,,subs_voip,VoIP,3137778.0,명,,auto
+factsheet_2026-06_10891,2020-11,month,시점,별도,,subs_broadband,Broadband,9186264.0,명,,auto
+factsheet_2026-06_10891,2020-11,month,시점,별도,,subs_iptv,Genie TV,8763550.0,명,,auto
+factsheet_2026-06_10891,2020-11,month,시점,별도,,subs_pstn,PSTN,10501435.0,명,,auto
+factsheet_2026-06_10891,2020-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13636059.0,명,,auto
+factsheet_2026-06_10891,2020-11,month,시점,별도,,subs_voip,VoIP,3134624.0,명,,auto
+factsheet_2026-06_10891,2020-12,month,시점,별도,,subs_broadband,Broadband,9171398.0,명,,auto
+factsheet_2026-06_10891,2020-12,month,시점,별도,,subs_iptv,Genie TV,8762836.0,명,,auto
+factsheet_2026-06_10891,2020-12,month,시점,별도,,subs_pstn,PSTN,10448918.0,명,,auto
+factsheet_2026-06_10891,2020-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13582298.0,명,,auto
+factsheet_2026-06_10891,2020-12,month,시점,별도,,subs_voip,VoIP,3133380.0,명,,auto
+factsheet_2026-06_10891,2020Q1,quarter,시점,별도,,arpu_wireless,ARPU,31047.54,원,,auto
 dart_2020_11013_OFS,2020Q1,quarter,시점,별도,K-IFRS,assets_total,자산총계,270690.75,억원,,auto
 financial_indicator_2020Q1_10305,2020Q1,quarter,단일분기,별도,,capex_access,- Access Network,2257.0,억원,,auto
 financial_indicator_2020Q2_10325,2020Q1,quarter,단일분기,별도,,capex_access,- Access Network,2257.0,억원,,auto
@@ -9858,6 +10656,10 @@ financial_indicator_2022Q4_10614,2020Q1,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2020Q1,quarter,단일분기,별도,,revenue_total,Revenue,44291.0,억원,,auto
 financial_indicator_2023Q2_10675,2020Q1,quarter,단일분기,별도,,revenue_total,Revenue,44291.0,억원,,auto
 financial_indicator_2023Q3_10697,2020Q1,quarter,단일분기,별도,,revenue_total,Revenue,44291.0,억원,,auto
+factsheet_2026-06_10891,2020Q1,quarter,시점,별도,,subs_mno,MNO,18331607.0,명,,auto
+factsheet_2026-06_10891,2020Q1,quarter,시점,별도,,subs_mvno,MVNO,3644739.0,명,,auto
+factsheet_2020-08_10361,2020Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,21974648.0,명,,auto
+factsheet_2026-06_10891,2020Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,21976346.0,명,,auto
 dart_2020_11013_CFS,2020Q1,quarter,시점,연결,K-IFRS,assets_total,자산총계,326309.54,억원,,auto
 financial_indicator_2020Q1_10305,2020Q1,quarter,단일분기,연결,,ebitda,EBITDA,12958.0,억원,,auto
 financial_indicator_2020Q2_10325,2020Q1,quarter,단일분기,연결,,ebitda,EBITDA,12958.0,억원,,auto
@@ -9961,6 +10763,7 @@ financial_indicator_2022Q4_10614,2020Q1,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2023Q1_10648,2020Q1,quarter,단일분기,연결,,revenue_total,Revenue,58317.0,억원,,auto
 financial_indicator_2023Q2_10675,2020Q1,quarter,단일분기,연결,,revenue_total,Revenue,58317.0,억원,,auto
 financial_indicator_2023Q3_10697,2020Q1,quarter,단일분기,연결,,revenue_total,Revenue,58317.0,억원,,auto
+factsheet_2026-06_10891,2020Q2,quarter,시점,별도,,arpu_wireless,ARPU,30656.94,원,,auto
 dart_2020_11012_OFS,2020Q2,quarter,시점,별도,K-IFRS,assets_total,자산총계,275780.02,억원,,auto
 financial_indicator_2020Q2_10325,2020Q2,quarter,단일분기,별도,,capex_access,- Access Network,2986.0,억원,,auto
 financial_indicator_2020Q3_10398,2020Q2,quarter,단일분기,별도,,capex_access,- Access Network,2986.0,억원,,auto
@@ -10126,6 +10929,10 @@ financial_indicator_2022Q4_10614,2020Q2,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2020Q2,quarter,단일분기,별도,,revenue_total,Revenue,43396.0,억원,,auto
 financial_indicator_2023Q2_10675,2020Q2,quarter,단일분기,별도,,revenue_total,Revenue,43396.0,억원,,auto
 financial_indicator_2023Q3_10697,2020Q2,quarter,단일분기,별도,,revenue_total,Revenue,43396.0,억원,,auto
+factsheet_2026-06_10891,2020Q2,quarter,시점,별도,,subs_mno,MNO,18616094.0,명,,auto
+factsheet_2026-06_10891,2020Q2,quarter,시점,별도,,subs_mvno,MVNO,3517324.0,명,,auto
+factsheet_2020-08_10361,2020Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,22116428.0,명,,auto
+factsheet_2026-06_10891,2020Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,22133418.0,명,,auto
 dart_2020_11012_CFS,2020Q2,quarter,시점,연결,K-IFRS,assets_total,자산총계,340034.35,억원,,auto
 financial_indicator_2020Q2_10325,2020Q2,quarter,단일분기,연결,,ebitda,EBITDA,12526.0,억원,,auto
 financial_indicator_2020Q3_10398,2020Q2,quarter,단일분기,연결,,ebitda,EBITDA,12526.0,억원,,auto
@@ -10223,6 +11030,7 @@ financial_indicator_2022Q4_10614,2020Q2,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2023Q1_10648,2020Q2,quarter,단일분기,연결,,revenue_total,Revenue,58765.0,억원,,auto
 financial_indicator_2023Q2_10675,2020Q2,quarter,단일분기,연결,,revenue_total,Revenue,58765.0,억원,,auto
 financial_indicator_2023Q3_10697,2020Q2,quarter,단일분기,연결,,revenue_total,Revenue,58765.0,억원,,auto
+factsheet_2026-06_10891,2020Q3,quarter,시점,별도,,arpu_wireless,ARPU,30815.52,원,,auto
 dart_2020_11014_OFS,2020Q3,quarter,시점,별도,K-IFRS,assets_total,자산총계,281854.68,억원,,auto
 financial_indicator_2020Q3_10398,2020Q3,quarter,단일분기,별도,,capex_access,- Access Network,4896.0,억원,,auto
 financial_indicator_2020Q4_10399,2020Q3,quarter,단일분기,별도,,capex_access,- Access Network,4896.0,억원,,auto
@@ -10377,6 +11185,9 @@ financial_indicator_2022Q4_10614,2020Q3,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2020Q3,quarter,단일분기,별도,,revenue_total,Revenue,45205.0,억원,,auto
 financial_indicator_2023Q2_10675,2020Q3,quarter,단일분기,별도,,revenue_total,Revenue,45205.0,억원,,auto
 financial_indicator_2023Q3_10697,2020Q3,quarter,단일분기,별도,,revenue_total,Revenue,45205.0,억원,,auto
+factsheet_2026-06_10891,2020Q3,quarter,시점,별도,,subs_mno,MNO,18841428.0,명,,auto
+factsheet_2026-06_10891,2020Q3,quarter,시점,별도,,subs_mvno,MVNO,3491512.0,명,,auto
+factsheet_2026-06_10891,2020Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,22332940.0,명,,auto
 dart_2020_11014_CFS,2020Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,358605.5,억원,,auto
 financial_indicator_2020Q3_10398,2020Q3,quarter,단일분기,연결,,ebitda,EBITDA,11971.0,억원,,auto
 financial_indicator_2020Q4_10399,2020Q3,quarter,단일분기,연결,,ebitda,EBITDA,11971.0,억원,,auto
@@ -10468,6 +11279,7 @@ financial_indicator_2022Q4_10614,2020Q3,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2023Q1_10648,2020Q3,quarter,단일분기,연결,,revenue_total,Revenue,60012.0,억원,,auto
 financial_indicator_2023Q2_10675,2020Q3,quarter,단일분기,연결,,revenue_total,Revenue,60012.0,억원,,auto
 financial_indicator_2023Q3_10697,2020Q3,quarter,단일분기,연결,,revenue_total,Revenue,60012.0,억원,,auto
+factsheet_2026-06_10891,2020Q4,quarter,시점,별도,,arpu_wireless,ARPU,31109.0,원,,auto
 financial_indicator_2020Q4_10399,2020Q4,quarter,단일분기,별도,,capex_access,- Access Network,5787.0,억원,,auto
 financial_indicator_2021Q1_10432,2020Q4,quarter,단일분기,별도,,capex_access,- Access Network,5787.0,억원,,auto
 financial_indicator_2021Q2_10452,2020Q4,quarter,단일분기,별도,,capex_access,- Access Network,5787.0,억원,,auto
@@ -10600,6 +11412,9 @@ financial_indicator_2022Q4_10614,2020Q4,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2023Q1_10648,2020Q4,quarter,단일분기,별도,,revenue_total,Revenue,45900.0,억원,,auto
 financial_indicator_2023Q2_10675,2020Q4,quarter,단일분기,별도,,revenue_total,Revenue,45900.0,억원,,auto
 financial_indicator_2023Q3_10697,2020Q4,quarter,단일분기,별도,,revenue_total,Revenue,45900.0,억원,,auto
+factsheet_2026-06_10891,2020Q4,quarter,시점,별도,,subs_mno,MNO,17388291.0,명,,auto
+factsheet_2026-06_10891,2020Q4,quarter,시점,별도,,subs_mvno,MVNO,4916905.0,명,,auto
+factsheet_2026-06_10891,2020Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,22305196.0,명,,auto
 financial_indicator_2020Q4_10399,2020Q4,quarter,단일분기,연결,,ebitda,EBITDA,10728.0,억원,,auto
 financial_indicator_2021Q1_10432,2020Q4,quarter,단일분기,연결,,ebitda,EBITDA,10671.0,억원,,auto
 financial_indicator_2021Q2_10452,2020Q4,quarter,단일분기,연결,,ebitda,EBITDA,10671.0,억원,,auto
@@ -10917,6 +11732,67 @@ financial_indicator_2024Q1_10746,2021,year,연간,연결,,revenue_total,Revenue,
 financial_indicator_2024Q2_10766,2021,year,연간,연결,,revenue_total,Revenue,248980.0,억원,,auto
 financial_indicator_2024Q3_10791,2021,year,연간,연결,,revenue_total,Revenue,248980.0,억원,,auto
 financial_indicator_2024Q4_10806,2021,year,연간,연결,,revenue_total,Revenue,248980.0,억원,,auto
+factsheet_2026-06_10891,2021-01,month,시점,별도,,subs_broadband,Broadband,9208634.0,명,,auto
+factsheet_2026-06_10891,2021-01,month,시점,별도,,subs_iptv,Genie TV,8810773.0,명,,auto
+factsheet_2026-06_10891,2021-01,month,시점,별도,,subs_pstn,PSTN,10400105.0,명,,auto
+factsheet_2026-06_10891,2021-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13536668.0,명,,auto
+factsheet_2026-06_10891,2021-01,month,시점,별도,,subs_voip,VoIP,3136563.0,명,,auto
+factsheet_2026-06_10891,2021-02,month,시점,별도,,subs_broadband,Broadband,9239372.0,명,,auto
+factsheet_2026-06_10891,2021-02,month,시점,별도,,subs_iptv,Genie TV,8852653.0,명,,auto
+factsheet_2026-06_10891,2021-02,month,시점,별도,,subs_pstn,PSTN,10357557.0,명,,auto
+factsheet_2026-06_10891,2021-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13498343.0,명,,auto
+factsheet_2026-06_10891,2021-02,month,시점,별도,,subs_voip,VoIP,3140786.0,명,,auto
+factsheet_2026-06_10891,2021-03,month,시점,별도,,subs_broadband,Broadband,9275801.0,명,,auto
+factsheet_2026-06_10891,2021-03,month,시점,별도,,subs_iptv,Genie TV,8892928.0,명,,auto
+factsheet_2026-06_10891,2021-03,month,시점,별도,,subs_pstn,PSTN,10310867.0,명,,auto
+factsheet_2026-06_10891,2021-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13460102.0,명,,auto
+factsheet_2026-06_10891,2021-03,month,시점,별도,,subs_voip,VoIP,3149235.0,명,,auto
+factsheet_2026-06_10891,2021-04,month,시점,별도,,subs_broadband,Broadband,9306553.0,명,,auto
+factsheet_2026-06_10891,2021-04,month,시점,별도,,subs_iptv,Genie TV,8931509.0,명,,auto
+factsheet_2026-06_10891,2021-04,month,시점,별도,,subs_pstn,PSTN,10258575.0,명,,auto
+factsheet_2026-06_10891,2021-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13414001.0,명,,auto
+factsheet_2026-06_10891,2021-04,month,시점,별도,,subs_voip,VoIP,3155426.0,명,,auto
+factsheet_2026-06_10891,2021-05,month,시점,별도,,subs_broadband,Broadband,9332019.0,명,,auto
+factsheet_2026-06_10891,2021-05,month,시점,별도,,subs_iptv,Genie TV,8980418.0,명,,auto
+factsheet_2026-06_10891,2021-05,month,시점,별도,,subs_pstn,PSTN,10215764.0,명,,auto
+factsheet_2026-06_10891,2021-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13372611.0,명,,auto
+factsheet_2026-06_10891,2021-05,month,시점,별도,,subs_voip,VoIP,3156847.0,명,,auto
+factsheet_2026-06_10891,2021-06,month,시점,별도,,subs_broadband,Broadband,9359204.0,명,,auto
+factsheet_2026-06_10891,2021-06,month,시점,별도,,subs_iptv,Genie TV,9020539.0,명,,auto
+factsheet_2026-06_10891,2021-06,month,시점,별도,,subs_pstn,PSTN,10169456.0,명,,auto
+factsheet_2026-06_10891,2021-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13328900.0,명,,auto
+factsheet_2026-06_10891,2021-06,month,시점,별도,,subs_voip,VoIP,3159444.0,명,,auto
+factsheet_2026-06_10891,2021-07,month,시점,별도,,subs_broadband,Broadband,9384204.0,명,,auto
+factsheet_2026-06_10891,2021-07,month,시점,별도,,subs_iptv,Genie TV,9052118.0,명,,auto
+factsheet_2026-06_10891,2021-07,month,시점,별도,,subs_pstn,PSTN,10120610.0,명,,auto
+factsheet_2026-06_10891,2021-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13284630.0,명,,auto
+factsheet_2026-06_10891,2021-07,month,시점,별도,,subs_voip,VoIP,3164020.0,명,,auto
+factsheet_2026-06_10891,2021-08,month,시점,별도,,subs_broadband,Broadband,9406416.0,명,,auto
+factsheet_2026-06_10891,2021-08,month,시점,별도,,subs_iptv,Genie TV,9084109.0,명,,auto
+factsheet_2026-06_10891,2021-08,month,시점,별도,,subs_pstn,PSTN,10075939.0,명,,auto
+factsheet_2026-06_10891,2021-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13250333.0,명,,auto
+factsheet_2026-06_10891,2021-08,month,시점,별도,,subs_voip,VoIP,3174394.0,명,,auto
+factsheet_2026-06_10891,2021-09,month,시점,별도,,subs_broadband,Broadband,9432077.0,명,,auto
+factsheet_2026-06_10891,2021-09,month,시점,별도,,subs_iptv,Genie TV,9122320.0,명,,auto
+factsheet_2026-06_10891,2021-09,month,시점,별도,,subs_pstn,PSTN,10037260.0,명,,auto
+factsheet_2026-06_10891,2021-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13217593.0,명,,auto
+factsheet_2026-06_10891,2021-09,month,시점,별도,,subs_voip,VoIP,3180333.0,명,,auto
+factsheet_2026-06_10891,2021-10,month,시점,별도,,subs_broadband,Broadband,9462788.0,명,,auto
+factsheet_2026-06_10891,2021-10,month,시점,별도,,subs_iptv,Genie TV,9160855.0,명,,auto
+factsheet_2026-06_10891,2021-10,month,시점,별도,,subs_pstn,PSTN,10003012.0,명,,auto
+factsheet_2026-06_10891,2021-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13192273.0,명,,auto
+factsheet_2026-06_10891,2021-10,month,시점,별도,,subs_voip,VoIP,3189261.0,명,,auto
+factsheet_2026-06_10891,2021-11,month,시점,별도,,subs_broadband,Broadband,9472819.0,명,,auto
+factsheet_2026-06_10891,2021-11,month,시점,별도,,subs_iptv,Genie TV,9165543.0,명,,auto
+factsheet_2026-06_10891,2021-11,month,시점,별도,,subs_pstn,PSTN,9957755.0,명,,auto
+factsheet_2026-06_10891,2021-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13148008.0,명,,auto
+factsheet_2026-06_10891,2021-11,month,시점,별도,,subs_voip,VoIP,3190253.0,명,,auto
+factsheet_2026-06_10891,2021-12,month,시점,별도,,subs_broadband,Broadband,9454745.0,명,,auto
+factsheet_2026-06_10891,2021-12,month,시점,별도,,subs_iptv,Genie TV,9143449.0,명,,auto
+factsheet_2026-06_10891,2021-12,month,시점,별도,,subs_pstn,PSTN,9904962.0,명,,auto
+factsheet_2026-06_10891,2021-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13095613.0,명,,auto
+factsheet_2026-06_10891,2021-12,month,시점,별도,,subs_voip,VoIP,3190651.0,명,,auto
+factsheet_2026-06_10891,2021Q1,quarter,시점,별도,,arpu_wireless,ARPU,31151.0,원,,auto
 dart_2021_11013_OFS,2021Q1,quarter,시점,별도,K-IFRS,assets_total,자산총계,276937.2,억원,,auto
 financial_indicator_2021Q1_10432,2021Q1,quarter,단일분기,별도,,capex_access,- Access Network,1497.0,억원,,auto
 financial_indicator_2021Q2_10452,2021Q1,quarter,단일분기,별도,,capex_access,- Access Network,1497.0,억원,,auto
@@ -11104,6 +11980,9 @@ financial_indicator_2024Q1_10746,2021Q1,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2024Q2_10766,2021Q1,quarter,단일분기,별도,,revenue_total,Revenue,45744.53,억원,,auto
 financial_indicator_2024Q3_10791,2021Q1,quarter,단일분기,별도,,revenue_total,Revenue,45744.53,억원,,auto
 financial_indicator_2024Q4_10806,2021Q1,quarter,단일분기,별도,,revenue_total,Revenue,45744.53,억원,,auto
+factsheet_2026-06_10891,2021Q1,quarter,시점,별도,,subs_mno,MNO,17432913.0,명,,auto
+factsheet_2026-06_10891,2021Q1,quarter,시점,별도,,subs_mvno,MVNO,4994316.0,명,,auto
+factsheet_2026-06_10891,2021Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,22427229.0,명,,auto
 dart_2021_11013_CFS,2021Q1,quarter,시점,연결,K-IFRS,assets_total,자산총계,335476.52,억원,,auto
 financial_indicator_2021Q1_10432,2021Q1,quarter,단일분기,연결,,ebitda,EBITDA,13453.0,억원,,auto
 financial_indicator_2021Q2_10452,2021Q1,quarter,단일분기,연결,,ebitda,EBITDA,13453.0,억원,,auto
@@ -11218,6 +12097,7 @@ financial_indicator_2024Q1_10746,2021Q1,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2024Q2_10766,2021Q1,quarter,단일분기,연결,,revenue_total,Revenue,60294.0,억원,,auto
 financial_indicator_2024Q3_10791,2021Q1,quarter,단일분기,연결,,revenue_total,Revenue,60294.0,억원,,auto
 financial_indicator_2024Q4_10806,2021Q1,quarter,단일분기,연결,,revenue_total,Revenue,60294.0,억원,,auto
+factsheet_2026-06_10891,2021Q2,quarter,시점,별도,,arpu_wireless,ARPU,31429.0,원,,auto
 dart_2021_11012_OFS,2021Q2,quarter,시점,별도,K-IFRS,assets_total,자산총계,282034.28,억원,,auto
 financial_indicator_2021Q2_10452,2021Q2,quarter,단일분기,별도,,capex_access,- Access Network,2927.0,억원,,auto
 financial_indicator_2021Q3_10501,2021Q2,quarter,단일분기,별도,,capex_access,- Access Network,2927.0,억원,,auto
@@ -11394,6 +12274,9 @@ financial_indicator_2024Q1_10746,2021Q2,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2024Q2_10766,2021Q2,quarter,단일분기,별도,,revenue_total,Revenue,44788.0,억원,,auto
 financial_indicator_2024Q3_10791,2021Q2,quarter,단일분기,별도,,revenue_total,Revenue,44788.0,억원,,auto
 financial_indicator_2024Q4_10806,2021Q2,quarter,단일분기,별도,,revenue_total,Revenue,44788.0,억원,,auto
+factsheet_2026-06_10891,2021Q2,quarter,시점,별도,,subs_mno,MNO,17497028.0,명,,auto
+factsheet_2026-06_10891,2021Q2,quarter,시점,별도,,subs_mvno,MVNO,5124015.0,명,,auto
+factsheet_2026-06_10891,2021Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,22621043.0,명,,auto
 dart_2021_11012_CFS,2021Q2,quarter,시점,연결,K-IFRS,assets_total,자산총계,341389.5,억원,,auto
 financial_indicator_2021Q2_10452,2021Q2,quarter,단일분기,연결,,ebitda,EBITDA,13732.0,억원,,auto
 financial_indicator_2021Q3_10501,2021Q2,quarter,단일분기,연결,,ebitda,EBITDA,13732.0,억원,,auto
@@ -11502,6 +12385,7 @@ financial_indicator_2024Q1_10746,2021Q2,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2024Q2_10766,2021Q2,quarter,단일분기,연결,,revenue_total,Revenue,60276.0,억원,,auto
 financial_indicator_2024Q3_10791,2021Q2,quarter,단일분기,연결,,revenue_total,Revenue,60276.0,억원,,auto
 financial_indicator_2024Q4_10806,2021Q2,quarter,단일분기,연결,,revenue_total,Revenue,60276.0,억원,,auto
+factsheet_2026-06_10891,2021Q3,quarter,시점,별도,,arpu_wireless,ARPU,31815.0,원,,auto
 dart_2021_11014_OFS,2021Q3,quarter,시점,별도,K-IFRS,assets_total,자산총계,286074.86,억원,,auto
 financial_indicator_2021Q3_10501,2021Q3,quarter,단일분기,별도,,capex_access,- Access Network,2881.0,억원,,auto
 financial_indicator_2021Q4_10519,2021Q3,quarter,단일분기,별도,,capex_access,- Access Network,2881.0,억원,,auto
@@ -11667,6 +12551,9 @@ financial_indicator_2024Q1_10746,2021Q3,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2024Q2_10766,2021Q3,quarter,단일분기,별도,,revenue_total,Revenue,46647.0,억원,,auto
 financial_indicator_2024Q3_10791,2021Q3,quarter,단일분기,별도,,revenue_total,Revenue,46647.0,억원,,auto
 financial_indicator_2024Q4_10806,2021Q3,quarter,단일분기,별도,,revenue_total,Revenue,46647.0,억원,,auto
+factsheet_2026-06_10891,2021Q3,quarter,시점,별도,,subs_mno,MNO,17534618.0,명,,auto
+factsheet_2026-06_10891,2021Q3,quarter,시점,별도,,subs_mvno,MVNO,5200801.0,명,,auto
+factsheet_2026-06_10891,2021Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,22735419.0,명,,auto
 dart_2021_11014_CFS,2021Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,358311.75,억원,,auto
 financial_indicator_2021Q3_10501,2021Q3,quarter,단일분기,연결,,ebitda,EBITDA,12775.0,억원,,auto
 financial_indicator_2021Q4_10519,2021Q3,quarter,단일분기,연결,,ebitda,EBITDA,12775.0,억원,,auto
@@ -11769,6 +12656,7 @@ financial_indicator_2024Q1_10746,2021Q3,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2024Q2_10766,2021Q3,quarter,단일분기,연결,,revenue_total,Revenue,62174.0,억원,,auto
 financial_indicator_2024Q3_10791,2021Q3,quarter,단일분기,연결,,revenue_total,Revenue,62174.0,억원,,auto
 financial_indicator_2024Q4_10806,2021Q3,quarter,단일분기,연결,,revenue_total,Revenue,62174.0,억원,,auto
+factsheet_2026-06_10891,2021Q4,quarter,시점,별도,,arpu_wireless,ARPU,31825.0,원,,auto
 financial_indicator_2021Q4_10519,2021Q4,quarter,단일분기,별도,,capex_access,- Access Network,5057.0,억원,,auto
 financial_indicator_2022Q1_10538,2021Q4,quarter,단일분기,별도,,capex_access,- Access Network,5057.0,억원,,auto
 financial_indicator_2022Q2_10566,2021Q4,quarter,단일분기,별도,,capex_access,- Access Network,5057.0,억원,,auto
@@ -11912,6 +12800,9 @@ financial_indicator_2024Q1_10746,2021Q4,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2024Q2_10766,2021Q4,quarter,단일분기,별도,,revenue_total,Revenue,46695.0,억원,,auto
 financial_indicator_2024Q3_10791,2021Q4,quarter,단일분기,별도,,revenue_total,Revenue,46695.0,억원,,auto
 financial_indicator_2024Q4_10806,2021Q4,quarter,단일분기,별도,,revenue_total,Revenue,46695.0,억원,,auto
+factsheet_2026-06_10891,2021Q4,quarter,시점,별도,,subs_mno,MNO,17466923.0,명,,auto
+factsheet_2026-06_10891,2021Q4,quarter,시점,별도,,subs_mvno,MVNO,5332049.0,명,,auto
+factsheet_2026-06_10891,2021Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,22798972.0,명,,auto
 financial_indicator_2021Q4_10519,2021Q4,quarter,단일분기,연결,,ebitda,EBITDA,12835.0,억원,,auto
 financial_indicator_2022Q1_10538,2021Q4,quarter,단일분기,연결,,ebitda,EBITDA,12835.0,억원,,auto
 financial_indicator_2022Q2_10566,2021Q4,quarter,단일분기,연결,,ebitda,EBITDA,12835.0,억원,,auto
@@ -12235,6 +13126,67 @@ financial_indicator_2025Q3_10852,2022,year,연간,연결,,revenue_total,Revenue,
 financial_indicator_2025Q4_10870,2022,year,연간,연결,,revenue_total,Revenue,256500.0,억원,,auto
 financial_indicator_2026Q1_10880,2022,year,연간,연결,,revenue_total,Revenue,256500.0,억원,,auto
 financial_indicator_2026Q2_10892,2022,year,연간,연결,,revenue_total,Revenue,256500.0,억원,,auto
+factsheet_2026-06_10891,2022-01,month,시점,별도,,subs_broadband,Broadband,9480603.0,명,,auto
+factsheet_2026-06_10891,2022-01,month,시점,별도,,subs_iptv,Genie TV,9183309.0,명,,auto
+factsheet_2026-06_10891,2022-01,month,시점,별도,,subs_pstn,PSTN,9861257.0,명,,auto
+factsheet_2026-06_10891,2022-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13050003.0,명,,auto
+factsheet_2026-06_10891,2022-01,month,시점,별도,,subs_voip,VoIP,3188746.0,명,,auto
+factsheet_2026-06_10891,2022-02,month,시점,별도,,subs_broadband,Broadband,9501457.0,명,,auto
+factsheet_2026-06_10891,2022-02,month,시점,별도,,subs_iptv,Genie TV,9208016.0,명,,auto
+factsheet_2026-06_10891,2022-02,month,시점,별도,,subs_pstn,PSTN,9823845.0,명,,auto
+factsheet_2026-06_10891,2022-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),13021420.0,명,,auto
+factsheet_2026-06_10891,2022-02,month,시점,별도,,subs_voip,VoIP,3197575.0,명,,auto
+factsheet_2026-06_10891,2022-03,month,시점,별도,,subs_broadband,Broadband,9530994.0,명,,auto
+factsheet_2026-06_10891,2022-03,month,시점,별도,,subs_iptv,Genie TV,9236107.0,명,,auto
+factsheet_2026-06_10891,2022-03,month,시점,별도,,subs_pstn,PSTN,9768266.0,명,,auto
+factsheet_2026-06_10891,2022-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12969337.0,명,,auto
+factsheet_2026-06_10891,2022-03,month,시점,별도,,subs_voip,VoIP,3201071.0,명,,auto
+factsheet_2026-06_10891,2022-04,month,시점,별도,,subs_broadband,Broadband,9558680.0,명,,auto
+factsheet_2026-06_10891,2022-04,month,시점,별도,,subs_iptv,Genie TV,9265478.0,명,,auto
+factsheet_2026-06_10891,2022-04,month,시점,별도,,subs_pstn,PSTN,9726848.0,명,,auto
+factsheet_2026-06_10891,2022-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12931911.0,명,,auto
+factsheet_2026-06_10891,2022-04,month,시점,별도,,subs_voip,VoIP,3205063.0,명,,auto
+factsheet_2026-06_10891,2022-05,month,시점,별도,,subs_broadband,Broadband,9584810.0,명,,auto
+factsheet_2026-06_10891,2022-05,month,시점,별도,,subs_iptv,Genie TV,9295149.0,명,,auto
+factsheet_2026-06_10891,2022-05,month,시점,별도,,subs_pstn,PSTN,9680066.0,명,,auto
+factsheet_2026-06_10891,2022-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12892055.0,명,,auto
+factsheet_2026-06_10891,2022-05,month,시점,별도,,subs_voip,VoIP,3211989.0,명,,auto
+factsheet_2026-06_10891,2022-06,month,시점,별도,,subs_broadband,Broadband,9609155.0,명,,auto
+factsheet_2026-06_10891,2022-06,month,시점,별도,,subs_iptv,Genie TV,9328855.0,명,,auto
+factsheet_2026-06_10891,2022-06,month,시점,별도,,subs_pstn,PSTN,9633551.0,명,,auto
+factsheet_2026-06_10891,2022-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12841719.0,명,,auto
+factsheet_2026-06_10891,2022-06,month,시점,별도,,subs_voip,VoIP,3208168.0,명,,auto
+factsheet_2026-06_10891,2022-07,month,시점,별도,,subs_broadband,Broadband,9630801.0,명,,auto
+factsheet_2026-06_10891,2022-07,month,시점,별도,,subs_iptv,Genie TV,9349155.0,명,,auto
+factsheet_2026-06_10891,2022-07,month,시점,별도,,subs_pstn,PSTN,9594161.0,명,,auto
+factsheet_2026-06_10891,2022-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12797833.0,명,,auto
+factsheet_2026-06_10891,2022-07,month,시점,별도,,subs_voip,VoIP,3203672.0,명,,auto
+factsheet_2026-06_10891,2022-08,month,시점,별도,,subs_broadband,Broadband,9653614.0,명,,auto
+factsheet_2026-06_10891,2022-08,month,시점,별도,,subs_iptv,Genie TV,9373578.0,명,,auto
+factsheet_2026-06_10891,2022-08,month,시점,별도,,subs_pstn,PSTN,9538085.0,명,,auto
+factsheet_2026-06_10891,2022-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12743865.0,명,,auto
+factsheet_2026-06_10891,2022-08,month,시점,별도,,subs_voip,VoIP,3205780.0,명,,auto
+factsheet_2026-06_10891,2022-09,month,시점,별도,,subs_broadband,Broadband,9678762.0,명,,auto
+factsheet_2026-06_10891,2022-09,month,시점,별도,,subs_iptv,Genie TV,9399414.0,명,,auto
+factsheet_2026-06_10891,2022-09,month,시점,별도,,subs_pstn,PSTN,9499863.0,명,,auto
+factsheet_2026-06_10891,2022-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12708883.0,명,,auto
+factsheet_2026-06_10891,2022-09,month,시점,별도,,subs_voip,VoIP,3209020.0,명,,auto
+factsheet_2026-06_10891,2022-10,month,시점,별도,,subs_broadband,Broadband,9703437.0,명,,auto
+factsheet_2026-06_10891,2022-10,month,시점,별도,,subs_iptv,Genie TV,9424025.0,명,,auto
+factsheet_2026-06_10891,2022-10,month,시점,별도,,subs_pstn,PSTN,9460541.0,명,,auto
+factsheet_2026-06_10891,2022-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12671316.0,명,,auto
+factsheet_2026-06_10891,2022-10,month,시점,별도,,subs_voip,VoIP,3210775.0,명,,auto
+factsheet_2026-06_10891,2022-11,month,시점,별도,,subs_broadband,Broadband,9719067.0,명,,auto
+factsheet_2026-06_10891,2022-11,month,시점,별도,,subs_iptv,Genie TV,9434599.0,명,,auto
+factsheet_2026-06_10891,2022-11,month,시점,별도,,subs_pstn,PSTN,9420736.0,명,,auto
+factsheet_2026-06_10891,2022-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12625048.0,명,,auto
+factsheet_2026-06_10891,2022-11,month,시점,별도,,subs_voip,VoIP,3204312.0,명,,auto
+factsheet_2026-06_10891,2022-12,month,시점,별도,,subs_broadband,Broadband,9726575.0,명,,auto
+factsheet_2026-06_10891,2022-12,month,시점,별도,,subs_iptv,Genie TV,9432130.0,명,,auto
+factsheet_2026-06_10891,2022-12,month,시점,별도,,subs_pstn,PSTN,9375688.0,명,,auto
+factsheet_2026-06_10891,2022-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12581257.0,명,,auto
+factsheet_2026-06_10891,2022-12,month,시점,별도,,subs_voip,VoIP,3205569.0,명,,auto
+factsheet_2026-06_10891,2022Q1,quarter,시점,별도,,arpu_wireless,ARPU,32308.39,원,,auto
 dart_2022_11013_OFS,2022Q1,quarter,시점,별도,K-IFRS,assets_total,자산총계,293055.75,억원,,auto
 financial_indicator_2022Q1_10538,2022Q1,quarter,단일분기,별도,,capex_access,- Access Network,1887.0,억원,,auto
 financial_indicator_2022Q2_10566,2022Q1,quarter,단일분기,별도,,capex_access,- Access Network,1887.0,억원,,auto
@@ -12444,6 +13396,9 @@ financial_indicator_2025Q3_10852,2022Q1,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2022Q1,quarter,단일분기,별도,,revenue_total,Revenue,46084.0,억원,,auto
 financial_indicator_2026Q1_10880,2022Q1,quarter,단일분기,별도,,revenue_total,Revenue,46084.0,억원,,auto
 financial_indicator_2026Q2_10892,2022Q1,quarter,단일분기,별도,,revenue_total,Revenue,46084.0,억원,,auto
+factsheet_2026-06_10891,2022Q1,quarter,시점,별도,,subs_mno,MNO,17444000.0,명,,auto
+factsheet_2026-06_10891,2022Q1,quarter,시점,별도,,subs_mvno,MVNO,5615858.0,명,,auto
+factsheet_2026-06_10891,2022Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,23059858.0,명,,auto
 dart_2022_11013_CFS,2022Q1,quarter,시점,연결,K-IFRS,assets_total,자산총계,373011.04,억원,,auto
 financial_indicator_2022Q1_10538,2022Q1,quarter,단일분기,연결,,ebitda,EBITDA,15183.0,억원,,auto
 financial_indicator_2022Q2_10566,2022Q1,quarter,단일분기,연결,,ebitda,EBITDA,15183.0,억원,,auto
@@ -12576,6 +13531,7 @@ financial_indicator_2025Q3_10852,2022Q1,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2022Q1,quarter,단일분기,연결,,revenue_total,Revenue,62777.0,억원,,auto
 financial_indicator_2026Q1_10880,2022Q1,quarter,단일분기,연결,,revenue_total,Revenue,62777.0,억원,,auto
 financial_indicator_2026Q2_10892,2022Q1,quarter,단일분기,연결,,revenue_total,Revenue,62777.0,억원,,auto
+factsheet_2026-06_10891,2022Q2,quarter,시점,별도,,arpu_wireless,ARPU,32446.0,원,,auto
 dart_2022_11012_OFS,2022Q2,quarter,시점,별도,K-IFRS,assets_total,자산총계,301695.13,억원,,auto
 financial_indicator_2022Q2_10566,2022Q2,quarter,단일분기,별도,,capex_access,- Access Network,5125.0,억원,,auto
 financial_indicator_2022Q3_10599,2022Q2,quarter,단일분기,별도,,capex_access,- Access Network,5125.0,억원,,auto
@@ -12774,6 +13730,9 @@ financial_indicator_2025Q3_10852,2022Q2,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2022Q2,quarter,단일분기,별도,,revenue_total,Revenue,45178.0,억원,,auto
 financial_indicator_2026Q1_10880,2022Q2,quarter,단일분기,별도,,revenue_total,Revenue,45178.0,억원,,auto
 financial_indicator_2026Q2_10892,2022Q2,quarter,단일분기,별도,,revenue_total,Revenue,45178.0,억원,,auto
+factsheet_2026-06_10891,2022Q2,quarter,시점,별도,,subs_mno,MNO,17434290.0,명,,auto
+factsheet_2026-06_10891,2022Q2,quarter,시점,별도,,subs_mvno,MVNO,5974461.0,명,,auto
+factsheet_2026-06_10891,2022Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,23408751.0,명,,auto
 dart_2022_11012_CFS,2022Q2,quarter,시점,연결,K-IFRS,assets_total,자산총계,390662.84,억원,,auto
 financial_indicator_2022Q2_10566,2022Q2,quarter,단일분기,연결,,ebitda,EBITDA,13872.0,억원,,auto
 financial_indicator_2022Q3_10599,2022Q2,quarter,단일분기,연결,,ebitda,EBITDA,13872.0,억원,,auto
@@ -12900,6 +13859,7 @@ financial_indicator_2025Q3_10852,2022Q2,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2022Q2,quarter,단일분기,연결,,revenue_total,Revenue,63122.0,억원,,auto
 financial_indicator_2026Q1_10880,2022Q2,quarter,단일분기,연결,,revenue_total,Revenue,63122.0,억원,,auto
 financial_indicator_2026Q2_10892,2022Q2,quarter,단일분기,연결,,revenue_total,Revenue,63122.0,억원,,auto
+factsheet_2026-06_10891,2022Q3,quarter,시점,별도,,arpu_wireless,ARPU,32917.0,원,,auto
 dart_2022_11014_OFS,2022Q3,quarter,시점,별도,K-IFRS,assets_total,자산총계,310552.25,억원,,auto
 financial_indicator_2022Q3_10599,2022Q3,quarter,단일분기,별도,,capex_total,Capex,4618.0,억원,,auto
 financial_indicator_2022Q4_10614,2022Q3,quarter,단일분기,별도,,capex_total,Capex,4618.0,억원,,auto
@@ -13039,6 +13999,9 @@ financial_indicator_2025Q3_10852,2022Q3,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2022Q3,quarter,단일분기,별도,,revenue_total,Revenue,45902.0,억원,,auto
 financial_indicator_2026Q1_10880,2022Q3,quarter,단일분기,별도,,revenue_total,Revenue,45902.0,억원,,auto
 financial_indicator_2026Q2_10892,2022Q3,quarter,단일분기,별도,,revenue_total,Revenue,45902.0,억원,,auto
+factsheet_2026-06_10891,2022Q3,quarter,시점,별도,,subs_mno,MNO,17569998.0,명,,auto
+factsheet_2026-06_10891,2022Q3,quarter,시점,별도,,subs_mvno,MVNO,6256747.0,명,,auto
+factsheet_2026-06_10891,2022Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,23826745.0,명,,auto
 dart_2022_11014_CFS,2022Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,406515.11,억원,,auto
 financial_indicator_2022Q3_10599,2022Q3,quarter,단일분기,연결,,ebitda,EBITDA,13597.0,억원,,auto
 financial_indicator_2022Q4_10614,2022Q3,quarter,단일분기,연결,,ebitda,EBITDA,13597.0,억원,,auto
@@ -13159,6 +14122,7 @@ financial_indicator_2025Q3_10852,2022Q3,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2022Q3,quarter,단일분기,연결,,revenue_total,Revenue,64772.0,억원,,auto
 financial_indicator_2026Q1_10880,2022Q3,quarter,단일분기,연결,,revenue_total,Revenue,64772.0,억원,,auto
 financial_indicator_2026Q2_10892,2022Q3,quarter,단일분기,연결,,revenue_total,Revenue,64772.0,억원,,auto
+factsheet_2026-06_10891,2022Q4,quarter,시점,별도,,arpu_wireless,ARPU,33542.0,원,,auto
 financial_indicator_2022Q4_10614,2022Q4,quarter,단일분기,별도,,capex_total,Capex,8566.0,억원,,auto
 financial_indicator_2023Q1_10648,2022Q4,quarter,단일분기,별도,,capex_total,Capex,8566.0,억원,,auto
 financial_indicator_2023Q2_10675,2022Q4,quarter,단일분기,별도,,capex_total,Capex,8566.0,억원,,auto
@@ -13279,6 +14243,9 @@ financial_indicator_2025Q3_10852,2022Q4,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2022Q4,quarter,단일분기,별도,,revenue_total,Revenue,45728.0,억원,,auto
 financial_indicator_2026Q1_10880,2022Q4,quarter,단일분기,별도,,revenue_total,Revenue,45728.0,억원,,auto
 financial_indicator_2026Q2_10892,2022Q4,quarter,단일분기,별도,,revenue_total,Revenue,45728.0,억원,,auto
+factsheet_2026-06_10891,2022Q4,quarter,시점,별도,,subs_mno,MNO,17500419.0,명,,auto
+factsheet_2026-06_10891,2022Q4,quarter,시점,별도,,subs_mvno,MVNO,6561801.0,명,,auto
+factsheet_2026-06_10891,2022Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,24062220.0,명,,auto
 financial_indicator_2022Q4_10614,2022Q4,quarter,단일분기,연결,,ebitda,EBITDA,10808.0,억원,,auto
 financial_indicator_2023Q1_10648,2022Q4,quarter,단일분기,연결,,ebitda,EBITDA,10808.0,억원,,auto
 financial_indicator_2023Q2_10675,2022Q4,quarter,단일분기,연결,,ebitda,EBITDA,10808.0,억원,,auto
@@ -13564,6 +14531,67 @@ financial_indicator_2025Q3_10852,2023,year,연간,연결,,revenue_total,Revenue,
 financial_indicator_2025Q4_10870,2023,year,연간,연결,,revenue_total,Revenue,263763.0,억원,,auto
 financial_indicator_2026Q1_10880,2023,year,연간,연결,,revenue_total,Revenue,263763.0,억원,,auto
 financial_indicator_2026Q2_10892,2023,year,연간,연결,,revenue_total,Revenue,263763.0,억원,,auto
+factsheet_2026-06_10891,2023-01,month,시점,별도,,subs_broadband,Broadband,9737631.0,명,,auto
+factsheet_2026-06_10891,2023-01,month,시점,별도,,subs_iptv,Genie TV,9436041.0,명,,auto
+factsheet_2026-06_10891,2023-01,month,시점,별도,,subs_pstn,PSTN,9332177.0,명,,auto
+factsheet_2026-06_10891,2023-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12538182.0,명,,auto
+factsheet_2026-06_10891,2023-01,month,시점,별도,,subs_voip,VoIP,3206005.0,명,,auto
+factsheet_2026-06_10891,2023-02,month,시점,별도,,subs_broadband,Broadband,9755876.0,명,,auto
+factsheet_2026-06_10891,2023-02,month,시점,별도,,subs_iptv,Genie TV,9443295.0,명,,auto
+factsheet_2026-06_10891,2023-02,month,시점,별도,,subs_pstn,PSTN,9280884.0,명,,auto
+factsheet_2026-06_10891,2023-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12489792.0,명,,auto
+factsheet_2026-06_10891,2023-02,month,시점,별도,,subs_voip,VoIP,3208908.0,명,,auto
+factsheet_2026-06_10891,2023-03,month,시점,별도,,subs_broadband,Broadband,9773642.0,명,,auto
+factsheet_2026-06_10891,2023-03,month,시점,별도,,subs_iptv,Genie TV,9451141.0,명,,auto
+factsheet_2026-06_10891,2023-03,month,시점,별도,,subs_pstn,PSTN,9226166.0,명,,auto
+factsheet_2026-06_10891,2023-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12445495.0,명,,auto
+factsheet_2026-06_10891,2023-03,month,시점,별도,,subs_voip,VoIP,3219329.0,명,,auto
+factsheet_2026-06_10891,2023-04,month,시점,별도,,subs_broadband,Broadband,9787688.0,명,,auto
+factsheet_2026-06_10891,2023-04,month,시점,별도,,subs_iptv,Genie TV,9460550.0,명,,auto
+factsheet_2026-06_10891,2023-04,month,시점,별도,,subs_pstn,PSTN,9183590.0,명,,auto
+factsheet_2026-06_10891,2023-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12404472.0,명,,auto
+factsheet_2026-06_10891,2023-04,month,시점,별도,,subs_voip,VoIP,3220882.0,명,,auto
+factsheet_2026-06_10891,2023-05,month,시점,별도,,subs_broadband,Broadband,9799217.0,명,,auto
+factsheet_2026-06_10891,2023-05,month,시점,별도,,subs_iptv,Genie TV,9463791.0,명,,auto
+factsheet_2026-06_10891,2023-05,month,시점,별도,,subs_pstn,PSTN,9134523.0,명,,auto
+factsheet_2026-06_10891,2023-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12354285.0,명,,auto
+factsheet_2026-06_10891,2023-05,month,시점,별도,,subs_voip,VoIP,3219762.0,명,,auto
+factsheet_2026-06_10891,2023-06,month,시점,별도,,subs_broadband,Broadband,9811893.0,명,,auto
+factsheet_2026-06_10891,2023-06,month,시점,별도,,subs_iptv,Genie TV,9470298.0,명,,auto
+factsheet_2026-06_10891,2023-06,month,시점,별도,,subs_pstn,PSTN,9089254.0,명,,auto
+factsheet_2026-06_10891,2023-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12309903.0,명,,auto
+factsheet_2026-06_10891,2023-06,month,시점,별도,,subs_voip,VoIP,3220649.0,명,,auto
+factsheet_2026-06_10891,2023-07,month,시점,별도,,subs_broadband,Broadband,9817349.0,명,,auto
+factsheet_2026-06_10891,2023-07,month,시점,별도,,subs_iptv,Genie TV,9463661.0,명,,auto
+factsheet_2026-06_10891,2023-07,month,시점,별도,,subs_pstn,PSTN,9042737.0,명,,auto
+factsheet_2026-06_10891,2023-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12263824.0,명,,auto
+factsheet_2026-06_10891,2023-07,month,시점,별도,,subs_voip,VoIP,3221087.0,명,,auto
+factsheet_2026-06_10891,2023-08,month,시점,별도,,subs_broadband,Broadband,9798909.0,명,,auto
+factsheet_2026-06_10891,2023-08,month,시점,별도,,subs_iptv,Genie TV,9430668.0,명,,auto
+factsheet_2026-06_10891,2023-08,month,시점,별도,,subs_pstn,PSTN,8996248.0,명,,auto
+factsheet_2026-06_10891,2023-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12217727.0,명,,auto
+factsheet_2026-06_10891,2023-08,month,시점,별도,,subs_voip,VoIP,3221479.0,명,,auto
+factsheet_2026-06_10891,2023-09,month,시점,별도,,subs_broadband,Broadband,9810275.0,명,,auto
+factsheet_2026-06_10891,2023-09,month,시점,별도,,subs_iptv,Genie TV,9429708.0,명,,auto
+factsheet_2026-06_10891,2023-09,month,시점,별도,,subs_pstn,PSTN,8959803.0,명,,auto
+factsheet_2026-06_10891,2023-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12184317.0,명,,auto
+factsheet_2026-06_10891,2023-09,month,시점,별도,,subs_voip,VoIP,3224514.0,명,,auto
+factsheet_2026-06_10891,2023-10,month,시점,별도,,subs_broadband,Broadband,9816384.0,명,,auto
+factsheet_2026-06_10891,2023-10,month,시점,별도,,subs_iptv,Genie TV,9419078.0,명,,auto
+factsheet_2026-06_10891,2023-10,month,시점,별도,,subs_pstn,PSTN,8915073.0,명,,auto
+factsheet_2026-06_10891,2023-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12138512.0,명,,auto
+factsheet_2026-06_10891,2023-10,month,시점,별도,,subs_voip,VoIP,3223439.0,명,,auto
+factsheet_2026-06_10891,2023-11,month,시점,별도,,subs_broadband,Broadband,9823982.0,명,,auto
+factsheet_2026-06_10891,2023-11,month,시점,별도,,subs_iptv,Genie TV,9413950.0,명,,auto
+factsheet_2026-06_10891,2023-11,month,시점,별도,,subs_pstn,PSTN,8870440.0,명,,auto
+factsheet_2026-06_10891,2023-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12093639.0,명,,auto
+factsheet_2026-06_10891,2023-11,month,시점,별도,,subs_voip,VoIP,3223199.0,명,,auto
+factsheet_2026-06_10891,2023-12,month,시점,별도,,subs_broadband,Broadband,9827080.0,명,,auto
+factsheet_2026-06_10891,2023-12,month,시점,별도,,subs_iptv,Genie TV,9408654.0,명,,auto
+factsheet_2026-06_10891,2023-12,month,시점,별도,,subs_pstn,PSTN,8819973.0,명,,auto
+factsheet_2026-06_10891,2023-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),12034713.0,명,,auto
+factsheet_2026-06_10891,2023-12,month,시점,별도,,subs_voip,VoIP,3214740.0,명,,auto
+factsheet_2026-06_10891,2023Q1,quarter,시점,별도,,arpu_wireless,ARPU,33771.0,원,,auto
 dart_2023_11013_OFS,2023Q1,quarter,시점,별도,K-IFRS,assets_total,자산총계,303869.17,억원,,auto
 financial_indicator_2023Q1_10648,2023Q1,quarter,단일분기,별도,,capex_total,Capex,3135.0,억원,,auto
 financial_indicator_2023Q2_10675,2023Q1,quarter,단일분기,별도,,capex_total,Capex,3135.0,억원,,auto
@@ -13687,6 +14715,10 @@ financial_indicator_2025Q3_10852,2023Q1,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2023Q1,quarter,단일분기,별도,,revenue_total,Revenue,46190.0,억원,,auto
 financial_indicator_2026Q1_10880,2023Q1,quarter,단일분기,별도,,revenue_total,Revenue,46190.0,억원,,auto
 financial_indicator_2026Q2_10892,2023Q1,quarter,단일분기,별도,,revenue_total,Revenue,46190.0,억원,,auto
+factsheet_2026-06_10891,2023Q1,quarter,시점,별도,,subs_5g,5G Handset*,8796271.0,명,,auto
+factsheet_2026-06_10891,2023Q1,quarter,시점,별도,,subs_mno,MNO,17505108.0,명,,auto
+factsheet_2026-06_10891,2023Q1,quarter,시점,별도,,subs_mvno,MVNO,6826672.0,명,,auto
+factsheet_2026-06_10891,2023Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,24331780.0,명,,auto
 dart_2023_11013_CFS,2023Q1,quarter,시점,연결,K-IFRS,assets_total,자산총계,402144.37,억원,,auto
 financial_indicator_2023Q1_10648,2023Q1,quarter,단일분기,연결,,ebitda,EBITDA,14155.0,억원,,auto
 financial_indicator_2023Q2_10675,2023Q1,quarter,단일분기,연결,,ebitda,EBITDA,14155.0,억원,,auto
@@ -13795,6 +14827,7 @@ financial_indicator_2025Q3_10852,2023Q1,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2023Q1,quarter,단일분기,연결,,revenue_total,Revenue,64437.0,억원,,auto
 financial_indicator_2026Q1_10880,2023Q1,quarter,단일분기,연결,,revenue_total,Revenue,64437.0,억원,,auto
 financial_indicator_2026Q2_10892,2023Q1,quarter,단일분기,연결,,revenue_total,Revenue,64437.0,억원,,auto
+factsheet_2026-06_10891,2023Q2,quarter,시점,별도,,arpu_wireless,ARPU,33948.0,원,,auto
 dart_2023_11012_OFS,2023Q2,quarter,시점,별도,K-IFRS,assets_total,자산총계,295921.57,억원,,auto
 financial_indicator_2023Q2_10675,2023Q2,quarter,단일분기,별도,,capex_total,Capex,6850.0,억원,,auto
 financial_indicator_2023Q3_10697,2023Q2,quarter,단일분기,별도,,capex_total,Capex,6850.0,억원,,auto
@@ -13910,6 +14943,10 @@ financial_indicator_2025Q3_10852,2023Q2,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2023Q2,quarter,단일분기,별도,,revenue_total,Revenue,44874.0,억원,,auto
 financial_indicator_2026Q1_10880,2023Q2,quarter,단일분기,별도,,revenue_total,Revenue,44874.0,억원,,auto
 financial_indicator_2026Q2_10892,2023Q2,quarter,단일분기,별도,,revenue_total,Revenue,44874.0,억원,,auto
+factsheet_2026-06_10891,2023Q2,quarter,시점,별도,,subs_5g,5G Handset*,9116751.0,명,,auto
+factsheet_2026-06_10891,2023Q2,quarter,시점,별도,,subs_mno,MNO,17642914.0,명,,auto
+factsheet_2026-06_10891,2023Q2,quarter,시점,별도,,subs_mvno,MVNO,6977799.0,명,,auto
+factsheet_2026-06_10891,2023Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,24620713.0,명,,auto
 dart_2023_11012_CFS,2023Q2,quarter,시점,연결,K-IFRS,assets_total,자산총계,397560.38,억원,,auto
 financial_indicator_2023Q2_10675,2023Q2,quarter,단일분기,연결,,ebitda,EBITDA,15053.0,억원,,auto
 financial_indicator_2023Q3_10697,2023Q2,quarter,단일분기,연결,,ebitda,EBITDA,15053.0,억원,,auto
@@ -14012,6 +15049,7 @@ financial_indicator_2025Q3_10852,2023Q2,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2023Q2,quarter,단일분기,연결,,revenue_total,Revenue,65475.0,억원,,auto
 financial_indicator_2026Q1_10880,2023Q2,quarter,단일분기,연결,,revenue_total,Revenue,65475.0,억원,,auto
 financial_indicator_2026Q2_10892,2023Q2,quarter,단일분기,연결,,revenue_total,Revenue,65475.0,억원,,auto
+factsheet_2026-06_10891,2023Q3,quarter,시점,별도,,arpu_wireless,ARPU,33838.0,원,,auto
 dart_2023_11014_OFS,2023Q3,quarter,시점,별도,K-IFRS,assets_total,자산총계,308147.71,억원,,auto
 financial_indicator_2023Q3_10697,2023Q3,quarter,단일분기,별도,,capex_total,Capex,6019.0,억원,,auto
 financial_indicator_2023Q4_10725,2023Q3,quarter,단일분기,별도,,capex_total,Capex,6019.0,억원,,auto
@@ -14119,6 +15157,10 @@ financial_indicator_2025Q3_10852,2023Q3,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2023Q3,quarter,단일분기,별도,,revenue_total,Revenue,46730.0,억원,,auto
 financial_indicator_2026Q1_10880,2023Q3,quarter,단일분기,별도,,revenue_total,Revenue,46730.0,억원,,auto
 financial_indicator_2026Q2_10892,2023Q3,quarter,단일분기,별도,,revenue_total,Revenue,46730.0,억원,,auto
+factsheet_2026-06_10891,2023Q3,quarter,시점,별도,,subs_5g,5G Handset*,9407748.0,명,,auto
+factsheet_2026-06_10891,2023Q3,quarter,시점,별도,,subs_mno,MNO,17735022.0,명,,auto
+factsheet_2026-06_10891,2023Q3,quarter,시점,별도,,subs_mvno,MVNO,7168254.0,명,,auto
+factsheet_2026-06_10891,2023Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,24903276.0,명,,auto
 dart_2023_11014_CFS,2023Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,439747.72,억원,,auto
 financial_indicator_2023Q3_10697,2023Q3,quarter,단일분기,연결,,ebitda,EBITDA,12599.0,억원,,auto
 financial_indicator_2023Q4_10725,2023Q3,quarter,단일분기,연결,,ebitda,EBITDA,12599.0,억원,,auto
@@ -14215,6 +15257,7 @@ financial_indicator_2025Q3_10852,2023Q3,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2023Q3,quarter,단일분기,연결,,revenue_total,Revenue,66974.0,억원,,auto
 financial_indicator_2026Q1_10880,2023Q3,quarter,단일분기,연결,,revenue_total,Revenue,66974.0,억원,,auto
 financial_indicator_2026Q2_10892,2023Q3,quarter,단일분기,연결,,revenue_total,Revenue,66974.0,억원,,auto
+factsheet_2026-06_10891,2023Q4,quarter,시점,별도,,arpu_wireless,ARPU,34302.0,원,,auto
 financial_indicator_2023Q4_10725,2023Q4,quarter,단일분기,별도,,capex_total,Capex,8112.0,억원,,auto
 financial_indicator_2024Q1_10746,2023Q4,quarter,단일분기,별도,,capex_total,Capex,8112.0,억원,,auto
 financial_indicator_2024Q2_10766,2023Q4,quarter,단일분기,별도,,capex_total,Capex,8112.0,억원,,auto
@@ -14303,6 +15346,10 @@ financial_indicator_2025Q3_10852,2023Q4,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2023Q4,quarter,단일분기,별도,,revenue_total,Revenue,45920.0,억원,,auto
 financial_indicator_2026Q1_10880,2023Q4,quarter,단일분기,별도,,revenue_total,Revenue,45920.0,억원,,auto
 financial_indicator_2026Q2_10892,2023Q4,quarter,단일분기,별도,,revenue_total,Revenue,45920.0,억원,,auto
+factsheet_2026-06_10891,2023Q4,quarter,시점,별도,,subs_5g,5G Handset*,9721608.0,명,,auto
+factsheet_2026-06_10891,2023Q4,quarter,시점,별도,,subs_mno,MNO,17758837.0,명,,auto
+factsheet_2026-06_10891,2023Q4,quarter,시점,별도,,subs_mvno,MVNO,7137957.0,명,,auto
+factsheet_2026-06_10891,2023Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,24896794.0,명,,auto
 financial_indicator_2023Q4_10725,2023Q4,quarter,단일분기,연결,,ebitda,EBITDA,12792.0,억원,,auto
 financial_indicator_2024Q1_10746,2023Q4,quarter,단일분기,연결,,ebitda,EBITDA,12792.0,억원,,auto
 financial_indicator_2024Q2_10766,2023Q4,quarter,단일분기,연결,,ebitda,EBITDA,12792.0,억원,,auto
@@ -14504,6 +15551,69 @@ financial_indicator_2025Q3_10852,2024,year,연간,연결,,revenue_total,Revenue,
 financial_indicator_2025Q4_10870,2024,year,연간,연결,,revenue_total,Revenue,264312.0,억원,,auto
 financial_indicator_2026Q1_10880,2024,year,연간,연결,,revenue_total,Revenue,264312.0,억원,,auto
 financial_indicator_2026Q2_10892,2024,year,연간,연결,,revenue_total,Revenue,264312.0,억원,,auto
+factsheet_2026-06_10891,2024-01,month,시점,별도,,subs_broadband,Broadband,9834626.0,명,,auto
+factsheet_2026-06_10891,2024-01,month,시점,별도,,subs_iptv,Genie TV,9411599.0,명,,auto
+factsheet_2026-06_10891,2024-01,month,시점,별도,,subs_pstn,PSTN,8762861.0,명,,auto
+factsheet_2026-06_10891,2024-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11977707.0,명,,auto
+factsheet_2026-06_10891,2024-01,month,시점,별도,,subs_voip,VoIP,3214846.0,명,,auto
+factsheet_2026-06_10891,2024-02,month,시점,별도,,subs_broadband,Broadband,9843172.0,명,,auto
+factsheet_2026-06_10891,2024-02,month,시점,별도,,subs_iptv,Genie TV,9412174.0,명,,auto
+factsheet_2026-06_10891,2024-02,month,시점,별도,,subs_pstn,PSTN,8719863.0,명,,auto
+factsheet_2026-06_10891,2024-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11947123.0,명,,auto
+factsheet_2026-06_10891,2024-02,month,시점,별도,,subs_voip,VoIP,3227260.0,명,,auto
+factsheet_2026-06_10891,2024-03,month,시점,별도,,subs_broadband,Broadband,9861739.0,명,,auto
+factsheet_2026-06_10891,2024-03,month,시점,별도,,subs_iptv,Genie TV,9417832.0,명,,auto
+factsheet_2026-06_10891,2024-03,month,시점,별도,,subs_pstn,PSTN,8673430.0,명,,auto
+factsheet_2026-06_10891,2024-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11903009.0,명,,auto
+factsheet_2026-06_10891,2024-03,month,시점,별도,,subs_voip,VoIP,3229579.0,명,,auto
+factsheet_2026-06_10891,2024-04,month,시점,별도,,subs_broadband,Broadband,9873241.0,명,,auto
+factsheet_2026-06_10891,2024-04,month,시점,별도,,subs_iptv,Genie TV,9415118.0,명,,auto
+factsheet_2026-06_10891,2024-04,month,시점,별도,,subs_pstn,PSTN,8615884.0,명,,auto
+factsheet_2026-06_10891,2024-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11844017.0,명,,auto
+factsheet_2026-06_10891,2024-04,month,시점,별도,,subs_voip,VoIP,3228133.0,명,,auto
+factsheet_2026-06_10891,2024-05,month,시점,별도,,subs_broadband,Broadband,9886476.0,명,,auto
+factsheet_2026-06_10891,2024-05,month,시점,별도,,subs_iptv,Genie TV,9413939.0,명,,auto
+factsheet_2026-06_10891,2024-05,month,시점,별도,,subs_pstn,PSTN,8569924.0,명,,auto
+factsheet_2026-06_10891,2024-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11791083.0,명,,auto
+factsheet_2026-06_10891,2024-05,month,시점,별도,,subs_voip,VoIP,3221159.0,명,,auto
+factsheet_2026-06_10891,2024-06,month,시점,별도,,subs_broadband,Broadband,9898754.0,명,,auto
+factsheet_2026-06_10891,2024-06,month,시점,별도,,subs_iptv,Genie TV,9422763.0,명,,auto
+factsheet_2026-06_10891,2024-06,month,시점,별도,,subs_pstn,PSTN,8526191.0,명,,auto
+factsheet_2026-06_10891,2024-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11748461.0,명,,auto
+factsheet_2026-06_10891,2024-06,month,시점,별도,,subs_voip,VoIP,3222270.0,명,,auto
+factsheet_2026-06_10891,2024-07,month,시점,별도,,subs_broadband,Broadband,9906958.0,명,,auto
+factsheet_2026-06_10891,2024-07,month,시점,별도,,subs_iptv,Genie TV,9428120.0,명,,auto
+factsheet_2026-06_10891,2024-07,month,시점,별도,,subs_pstn,PSTN,8478133.0,명,,auto
+factsheet_2026-06_10891,2024-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11699806.0,명,,auto
+factsheet_2026-06_10891,2024-07,month,시점,별도,,subs_voip,VoIP,3221673.0,명,,auto
+factsheet_2026-06_10891,2024-08,month,시점,별도,,subs_broadband,Broadband,9918377.0,명,,auto
+factsheet_2026-06_10891,2024-08,month,시점,별도,,subs_iptv,Genie TV,9436082.0,명,,auto
+factsheet_2026-06_10891,2024-08,month,시점,별도,,subs_pstn,PSTN,8433734.0,명,,auto
+factsheet_2026-06_10891,2024-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11655735.0,명,,auto
+factsheet_2026-06_10891,2024-08,month,시점,별도,,subs_voip,VoIP,3222001.0,명,,auto
+factsheet_2026-06_10891,2024-09,month,시점,별도,,subs_broadband,Broadband,9927994.0,명,,auto
+factsheet_2026-06_10891,2024-09,month,시점,별도,,subs_iptv,Genie TV,9440450.0,명,,auto
+factsheet_2026-06_10891,2024-09,month,시점,별도,,subs_pstn,PSTN,8394732.0,명,,auto
+factsheet_2026-06_10891,2024-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11616257.0,명,,auto
+factsheet_2026-06_10891,2024-09,month,시점,별도,,subs_voip,VoIP,3221525.0,명,,auto
+factsheet_2026-06_10891,2024-10,month,시점,별도,,subs_broadband,Broadband,9938482.0,명,,auto
+factsheet_2026-06_10891,2024-10,month,시점,별도,,subs_iptv,Genie TV,9442463.0,명,,auto
+factsheet_2026-06_10891,2024-10,month,시점,별도,,subs_pstn,PSTN,8350216.0,명,,auto
+factsheet_2026-06_10891,2024-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11569659.0,명,,auto
+factsheet_2026-06_10891,2024-10,month,시점,별도,,subs_voip,VoIP,3219443.0,명,,auto
+factsheet_2026-06_10891,2024-11,month,시점,별도,,subs_broadband,Broadband,9948920.0,명,,auto
+factsheet_2026-06_10891,2024-11,month,시점,별도,,subs_iptv,Genie TV,9447604.0,명,,auto
+factsheet_2026-06_10891,2024-11,month,시점,별도,,subs_pstn,PSTN,8311215.0,명,,auto
+factsheet_2026-06_10891,2024-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11527343.0,명,,auto
+factsheet_2026-06_10891,2024-11,month,시점,별도,,subs_voip,VoIP,3216128.0,명,,auto
+factsheet_2026-06_10891,2024-12,month,시점,별도,,subs_broadband,Broadband,9956348.0,명,,auto
+factsheet_2026-06_10891,2024-12,month,시점,별도,,subs_iptv,Genie TV,9449306.0,명,,auto
+factsheet_2026-06_10891,2024-12,month,시점,별도,,subs_pstn,PSTN,8264283.0,명,,auto
+factsheet_2026-06_10891,2024-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11474951.0,명,,auto
+factsheet_2026-06_10891,2024-12,month,시점,별도,,subs_voip,VoIP,3210668.0,명,,auto
+factsheet_2024-04_10754,2024Q1,quarter,시점,별도,,arpu_wireless,ARPU,34302.0,원,,auto
+factsheet_2024-10_10798,2024Q1,quarter,시점,별도,,arpu_wireless,ARPU,34460.55,원,,auto
+factsheet_2026-06_10891,2024Q1,quarter,시점,별도,,arpu_wireless,ARPU,34461.0,원,,auto
 dart_2024_11013_OFS,2024Q1,quarter,시점,별도,K-IFRS,assets_total,자산총계,303348.12,억원,,auto
 financial_indicator_2024Q1_10746,2024Q1,quarter,단일분기,별도,,capex_total,Capex,3181.0,억원,,auto
 financial_indicator_2024Q2_10766,2024Q1,quarter,단일분기,별도,,capex_total,Capex,3181.0,억원,,auto
@@ -14595,6 +15705,10 @@ financial_indicator_2025Q3_10852,2024Q1,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2024Q1,quarter,단일분기,별도,,revenue_total,Revenue,46948.0,억원,,auto
 financial_indicator_2026Q1_10880,2024Q1,quarter,단일분기,별도,,revenue_total,Revenue,46948.0,억원,,auto
 financial_indicator_2026Q2_10892,2024Q1,quarter,단일분기,별도,,revenue_total,Revenue,46948.0,억원,,auto
+factsheet_2026-06_10891,2024Q1,quarter,시점,별도,,subs_5g,5G Handset*,9947926.0,명,,auto
+factsheet_2026-06_10891,2024Q1,quarter,시점,별도,,subs_mno,MNO,17742640.0,명,,auto
+factsheet_2026-06_10891,2024Q1,quarter,시점,별도,,subs_mvno,MVNO,7090925.0,명,,auto
+factsheet_2026-06_10891,2024Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,24833565.0,명,,auto
 dart_2024_11013_CFS,2024Q1,quarter,시점,연결,K-IFRS,assets_total,자산총계,427100.09,억원,,auto
 financial_indicator_2024Q1_10746,2024Q1,quarter,단일분기,연결,,ebitda,EBITDA,14802.0,억원,,auto
 financial_indicator_2024Q2_10766,2024Q1,quarter,단일분기,연결,,ebitda,EBITDA,14802.0,억원,,auto
@@ -14678,6 +15792,7 @@ financial_indicator_2025Q3_10852,2024Q1,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2024Q1,quarter,단일분기,연결,,revenue_total,Revenue,66546.0,억원,,auto
 financial_indicator_2026Q1_10880,2024Q1,quarter,단일분기,연결,,revenue_total,Revenue,66546.0,억원,,auto
 financial_indicator_2026Q2_10892,2024Q1,quarter,단일분기,연결,,revenue_total,Revenue,66546.0,억원,,auto
+factsheet_2026-06_10891,2024Q2,quarter,시점,별도,,arpu_wireless,ARPU,34507.0,원,,auto
 dart_2024_11012_OFS,2024Q2,quarter,시점,별도,K-IFRS,assets_total,자산총계,304648.15,억원,,auto
 financial_indicator_2024Q2_10766,2024Q2,quarter,단일분기,별도,,capex_total,Capex,6428.0,억원,,auto
 financial_indicator_2024Q3_10791,2024Q2,quarter,단일분기,별도,,capex_total,Capex,6428.0,억원,,auto
@@ -14761,6 +15876,10 @@ financial_indicator_2025Q3_10852,2024Q2,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2024Q2,quarter,단일분기,별도,,revenue_total,Revenue,45483.0,억원,,auto
 financial_indicator_2026Q1_10880,2024Q2,quarter,단일분기,별도,,revenue_total,Revenue,45483.0,억원,,auto
 financial_indicator_2026Q2_10892,2024Q2,quarter,단일분기,별도,,revenue_total,Revenue,45483.0,억원,,auto
+factsheet_2026-06_10891,2024Q2,quarter,시점,별도,,subs_5g,5G Handset*,10093091.0,명,,auto
+factsheet_2026-06_10891,2024Q2,quarter,시점,별도,,subs_mno,MNO,17770004.0,명,,auto
+factsheet_2026-06_10891,2024Q2,quarter,시점,별도,,subs_mvno,MVNO,7133679.0,명,,auto
+factsheet_2026-06_10891,2024Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,24903683.0,명,,auto
 dart_2024_11012_CFS,2024Q2,quarter,시점,연결,K-IFRS,assets_total,자산총계,431443.79,억원,,auto
 financial_indicator_2024Q2_10766,2024Q2,quarter,단일분기,연결,,ebitda,EBITDA,14602.0,억원,,auto
 financial_indicator_2024Q3_10791,2024Q2,quarter,단일분기,연결,,ebitda,EBITDA,14602.0,억원,,auto
@@ -14837,6 +15956,7 @@ financial_indicator_2025Q3_10852,2024Q2,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2024Q2,quarter,단일분기,연결,,revenue_total,Revenue,65464.0,억원,,auto
 financial_indicator_2026Q1_10880,2024Q2,quarter,단일분기,연결,,revenue_total,Revenue,65464.0,억원,,auto
 financial_indicator_2026Q2_10892,2024Q2,quarter,단일분기,연결,,revenue_total,Revenue,65464.0,억원,,auto
+factsheet_2026-06_10891,2024Q3,quarter,시점,별도,,arpu_wireless,ARPU,34560.46,원,,auto
 dart_2024_11014_OFS,2024Q3,quarter,시점,별도,K-IFRS,assets_total,자산총계,299571.49,억원,,auto
 financial_indicator_2024Q3_10791,2024Q3,quarter,단일분기,별도,,capex_total,Capex,4551.0,억원,,auto
 financial_indicator_2024Q4_10806,2024Q3,quarter,단일분기,별도,,capex_total,Capex,4551.0,억원,,auto
@@ -14912,6 +16032,10 @@ financial_indicator_2025Q3_10852,2024Q3,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2024Q3,quarter,단일분기,별도,,revenue_total,Revenue,47650.0,억원,,auto
 financial_indicator_2026Q1_10880,2024Q3,quarter,단일분기,별도,,revenue_total,Revenue,47650.0,억원,,auto
 financial_indicator_2026Q2_10892,2024Q3,quarter,단일분기,별도,,revenue_total,Revenue,47650.0,억원,,auto
+factsheet_2026-06_10891,2024Q3,quarter,시점,별도,,subs_5g,5G Handset*,10250780.0,명,,auto
+factsheet_2026-06_10891,2024Q3,quarter,시점,별도,,subs_mno,MNO,17996568.0,명,,auto
+factsheet_2026-06_10891,2024Q3,quarter,시점,별도,,subs_mvno,MVNO,7202737.0,명,,auto
+factsheet_2026-06_10891,2024Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,25199305.0,명,,auto
 dart_2024_11014_CFS,2024Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,427503.88,억원,,auto
 financial_indicator_2024Q3_10791,2024Q3,quarter,단일분기,연결,,ebitda,EBITDA,14289.0,억원,,auto
 financial_indicator_2024Q4_10806,2024Q3,quarter,단일분기,연결,,ebitda,EBITDA,14289.0,억원,,auto
@@ -14981,6 +16105,7 @@ financial_indicator_2025Q3_10852,2024Q3,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2024Q3,quarter,단일분기,연결,,revenue_total,Revenue,66546.0,억원,,auto
 financial_indicator_2026Q1_10880,2024Q3,quarter,단일분기,연결,,revenue_total,Revenue,66546.0,억원,,auto
 financial_indicator_2026Q2_10892,2024Q3,quarter,단일분기,연결,,revenue_total,Revenue,66546.0,억원,,auto
+factsheet_2026-06_10891,2024Q4,quarter,시점,별도,,arpu_wireless,ARPU,34567.45,원,,auto
 financial_indicator_2024Q4_10806,2024Q4,quarter,단일분기,별도,,capex_total,Capex,8839.0,억원,,auto
 financial_indicator_2025Q1_10822,2024Q4,quarter,단일분기,별도,,capex_total,Capex,8839.0,억원,,auto
 financial_indicator_2025Q2_10837,2024Q4,quarter,단일분기,별도,,capex_total,Capex,8839.0,억원,,auto
@@ -15030,6 +16155,10 @@ financial_indicator_2025Q3_10852,2024Q4,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2024Q4,quarter,단일분기,별도,,revenue_total,Revenue,45716.0,억원,,auto
 financial_indicator_2026Q1_10880,2024Q4,quarter,단일분기,별도,,revenue_total,Revenue,45716.0,억원,,auto
 financial_indicator_2026Q2_10892,2024Q4,quarter,단일분기,별도,,revenue_total,Revenue,45716.0,억원,,auto
+factsheet_2026-06_10891,2024Q4,quarter,시점,별도,,subs_5g,5G Handset*,10399600.0,명,,auto
+factsheet_2026-06_10891,2024Q4,quarter,시점,별도,,subs_mno,MNO,18949915.0,명,,auto
+factsheet_2026-06_10891,2024Q4,quarter,시점,별도,,subs_mvno,MVNO,7181998.0,명,,auto
+factsheet_2026-06_10891,2024Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,26131913.0,명,,auto
 financial_indicator_2024Q4_10806,2024Q4,quarter,단일분기,연결,,ebitda,EBITDA,3180.0,억원,,auto
 financial_indicator_2025Q1_10822,2024Q4,quarter,단일분기,연결,,ebitda,EBITDA,3180.0,억원,,auto
 financial_indicator_2025Q2_10837,2024Q4,quarter,단일분기,연결,,ebitda,EBITDA,3180.0,억원,,auto
@@ -15143,6 +16272,68 @@ dart_2025_11011_CFS,2025,year,연간,연결,K-IFRS,revenue_total,영업수익,28
 financial_indicator_2025Q4_10870,2025,year,연간,연결,,revenue_total,Revenue,282442.0,억원,,auto
 financial_indicator_2026Q1_10880,2025,year,연간,연결,,revenue_total,Revenue,282442.0,억원,,auto
 financial_indicator_2026Q2_10892,2025,year,연간,연결,,revenue_total,Revenue,282442.0,억원,,auto
+factsheet_2026-06_10891,2025-01,month,시점,별도,,subs_broadband,Broadband,9961067.0,명,,auto
+factsheet_2026-06_10891,2025-01,month,시점,별도,,subs_iptv,Genie TV,9445934.0,명,,auto
+factsheet_2026-06_10891,2025-01,month,시점,별도,,subs_pstn,PSTN,8224886.0,명,,auto
+factsheet_2026-06_10891,2025-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11429573.0,명,,auto
+factsheet_2026-06_10891,2025-01,month,시점,별도,,subs_voip,VoIP,3204687.0,명,,auto
+factsheet_2026-06_10891,2025-02,month,시점,별도,,subs_broadband,Broadband,9971641.0,명,,auto
+factsheet_2026-06_10891,2025-02,month,시점,별도,,subs_iptv,Genie TV,9443217.0,명,,auto
+factsheet_2026-06_10891,2025-02,month,시점,별도,,subs_pstn,PSTN,8171201.0,명,,auto
+factsheet_2026-06_10891,2025-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11371369.0,명,,auto
+factsheet_2026-06_10891,2025-02,month,시점,별도,,subs_voip,VoIP,3200168.0,명,,auto
+factsheet_2026-06_10891,2025-03,month,시점,별도,,subs_broadband,Broadband,9984188.0,명,,auto
+factsheet_2026-06_10891,2025-03,month,시점,별도,,subs_iptv,Genie TV,9437658.0,명,,auto
+factsheet_2026-06_10891,2025-03,month,시점,별도,,subs_pstn,PSTN,8122047.0,명,,auto
+factsheet_2026-06_10891,2025-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11319802.0,명,,auto
+factsheet_2026-06_10891,2025-03,month,시점,별도,,subs_voip,VoIP,3197755.0,명,,auto
+factsheet_2026-06_10891,2025-04,month,시점,별도,,subs_broadband,Broadband,9997535.0,명,,auto
+factsheet_2026-06_10891,2025-04,month,시점,별도,,subs_iptv,Genie TV,9435310.0,명,,auto
+factsheet_2026-06_10891,2025-04,month,시점,별도,,subs_pstn,PSTN,8074755.0,명,,auto
+factsheet_2026-06_10891,2025-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11267569.0,명,,auto
+factsheet_2026-06_10891,2025-04,month,시점,별도,,subs_voip,VoIP,3192814.0,명,,auto
+factsheet_2026-06_10891,2025-05,month,시점,별도,,subs_broadband,Broadband,10046613.0,명,,auto
+factsheet_2026-06_10891,2025-05,month,시점,별도,,subs_iptv,Genie TV,9471291.0,명,,auto
+factsheet_2026-06_10891,2025-05,month,시점,별도,,subs_pstn,PSTN,8031465.0,명,,auto
+factsheet_2026-06_10891,2025-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11221773.0,명,,auto
+factsheet_2026-06_10891,2025-05,month,시점,별도,,subs_voip,VoIP,3190308.0,명,,auto
+factsheet_2026-06_10891,2025-06,month,시점,별도,,subs_broadband,Broadband,10073266.0,명,,auto
+factsheet_2026-06_10891,2025-06,month,시점,별도,,subs_iptv,Genie TV,9489925.0,명,,auto
+factsheet_2026-06_10891,2025-06,month,시점,별도,,subs_pstn,PSTN,7988370.0,명,,auto
+factsheet_2026-06_10891,2025-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11174729.0,명,,auto
+factsheet_2026-06_10891,2025-06,month,시점,별도,,subs_voip,VoIP,3186359.0,명,,auto
+factsheet_2026-06_10891,2025-07,month,시점,별도,,subs_broadband,Broadband,10101662.0,명,,auto
+factsheet_2026-06_10891,2025-07,month,시점,별도,,subs_iptv,Genie TV,9507123.0,명,,auto
+factsheet_2026-06_10891,2025-07,month,시점,별도,,subs_pstn,PSTN,7939134.0,명,,auto
+factsheet_2026-06_10891,2025-07,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11128513.0,명,,auto
+factsheet_2026-06_10891,2025-07,month,시점,별도,,subs_voip,VoIP,3189379.0,명,,auto
+factsheet_2026-06_10891,2025-08,month,시점,별도,,subs_broadband,Broadband,10119438.0,명,,auto
+factsheet_2026-06_10891,2025-08,month,시점,별도,,subs_iptv,Genie TV,9514589.0,명,,auto
+factsheet_2026-06_10891,2025-08,month,시점,별도,,subs_pstn,PSTN,7894405.0,명,,auto
+factsheet_2026-06_10891,2025-08,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11084083.0,명,,auto
+factsheet_2026-06_10891,2025-08,month,시점,별도,,subs_voip,VoIP,3189678.0,명,,auto
+factsheet_2026-06_10891,2025-09,month,시점,별도,,subs_broadband,Broadband,10134939.0,명,,auto
+factsheet_2026-06_10891,2025-09,month,시점,별도,,subs_iptv,Genie TV,9520239.0,명,,auto
+factsheet_2026-06_10891,2025-09,month,시점,별도,,subs_pstn,PSTN,7851076.0,명,,auto
+factsheet_2026-06_10891,2025-09,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),11038662.0,명,,auto
+factsheet_2026-06_10891,2025-09,month,시점,별도,,subs_voip,VoIP,3187586.0,명,,auto
+factsheet_2026-06_10891,2025-10,month,시점,별도,,subs_broadband,Broadband,10144514.0,명,,auto
+factsheet_2026-06_10891,2025-10,month,시점,별도,,subs_iptv,Genie TV,9523195.0,명,,auto
+factsheet_2026-06_10891,2025-10,month,시점,별도,,subs_pstn,PSTN,7807226.0,명,,auto
+factsheet_2026-06_10891,2025-10,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),10991322.0,명,,auto
+factsheet_2026-06_10891,2025-10,month,시점,별도,,subs_voip,VoIP,3184096.0,명,,auto
+factsheet_2026-06_10891,2025-11,month,시점,별도,,subs_broadband,Broadband,10158469.0,명,,auto
+factsheet_2025-11_10863,2025-11,month,시점,별도,,subs_iptv,Genie TV,9529110.0,명,,auto
+factsheet_2026-06_10891,2025-11,month,시점,별도,,subs_iptv,Genie TV,9529109.0,명,,auto
+factsheet_2026-06_10891,2025-11,month,시점,별도,,subs_pstn,PSTN,7767036.0,명,,auto
+factsheet_2026-06_10891,2025-11,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),10948493.0,명,,auto
+factsheet_2026-06_10891,2025-11,month,시점,별도,,subs_voip,VoIP,3181457.0,명,,auto
+factsheet_2026-06_10891,2025-12,month,시점,별도,,subs_broadband,Broadband,10170090.0,명,,auto
+factsheet_2026-06_10891,2025-12,month,시점,별도,,subs_iptv,Genie TV,9532719.0,명,,auto
+factsheet_2026-06_10891,2025-12,month,시점,별도,,subs_pstn,PSTN,7715771.0,명,,auto
+factsheet_2026-06_10891,2025-12,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),10889505.0,명,,auto
+factsheet_2026-06_10891,2025-12,month,시점,별도,,subs_voip,VoIP,3173734.0,명,,auto
+factsheet_2026-06_10891,2025Q1,quarter,시점,별도,,arpu_wireless,ARPU,34855.67,원,,auto
 dart_2025_11013_OFS,2025Q1,quarter,시점,별도,K-IFRS,assets_total,자산총계,290409.74,억원,,auto
 financial_indicator_2025Q1_10822,2025Q1,quarter,단일분기,별도,,capex_total,Capex,3000.0,억원,,auto
 financial_indicator_2025Q2_10837,2025Q1,quarter,단일분기,별도,,capex_total,Capex,3000.0,억원,,auto
@@ -15202,6 +16393,10 @@ financial_indicator_2025Q3_10852,2025Q1,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2025Q1,quarter,단일분기,별도,,revenue_total,Revenue,46820.12,억원,,auto
 financial_indicator_2026Q1_10880,2025Q1,quarter,단일분기,별도,,revenue_total,Revenue,46820.12,억원,,auto
 financial_indicator_2026Q2_10892,2025Q1,quarter,단일분기,별도,,revenue_total,Revenue,46820.12,억원,,auto
+factsheet_2026-06_10891,2025Q1,quarter,시점,별도,,subs_5g,5G Handset*,10552135.0,명,,auto
+factsheet_2026-06_10891,2025Q1,quarter,시점,별도,,subs_mno,MNO,19186134.0,명,,auto
+factsheet_2026-06_10891,2025Q1,quarter,시점,별도,,subs_mvno,MVNO,7258905.0,명,,auto
+factsheet_2026-06_10891,2025Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,26445039.0,명,,auto
 dart_2025_11013_CFS,2025Q1,quarter,시점,연결,K-IFRS,assets_total,자산총계,421856.16,억원,,auto
 financial_indicator_2025Q1_10822,2025Q1,quarter,단일분기,연결,,ebitda,EBITDA,16574.0,억원,,auto
 financial_indicator_2025Q2_10837,2025Q1,quarter,단일분기,연결,,ebitda,EBITDA,16574.0,억원,,auto
@@ -15257,6 +16452,7 @@ financial_indicator_2025Q3_10852,2025Q1,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2025Q1,quarter,단일분기,연결,,revenue_total,Revenue,68451.0,억원,,auto
 financial_indicator_2026Q1_10880,2025Q1,quarter,단일분기,연결,,revenue_total,Revenue,68451.0,억원,,auto
 financial_indicator_2026Q2_10892,2025Q1,quarter,단일분기,연결,,revenue_total,Revenue,68451.0,억원,,auto
+factsheet_2026-06_10891,2025Q2,quarter,시점,별도,,arpu_wireless,ARPU,35236.27,원,,auto
 dart_2025_11012_OFS,2025Q2,quarter,시점,별도,K-IFRS,assets_total,자산총계,290087.33,억원,,auto
 financial_indicator_2025Q2_10837,2025Q2,quarter,단일분기,별도,,capex_total,Capex,5458.0,억원,,auto
 financial_indicator_2025Q3_10852,2025Q2,quarter,단일분기,별도,,capex_total,Capex,5458.0,억원,,auto
@@ -15308,6 +16504,10 @@ financial_indicator_2025Q3_10852,2025Q2,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2025Q2,quarter,단일분기,별도,,revenue_total,Revenue,47728.0,억원,,auto
 financial_indicator_2026Q1_10880,2025Q2,quarter,단일분기,별도,,revenue_total,Revenue,47728.0,억원,,auto
 financial_indicator_2026Q2_10892,2025Q2,quarter,단일분기,별도,,revenue_total,Revenue,47728.0,억원,,auto
+factsheet_2026-06_10891,2025Q2,quarter,시점,별도,,subs_5g,5G Handset*,10866475.0,명,,auto
+factsheet_2026-06_10891,2025Q2,quarter,시점,별도,,subs_mno,MNO,19841858.0,명,,auto
+factsheet_2026-06_10891,2025Q2,quarter,시점,별도,,subs_mvno,MVNO,7649350.0,명,,auto
+factsheet_2026-06_10891,2025Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,27491208.0,명,,auto
 dart_2025_11012_CFS,2025Q2,quarter,시점,연결,K-IFRS,assets_total,자산총계,421933.27,억원,,auto
 financial_indicator_2025Q2_10837,2025Q2,quarter,단일분기,연결,,ebitda,EBITDA,19907.0,억원,,auto
 financial_indicator_2025Q3_10852,2025Q2,quarter,단일분기,연결,,ebitda,EBITDA,19907.0,억원,,auto
@@ -15356,6 +16556,7 @@ financial_indicator_2025Q3_10852,2025Q2,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2025Q2,quarter,단일분기,연결,,revenue_total,Revenue,74274.0,억원,,auto
 financial_indicator_2026Q1_10880,2025Q2,quarter,단일분기,연결,,revenue_total,Revenue,74274.0,억원,,auto
 financial_indicator_2026Q2_10892,2025Q2,quarter,단일분기,연결,,revenue_total,Revenue,74274.0,억원,,auto
+factsheet_2026-06_10891,2025Q3,quarter,시점,별도,,arpu_wireless,ARPU,35294.93,원,,auto
 dart_2025_11014_OFS,2025Q3,quarter,시점,별도,K-IFRS,assets_total,자산총계,290492.48,억원,,auto
 financial_indicator_2025Q3_10852,2025Q3,quarter,단일분기,별도,,capex_total,Capex,4837.0,억원,,auto
 financial_indicator_2025Q4_10870,2025Q3,quarter,단일분기,별도,,capex_total,Capex,4837.0,억원,,auto
@@ -15399,6 +16600,10 @@ financial_indicator_2025Q3_10852,2025Q3,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2025Q3,quarter,단일분기,별도,,revenue_total,Revenue,51090.0,억원,,auto
 financial_indicator_2026Q1_10880,2025Q3,quarter,단일분기,별도,,revenue_total,Revenue,51090.0,억원,,auto
 financial_indicator_2026Q2_10892,2025Q3,quarter,단일분기,별도,,revenue_total,Revenue,51090.0,억원,,auto
+factsheet_2026-06_10891,2025Q3,quarter,시점,별도,,subs_5g,5G Handset*,11047979.0,명,,auto
+factsheet_2026-06_10891,2025Q3,quarter,시점,별도,,subs_mno,MNO,20271097.0,명,,auto
+factsheet_2026-06_10891,2025Q3,quarter,시점,별도,,subs_mvno,MVNO,8056624.0,명,,auto
+factsheet_2026-06_10891,2025Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,28327721.0,명,,auto
 dart_2025_11014_CFS,2025Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,430127.53,억원,,auto
 financial_indicator_2025Q3_10852,2025Q3,quarter,단일분기,연결,,ebitda,EBITDA,15039.0,억원,,auto
 financial_indicator_2025Q4_10870,2025Q3,quarter,단일분기,연결,,ebitda,EBITDA,15039.0,억원,,auto
@@ -15440,6 +16645,7 @@ financial_indicator_2025Q3_10852,2025Q3,quarter,단일분기,연결,,revenue_tot
 financial_indicator_2025Q4_10870,2025Q3,quarter,단일분기,연결,,revenue_total,Revenue,71267.0,억원,,auto
 financial_indicator_2026Q1_10880,2025Q3,quarter,단일분기,연결,,revenue_total,Revenue,71267.0,억원,,auto
 financial_indicator_2026Q2_10892,2025Q3,quarter,단일분기,연결,,revenue_total,Revenue,71267.0,억원,,auto
+factsheet_2026-06_10891,2025Q4,quarter,시점,별도,,arpu_wireless,ARPU,35335.04,원,,auto
 financial_indicator_2025Q4_10870,2025Q4,quarter,단일분기,별도,,capex_total,Capex,8144.0,억원,,auto
 financial_indicator_2026Q1_10880,2025Q4,quarter,단일분기,별도,,capex_total,Capex,8144.0,억원,,auto
 financial_indicator_2026Q2_10892,2025Q4,quarter,단일분기,별도,,capex_total,Capex,8144.0,억원,,auto
@@ -15464,6 +16670,10 @@ financial_indicator_2026Q2_10892,2025Q4,quarter,단일분기,별도,,revenue_ser
 financial_indicator_2025Q4_10870,2025Q4,quarter,단일분기,별도,,revenue_total,Revenue,47602.0,억원,,auto
 financial_indicator_2026Q1_10880,2025Q4,quarter,단일분기,별도,,revenue_total,Revenue,47602.0,억원,,auto
 financial_indicator_2026Q2_10892,2025Q4,quarter,단일분기,별도,,revenue_total,Revenue,47602.0,억원,,auto
+factsheet_2026-06_10891,2025Q4,quarter,시점,별도,,subs_5g,5G Handset*,11156281.0,명,,auto
+factsheet_2026-06_10891,2025Q4,quarter,시점,별도,,subs_mno,MNO,20617517.0,명,,auto
+factsheet_2026-06_10891,2025Q4,quarter,시점,별도,,subs_mvno,MVNO,8367532.0,명,,auto
+factsheet_2026-06_10891,2025Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,28985049.0,명,,auto
 financial_indicator_2025Q4_10870,2025Q4,quarter,단일분기,연결,,ebitda,EBITDA,11973.0,억원,,auto
 financial_indicator_2026Q1_10880,2025Q4,quarter,단일분기,연결,,ebitda,EBITDA,11973.0,억원,,auto
 financial_indicator_2026Q2_10892,2025Q4,quarter,단일분기,연결,,ebitda,EBITDA,11973.0,억원,,auto
@@ -15485,6 +16695,38 @@ financial_indicator_2026Q2_10892,2025Q4,quarter,단일분기,연결,,revenue_ser
 financial_indicator_2025Q4_10870,2025Q4,quarter,단일분기,연결,,revenue_total,Revenue,68450.0,억원,,auto
 financial_indicator_2026Q1_10880,2025Q4,quarter,단일분기,연결,,revenue_total,Revenue,68450.0,억원,,auto
 financial_indicator_2026Q2_10892,2025Q4,quarter,단일분기,연결,,revenue_total,Revenue,68450.0,억원,,auto
+factsheet_2026-06_10891,2026-01,month,시점,별도,,subs_broadband,Broadband,10159316.0,명,,auto
+factsheet_2026-06_10891,2026-01,month,시점,별도,,subs_iptv,Genie TV,9509661.0,명,,auto
+factsheet_2026-06_10891,2026-01,month,시점,별도,,subs_pstn,PSTN,7668535.0,명,,auto
+factsheet_2026-06_10891,2026-01,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),10836104.0,명,,auto
+factsheet_2026-06_10891,2026-01,month,시점,별도,,subs_voip,VoIP,3167569.0,명,,auto
+factsheet_2026-06_10891,2026-02,month,시점,별도,,subs_broadband,Broadband,10168373.0,명,,auto
+factsheet_2026-06_10891,2026-02,month,시점,별도,,subs_iptv,Genie TV,9512012.0,명,,auto
+factsheet_2026-06_10891,2026-02,month,시점,별도,,subs_pstn,PSTN,7629238.0,명,,auto
+factsheet_2026-06_10891,2026-02,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),10793400.0,명,,auto
+factsheet_2026-06_10891,2026-02,month,시점,별도,,subs_voip,VoIP,3164162.0,명,,auto
+factsheet_2026-06_10891,2026-03,month,시점,별도,,subs_broadband,Broadband,10187835.0,명,,auto
+factsheet_2026-03_10883,2026-03,month,시점,별도,,subs_iptv,Genie TV,9519699.0,명,,auto
+factsheet_2026-06_10891,2026-03,month,시점,별도,,subs_iptv,Genie TV,9520334.0,명,,auto
+factsheet_2026-06_10891,2026-03,month,시점,별도,,subs_pstn,PSTN,7578235.0,명,,auto
+factsheet_2026-06_10891,2026-03,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),10739611.0,명,,auto
+factsheet_2026-06_10891,2026-03,month,시점,별도,,subs_voip,VoIP,3161376.0,명,,auto
+factsheet_2026-06_10891,2026-04,month,시점,별도,,subs_broadband,Broadband,10204566.0,명,,auto
+factsheet_2026-06_10891,2026-04,month,시점,별도,,subs_iptv,Genie TV,9529217.0,명,,auto
+factsheet_2026-06_10891,2026-04,month,시점,별도,,subs_pstn,PSTN,7533213.0,명,,auto
+factsheet_2026-06_10891,2026-04,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),10692242.0,명,,auto
+factsheet_2026-06_10891,2026-04,month,시점,별도,,subs_voip,VoIP,3159029.0,명,,auto
+factsheet_2026-06_10891,2026-05,month,시점,별도,,subs_broadband,Broadband,10218375.0,명,,auto
+factsheet_2026-06_10891,2026-05,month,시점,별도,,subs_iptv,Genie TV,9537482.0,명,,auto
+factsheet_2026-06_10891,2026-05,month,시점,별도,,subs_pstn,PSTN,7492254.0,명,,auto
+factsheet_2026-06_10891,2026-05,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),10650162.0,명,,auto
+factsheet_2026-06_10891,2026-05,month,시점,별도,,subs_voip,VoIP,3157908.0,명,,auto
+factsheet_2026-06_10891,2026-06,month,시점,별도,,subs_broadband,Broadband,10230596.0,명,,auto
+factsheet_2026-06_10891,2026-06,month,시점,별도,,subs_iptv,Genie TV,9543743.0,명,,auto
+factsheet_2026-06_10891,2026-06,month,시점,별도,,subs_pstn,PSTN,7446946.0,명,,auto
+factsheet_2026-06_10891,2026-06,month,시점,별도,,subs_telephony,Telephony (PSTN+VoIP),10602458.0,명,,auto
+factsheet_2026-06_10891,2026-06,month,시점,별도,,subs_voip,VoIP,3155512.0,명,,auto
+factsheet_2026-06_10891,2026Q1,quarter,시점,별도,,arpu_wireless,ARPU,34781.0,원,,auto
 financial_indicator_2026Q1_10880,2026Q1,quarter,단일분기,별도,,capex_total,Capex,3042.0,억원,,auto
 financial_indicator_2026Q2_10892,2026Q1,quarter,단일분기,별도,,capex_total,Capex,3042.0,억원,,auto
 financial_indicator_2026Q1_10880,2026Q1,quarter,단일분기,별도,,ebitda,EBITDA,11106.0,억원,,auto
@@ -15501,6 +16743,10 @@ financial_indicator_2026Q1_10880,2026Q1,quarter,단일분기,별도,,revenue_ser
 financial_indicator_2026Q2_10892,2026Q1,quarter,단일분기,별도,,revenue_service,- Service revenue,40691.0,억원,,auto
 financial_indicator_2026Q1_10880,2026Q1,quarter,단일분기,별도,,revenue_total,Revenue,48346.0,억원,,auto
 financial_indicator_2026Q2_10892,2026Q1,quarter,단일분기,별도,,revenue_total,Revenue,48346.0,억원,,auto
+factsheet_2026-06_10891,2026Q1,quarter,시점,별도,,subs_5g,5G Handset*,11070189.0,명,,auto
+factsheet_2026-06_10891,2026Q1,quarter,시점,별도,,subs_mno,MNO,20412864.0,명,,auto
+factsheet_2026-06_10891,2026Q1,quarter,시점,별도,,subs_mvno,MVNO,8748718.0,명,,auto
+factsheet_2026-06_10891,2026Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,29161582.0,명,,auto
 financial_indicator_2026Q1_10880,2026Q1,quarter,단일분기,연결,,ebitda,EBITDA,14400.0,억원,,auto
 financial_indicator_2026Q2_10892,2026Q1,quarter,단일분기,연결,,ebitda,EBITDA,14400.0,억원,,auto
 financial_indicator_2026Q1_10880,2026Q1,quarter,단일분기,연결,,net_profit,Net Income,3883.0,억원,,auto
@@ -15515,6 +16761,7 @@ financial_indicator_2026Q1_10880,2026Q1,quarter,단일분기,연결,,revenue_ser
 financial_indicator_2026Q2_10892,2026Q1,quarter,단일분기,연결,,revenue_service,- Service revenue,57334.0,억원,,auto
 financial_indicator_2026Q1_10880,2026Q1,quarter,단일분기,연결,,revenue_total,Revenue,67784.0,억원,,auto
 financial_indicator_2026Q2_10892,2026Q1,quarter,단일분기,연결,,revenue_total,Revenue,67784.0,억원,,auto
+factsheet_2026-06_10891,2026Q2,quarter,시점,별도,,arpu_wireless,ARPU,34412.0,원,,auto
 financial_indicator_2026Q2_10892,2026Q2,quarter,단일분기,별도,,capex_total,Capex,4138.0,억원,,auto
 financial_indicator_2026Q2_10892,2026Q2,quarter,단일분기,별도,,ebitda,EBITDA,11717.0,억원,,auto
 financial_indicator_2026Q2_10892,2026Q2,quarter,단일분기,별도,,net_profit,Net Income,2853.0,억원,,auto
@@ -15523,6 +16770,10 @@ financial_indicator_2026Q2_10892,2026Q2,quarter,단일분기,별도,,opex_deprec
 financial_indicator_2026Q2_10892,2026Q2,quarter,단일분기,별도,,revenue_goods,- Handset revenue,4442.0,억원,,auto
 financial_indicator_2026Q2_10892,2026Q2,quarter,단일분기,별도,,revenue_service,- Service revenue,40793.0,억원,,auto
 financial_indicator_2026Q2_10892,2026Q2,quarter,단일분기,별도,,revenue_total,Revenue,45235.0,억원,,auto
+factsheet_2026-06_10891,2026Q2,quarter,시점,별도,,subs_5g,5G Handset*,11147138.0,명,,auto
+factsheet_2026-06_10891,2026Q2,quarter,시점,별도,,subs_mno,MNO,20453212.0,명,,auto
+factsheet_2026-06_10891,2026Q2,quarter,시점,별도,,subs_mvno,MVNO,9047886.0,명,,auto
+factsheet_2026-06_10891,2026Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,29501098.0,명,,auto
 financial_indicator_2026Q2_10892,2026Q2,quarter,단일분기,연결,,ebitda,EBITDA,15894.0,억원,,auto
 financial_indicator_2026Q2_10892,2026Q2,quarter,단일분기,연결,,net_profit,Net Income,4806.0,억원,,auto
 financial_indicator_2026Q2_10892,2026Q2,quarter,단일분기,연결,,net_profit_controlling,Net income attributable to KT,4401.0,억원,,auto
