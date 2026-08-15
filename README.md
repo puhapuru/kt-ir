@@ -22,9 +22,18 @@ build/kt_ir.sqlite                   조회용. CSV 에서 만든다 (커밋 안
 python3 collect.py --dry-run              # 새로 올라온 것만 본다
 python3 collect.py --download             # 신규 원본을 raw/ 에 받는다
 python3 collect.py --download --all       # 누적 전체 (이미 받은 것은 건너뛴다)
+
+python3 -m venv .venv && .venv/bin/pip install openpyxl     # 처음 한 번
+.venv/bin/python scripts/extract_findicator.py --report     # 진단만
+.venv/bin/python scripts/extract_findicator.py              # facts.csv 를 쓴다
+
 python3 scripts/build_db.py --check       # CSV → SQLite, 끊긴 참조 점검
 python3 scripts/test_period.py            # 기간 파싱 회귀 시험 (인터넷 안 씀)
 ```
+
+지금 담긴 것: **손익·CAPEX 14,636개** (2008~2025, 연결·별도). Financial
+Indicator(XLSX) 59개 분기에서 뽑았다. ARPU·가입자 수는 Factsheet 에 있고
+아직 안 뽑았다.
 
 ```bash
 sqlite3 build/kt_ir.sqlite \
@@ -89,6 +98,24 @@ ndr_2026Q2_10893,2026Q2,quarter,단일분기,연결,revenue_total,영업수익,6
 
 재무 수치를 PDF 에서 긁는 것은 먼 길이다. `financial_indicator` 가 XLSX 라
 그쪽이 IR 자료 중에서는 가장 쉽다.
+
+## 추출에서 가장 조심할 것 — 단위 ★
+
+**머리글의 `(Billion KRW)` 는 거짓이다.** 실제 단위가 **칸마다** 다르다.
+2020Q4 별도 시트 실측:
+
+    Revenue       2015 = 16942.4      2016 = 17,028,868   ← 같은 줄인데 바뀐다
+    Capex         2015 = 2397         2016 = 2359         ← 이 줄은 안 바뀐다
+    Depreciation  2015 = 3010.2       2016 = 3,005,383    ← 이 줄은 바뀐다
+
+열로도 행으로도 못 가른다. 그래서 **값 하나하나**를 지표별 상식 범위
+(`METRIC_RANGE_억`)에 견주어 십억원인지 백만원인지 정한다. 둘 다 맞거나 둘 다
+안 맞으면 **그 값을 버리고 경고를 남긴다** — 넘겨짚느니 빠지는 편이 낫다.
+
+**검산이 그물이다.** 분기 4개 합이 연간과 맞는지 본다. 1000배 어긋나면
+`[단위의심]`(추출 잘못), 몇 % 어긋나면 `[값차이]`(KT 가 연간만 재작성한 것)로
+갈라 센다. 지금 **단위의심 0건 · 값차이 6건**이고, 그 6건은 2023년 서비스/상품
+매출 재분류라 합계는 맞는다(263,762 = 263,763).
 
 ## 조심할 것
 

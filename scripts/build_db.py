@@ -33,7 +33,8 @@ TABLES = {
     ],
     "facts": [
         "report_id", "period", "period_type", "basis", "consolidation",
-        "metric_id", "label_raw", "value", "unit", "page", "confidence",
+        "accounting", "metric_id", "label_raw", "value", "unit", "page",
+        "confidence",
     ],
 }
 
@@ -79,6 +80,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
             period_type   TEXT,
             basis         TEXT,
             consolidation TEXT,
+            accounting    TEXT,
             metric_id     TEXT,
             label_raw     TEXT,
             value         REAL,

@@ -18,3 +18,10 @@ subs_5g,5G 가입자,영업지표,천명,subs_wireless,
 subs_broadband,초고속인터넷 가입자,영업지표,천명,,
 subs_iptv,IPTV 가입자,영업지표,천명,,
 employees,직원 수,인력,명,,기간말 임직원 수
+revenue_service,서비스 매출,손익,억원,revenue_total,단말 판매를 뺀 서비스 매출
+revenue_goods,상품(단말) 매출,손익,억원,revenue_total,단말기 등 상품 판매 매출
+ebitda,EBITDA,손익,억원,,영업이익 + 감가상각비
+net_profit_controlling,지배주주 순이익,손익,억원,net_profit,연결 기준 지배주주 귀속분
+capex_access,가입자망 CAPEX,투자,억원,capex_total,
+capex_backbone,기간망 CAPEX,투자,억원,capex_total,
+capex_b2b,B2B CAPEX,투자,억원,capex_total,
