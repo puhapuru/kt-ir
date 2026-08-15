@@ -61,7 +61,13 @@ _WORD = re.compile(
     r'xMax="([\d.eE+-]+)" yMax="([\d.eE+-]+)">(.*?)</word>', re.S)
 _PAGE = re.compile(r'<page width="[\d.]+" height="[\d.]+">(.*?)</page>', re.S)
 _QLABEL = re.compile(r"^([1-4])Q\s?'?(\d{2})$", re.I)
-_NUM = re.compile(r"^[\d,]+\.\d$")
+# 차트 값. **소수점이 없는 자료가 많다** — 2015년 무선 서비스 매출은
+# `1,654` 처럼 정수로 적혀 있어서, 소수점을 요구했더니 2021년 이전이 통째로
+# 안 잡혔다(72건 중 62건 실패의 주된 원인).
+#
+# **천 단위 쉼표는 반드시 요구한다.** 쉼표 없는 네 자리를 받으면 연도(`2015`)가
+# 값 범위(1,200~2,400)에 들어와 매출로 둔갑한다.
+_NUM = re.compile(r"^\d{1,3}(?:,\d{3})+(?:\.\d+)?$")
 
 
 def pdf_words(path: Path) -> list[list[tuple[float, float, str]]]:
@@ -135,7 +141,8 @@ def read_pdf(path: Path, report_id: str, warn: list) -> list[dict]:
     for page in pdf_words(path):
         text = " ".join(t for _, _, t in page)
         # `KT – 무선` 쪽이고 서비스매출 차트가 있는 쪽만 본다.
-        if "무선" not in text or "서비스매출" not in text.replace(" ", ""):
+        flat = text.replace(" ", "")
+        if "무선" not in text or "서비스매출" not in flat:
             continue
         axis_y, axis = find_axis(page)
         if not axis:

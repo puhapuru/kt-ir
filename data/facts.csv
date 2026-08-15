@@ -3296,6 +3296,7 @@ financial_indicator_2014Q3_182,2014Q3,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2014Q4_188,2014Q3,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,36376.31,억원,,auto
 financial_indicator_2014Q3_182,2014Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43723.97,억원,,auto
 financial_indicator_2014Q4_188,2014Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43723.97,억원,,auto
+ndr_2015Q3_83,2014Q3,quarter,단일분기,별도,K-IFRS,revenue_wireless,서비스매출(무선),16030.0,억원,,auto
 factsheet_2015-09_501,2014Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,17954517.0,명,,auto
 factsheet_2022-12_10611,2014Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,17952122.0,명,,auto
 financial_indicator_2014Q3_182,2014Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12802.89,억원,,auto
@@ -3340,6 +3341,7 @@ financial_indicator_2014Q4_188,2014Q4,quarter,단일분기,별도,,opex_deprecia
 financial_indicator_2014Q4_188,2014Q4,quarter,단일분기,별도,K-IFRS,revenue_goods,- Merchandise,6395.02,억원,,auto
 financial_indicator_2014Q4_188,2014Q4,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,35206.12,억원,,auto
 financial_indicator_2014Q4_188,2014Q4,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41601.15,억원,,auto
+ndr_2015Q3_83,2014Q4,quarter,단일분기,별도,K-IFRS,revenue_wireless,서비스매출(무선),16540.0,억원,,auto
 factsheet_2015-09_501,2014Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,18080250.0,명,,auto
 factsheet_2022-12_10611,2014Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,18052746.0,명,,auto
 financial_indicator_2014Q4_188,2014Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,9943.26,억원,,auto
@@ -3944,6 +3946,7 @@ financial_indicator_2015Q1_193,2015Q1,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2015Q2_198,2015Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41334.43,억원,,auto
 financial_indicator_2015Q3_203,2015Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41334.43,억원,,auto
 financial_indicator_2015Q4_208,2015Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41334.43,억원,,auto
+ndr_2015Q3_83,2015Q1,quarter,단일분기,별도,K-IFRS,revenue_wireless,서비스매출(무선),16000.0,억원,,auto
 factsheet_2015-09_501,2015Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,18243000.0,명,,auto
 factsheet_2022-12_10611,2015Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,18178167.0,명,,auto
 financial_indicator_2015Q1_193,2015Q1,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11627.33,억원,,auto
@@ -4001,6 +4004,7 @@ financial_indicator_2015Q4_208,2015Q2,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2015Q2_198,2015Q2,quarter,단일분기,별도,,revenue_total,Revenue,41970.73,억원,,auto
 financial_indicator_2015Q3_203,2015Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41970.73,억원,,auto
 financial_indicator_2015Q4_208,2015Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41970.73,억원,,auto
+ndr_2015Q3_83,2015Q2,quarter,단일분기,별도,K-IFRS,revenue_wireless,서비스매출(무선),16280.0,억원,,auto
 factsheet_2015-09_501,2015Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,18471000.0,명,,auto
 factsheet_2022-12_10611,2015Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,18368379.0,명,,auto
 financial_indicator_2015Q2_198,2015Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12055.74,억원,,auto
@@ -4043,6 +4047,7 @@ financial_indicator_2015Q3_203,2015Q3,quarter,단일분기,별도,K-IFRS,revenue
 financial_indicator_2015Q4_208,2015Q3,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,36018.04,억원,,auto
 financial_indicator_2015Q3_203,2015Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41632.37,억원,,auto
 financial_indicator_2015Q4_208,2015Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41632.37,억원,,auto
+ndr_2015Q3_83,2015Q3,quarter,단일분기,별도,K-IFRS,revenue_wireless,서비스매출(무선),16390.0,억원,,auto
 factsheet_2022-12_10611,2015Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,18514207.0,명,,auto
 financial_indicator_2015Q3_203,2015Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11743.4,억원,,auto
 financial_indicator_2015Q4_208,2015Q3,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,11743.4,억원,,auto
@@ -4723,6 +4728,7 @@ dart_2016_11014_OFS,2016Q3,quarter,단일분기,별도,K-IFRS,revenue_total,영�
 dart_2016_11014_OFS,2016Q3,quarter,누적,별도,K-IFRS,revenue_total,영업수익,125059.52,억원,,auto
 financial_indicator_2016Q3_223,2016Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41015.59,억원,,auto
 financial_indicator_2016Q4_228,2016Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41015.59,억원,,auto
+ndr_2017Q3_10032,2016Q3,quarter,단일분기,별도,K-IFRS,revenue_wireless,서비스매출(무선),16670.0,억원,,auto
 factsheet_2022-11_10606,2016Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,19236344.0,명,,auto
 factsheet_2022-12_10611,2016Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,18677947.0,명,,auto
 dart_2016_11014_CFS,2016Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,301358.12,억원,,auto
@@ -4761,6 +4767,7 @@ financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,별도,,opex_deprecia
 financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,별도,K-IFRS,revenue_goods,- Merchandise,9385.15,억원,,auto
 financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,별도,K-IFRS,revenue_service,- Service,35844.01,억원,,auto
 financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,45229.16,억원,,auto
+ndr_2017Q3_10032,2016Q4,quarter,단일분기,별도,K-IFRS,revenue_wireless,서비스매출(무선),16480.0,억원,,auto
 factsheet_2022-11_10606,2016Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,19397464.0,명,,auto
 factsheet_2022-12_10611,2016Q4,quarter,시점,별도,,subs_wireless,Total Wireless Service,18891794.0,명,,auto
 financial_indicator_2016Q4_228,2016Q4,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,10760.22,억원,,auto
@@ -5402,6 +5409,7 @@ financial_indicator_2022Q4_10614,2017Q1,quarter,단일분기,별도,K-IFRS,reven
 financial_indicator_2023Q1_10648,2017Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41614.18,억원,,auto
 financial_indicator_2023Q2_10675,2017Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41614.18,억원,,auto
 financial_indicator_2023Q3_10697,2017Q1,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,41614.18,억원,,auto
+ndr_2017Q3_10032,2017Q1,quarter,단일분기,별도,K-IFRS,revenue_wireless,서비스매출(무선),16200.0,억원,,auto
 factsheet_2017-06_536,2017Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,19670036.0,명,,auto
 factsheet_2022-12_10611,2017Q1,quarter,시점,별도,,subs_wireless,Total Wireless Service,19689033.0,명,,auto
 dart_2017_11013_CFS,2017Q1,quarter,시점,연결,K-IFRS,assets_total,자산총계,301025.96,억원,,auto
@@ -5796,6 +5804,7 @@ financial_indicator_2022Q4_10614,2017Q2,quarter,단일분기,별도,K-IFRS,reven
 financial_indicator_2023Q1_10648,2017Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,42925.82,억원,,auto
 financial_indicator_2023Q2_10675,2017Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,42925.82,억원,,auto
 financial_indicator_2023Q3_10697,2017Q2,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,42925.82,억원,,auto
+ndr_2017Q3_10032,2017Q2,quarter,단일분기,별도,K-IFRS,revenue_wireless,서비스매출(무선),16320.0,억원,,auto
 factsheet_2022-12_10611,2017Q2,quarter,시점,별도,,subs_wireless,Total Wireless Service,19918000.0,명,,auto
 dart_2017_11012_CFS,2017Q2,quarter,시점,연결,K-IFRS,assets_total,자산총계,278255.03,억원,,auto
 financial_indicator_2017Q2_238,2017Q2,quarter,단일분기,연결,K-IFRS,ebitda,EBITDA,12882.68,억원,,auto
@@ -6169,6 +6178,7 @@ financial_indicator_2022Q4_10614,2017Q3,quarter,단일분기,별도,K-IFRS,reven
 financial_indicator_2023Q1_10648,2017Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43120.23,억원,,auto
 financial_indicator_2023Q2_10675,2017Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43120.23,억원,,auto
 financial_indicator_2023Q3_10697,2017Q3,quarter,단일분기,별도,K-IFRS,revenue_total,Revenue,43120.23,억원,,auto
+ndr_2017Q3_10032,2017Q3,quarter,단일분기,별도,K-IFRS,revenue_wireless,서비스매출(무선),16470.0,억원,,auto
 factsheet_2022-11_10606,2017Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,20140112.0,명,,auto
 factsheet_2022-12_10611,2017Q3,quarter,시점,별도,,subs_wireless,Total Wireless Service,19795265.0,명,,auto
 dart_2017_11014_CFS,2017Q3,quarter,시점,연결,K-IFRS,assets_total,자산총계,293729.95,억원,,auto
@@ -14715,6 +14725,7 @@ financial_indicator_2025Q3_10852,2023Q1,quarter,단일분기,별도,,revenue_tot
 financial_indicator_2025Q4_10870,2023Q1,quarter,단일분기,별도,,revenue_total,Revenue,46190.0,억원,,auto
 financial_indicator_2026Q1_10880,2023Q1,quarter,단일분기,별도,,revenue_total,Revenue,46190.0,억원,,auto
 financial_indicator_2026Q2_10892,2023Q1,quarter,단일분기,별도,,revenue_total,Revenue,46190.0,억원,,auto
+ndr_2024Q1_10752,2023Q1,quarter,단일분기,별도,K-IFRS,revenue_wireless,서비스매출(무선),16186.0,억원,,auto
 factsheet_2026-06_10891,2023Q1,quarter,시점,별도,,subs_5g,5G Handset*,8796271.0,명,,auto
 factsheet_2026-06_10891,2023Q1,quarter,시점,별도,,subs_mno,MNO,17505108.0,명,,auto
 factsheet_2026-06_10891,2023Q1,quarter,시점,별도,,subs_mvno,MVNO,6826672.0,명,,auto
