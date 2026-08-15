@@ -157,6 +157,16 @@ def read_pdf(path: Path, report_id: str, warn: list) -> list[dict]:
         if len(got) != len(axis):
             warn.append(f"{report_id}: 값 {len(got)}개 ≠ 분기 {len(axis)}개 — 버림")
             continue
+
+        # **한 계열 안에서 값이 크게 튀면 짝짓기가 틀린 것이다.**
+        # 무선 매출은 분기마다 몇 % 움직인다. 실제로 2018Q3 자료 6쪽에서
+        # 개수는 6/6 으로 맞았는데 한 칸만 1,215 였다(나머지는 1,63x~1,67x) —
+        # 옆 차트 숫자가 끼어든 것이다. 개수 검사만으로는 이걸 못 잡는다.
+        vals = sorted(got.values())
+        mid = vals[len(vals) // 2]
+        if any(abs(v - mid) > mid * 0.15 for v in vals):
+            warn.append(f"{report_id}: 값이 튄다({min(vals):,.0f}~{max(vals):,.0f}) — 버림")
+            continue
         for period, v in got.items():
             facts.append({
                 "report_id": report_id, "period": period, "period_type": "quarter",
