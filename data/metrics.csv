@@ -25,3 +25,9 @@ net_profit_controlling,지배주주 순이익,손익,억원,net_profit,연결 �
 capex_access,가입자망 CAPEX,투자,억원,capex_total,
 capex_backbone,기간망 CAPEX,투자,억원,capex_total,
 capex_b2b,B2B CAPEX,투자,억원,capex_total,
+assets_total,자산총계,재무상태,억원,,
+liabilities_total,부채총계,재무상태,억원,,
+equity_total,자본총계,재무상태,억원,,
+employees_regular,정규직 수,인력,명,employees,기간의 정함이 없는 근로자
+employees_contract,기간제 수,인력,명,employees,계약직·기간제 근로자
+opex_labor_disclosed,연간급여총액(공시),인력,억원,,사업보고서 직원현황의 급여 총액

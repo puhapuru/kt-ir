@@ -54,6 +54,10 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+import factstore as FS
+
 try:
     import openpyxl
 except ImportError:
@@ -355,14 +359,10 @@ def main() -> None:
         print("\n(--report 라 파일을 쓰지 않았다)")
         return
 
-    facts.sort(key=lambda f: (f["period"], f["consolidation"], f["metric_id"], f["report_id"]))
-    tmp = FACTS_CSV.with_suffix(".tmp")
-    with tmp.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=FACTS_COLUMNS)
-        w.writeheader()
-        w.writerows(facts)
-    tmp.replace(FACTS_CSV)
-    print(f"\n{FACTS_CSV.relative_to(REPO_DIR)} — {len(facts):,}행")
+    # **자기 몫만 갈아 끼운다.** 파일을 통째로 덮어쓰면 DART 등 다른 추출기가
+    # 넣어 둔 줄이 사라진다.
+    removed, added = FS.replace_facts("financial_indicator_", facts)
+    print(f"\nfacts.csv — 기존 {removed:,}줄 걷어내고 {added:,}줄 넣음")
 
 
 if __name__ == "__main__":
