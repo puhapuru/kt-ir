@@ -3,7 +3,7 @@
 # 사용: ./scripts/ask_qwen.sh "명세 텍스트"  또는  ./scripts/ask_qwen.sh -f spec.md
 set -euo pipefail
 : "${QWEN_HOST:=http://100.99.168.90:11434}"   # 데스크톱, Tailscale 주소
-: "${QWEN_MODEL:=qwen2.5-coder:14b-instruct}"
+: "${QWEN_MODEL:=mistral-nemo:12b-instruct-2407-q4_K_M}"
 
 if [[ "${1:-}" == "-f" ]]; then
   PROMPT="$(cat "$2")"
