@@ -177,10 +177,8 @@ NDR이 아닌 분기별 실적발표(Earnings Presentation) PDF에 부문별 매
 - 필요해지면 `.env` 또는 GitHub Actions 시크릿으로 둔다.
 - 크롤러 인증·쿠키 처리가 필요하면 여기서 논의한다.
 
-## Qwen 위임 정책 ★
+## 로컬 모델 코딩 위임 (폐기, 2026-08-22)
 
-**전 프로젝트 공통 정책은 노트북 최상위 `~/CLAUDE.md`의 "0.6 나는 PM, 로컬 Qwen은 초·중급 프로그래머" 참고.**
-요약: 코딩은 원칙적으로 Qwen이 먼저 하고 Claude가 검증한다. 인터페이스·데이터 모델 설계, 동시성/에러 처리 전략, 디버깅, 여러 파일에 걸친 변경은 Claude가 직접 한다.
-
-호출: `./scripts/ask_local.sh "명세"` 또는 `-f spec.md` (원본은 `voxbot/scripts/ask_local.sh`, 없으면 복사해 온다).
-Qwen 출력은 반드시 검토 후 커밋하고, 위임할 때마다 `~/qwen-delegation-log.md`에 성과를 기록한다(당분간 유지).
+`./scripts/ask_local.sh` 로 로컬 Ollama 모델에 코딩을 위임하던 정책은
+중단했다(성공률 낮아 실효 없음, `~/AGENTS.md` 0.6절 참고). 코딩은 이제
+전부 Claude가 직접 한다.
