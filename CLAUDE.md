@@ -182,5 +182,5 @@ NDR이 아닌 분기별 실적발표(Earnings Presentation) PDF에 부문별 매
 **전 프로젝트 공통 정책은 노트북 최상위 `~/CLAUDE.md`의 "0.6 나는 PM, 로컬 Qwen은 초·중급 프로그래머" 참고.**
 요약: 코딩은 원칙적으로 Qwen이 먼저 하고 Claude가 검증한다. 인터페이스·데이터 모델 설계, 동시성/에러 처리 전략, 디버깅, 여러 파일에 걸친 변경은 Claude가 직접 한다.
 
-호출: `./scripts/ask_qwen.sh "명세"` 또는 `-f spec.md` (원본은 `voxbot/scripts/ask_qwen.sh`, 없으면 복사해 온다).
+호출: `./scripts/ask_local.sh "명세"` 또는 `-f spec.md` (원본은 `voxbot/scripts/ask_local.sh`, 없으면 복사해 온다).
 Qwen 출력은 반드시 검토 후 커밋하고, 위임할 때마다 `~/qwen-delegation-log.md`에 성과를 기록한다(당분간 유지).
