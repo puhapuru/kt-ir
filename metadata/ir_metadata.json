@@ -1,12 +1,25 @@
 {
-  "lastCollected": "2026-08-17T10:05:37.930158+00:00",
+  "lastCollected": "2026-08-24T10:09:40.280360+00:00",
   "apiVersion": "BS00000008",
   "counts": {
-    "01": 298,
+    "01": 299,
     "02": 59,
     "03": 125
   },
   "items": [
+    {
+      "bno": "10897",
+      "genlCtgType": "01",
+      "genlCtgTypeNm": "가입자 현황",
+      "btitle": "IR Factsheet 2026, 7월호",
+      "regDate": "2026.08.24 11:12:36:573",
+      "fileNo": "12034",
+      "saveFileNm": "KT IR Factsheet_26.07.xlsx",
+      "saveFileSize": "398925",
+      "saveFilePath": "/attach/irdata/10897/",
+      "downloadUrl": "https://corp.kt.com/attach/irdata/10897/KT%20IR%20Factsheet_26.07.xlsx",
+      "collectedAt": "2026-08-24T10:09:40.278021+00:00"
+    },
     {
       "bno": "10893",
       "genlCtgType": "03",
